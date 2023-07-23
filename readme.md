@@ -12,7 +12,7 @@ This tool performs a series of exploration analysis in the two datasets about co
 - Ranking of cities according to the residential percentage change together with the overall cases normalized
 - City clustering by behavior of the time series built with the cases/deaths/residential change aggregated by week. This analysis aims at showing how discoordinated the efforts to restrain the disease were along the cities, not just because of being a large country but because of the miscommunication that occurred across the government layers.
 
-You can see a live demo [here](https://yascoma-dashboard-streamlit-movies-run-ve6r4i.streamlit.app/)
+You can see a live demo [here](https://dashboard-srag-mobility-pipn9w3yh7p.streamlit.app/)
 
 <div style="text-align: center">
 	<img src="dash_screenshot.png" alt="pipeline" title="srag-mobility dashboard" width="680px" />

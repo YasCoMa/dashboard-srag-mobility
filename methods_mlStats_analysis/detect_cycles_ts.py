@@ -1,7 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import plotly.express as px
-from cydets.algorithm import detect_cycles
 
 def find_waves_cities():
     g=open("waves_cities.tsv","w")

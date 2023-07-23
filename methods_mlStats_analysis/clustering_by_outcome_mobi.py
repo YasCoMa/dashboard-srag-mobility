@@ -10,11 +10,63 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from scipy.spatial import distance
 
-def generate_groups(X, k):
-    m = KMeans(n_clusters=k, random_state=0).fit(X)
-    y = m.labels_
-    return y
+# ---------- Prepare input matrix ---------------
+def make_input():
+    if(not os.path.isfile('x_clustering.json')):
+        ts = pd.read_csv('../filtered_data/time_series_mobility_cases.tsv.gz', sep='\t', compression='gzip')
+        possible_xs=[]
+        for i in ['2020','2021','2022']:
+            for j in range(1, 60):
+                j=str(j)
+                if(len(j)==1):
+                    j='0'+j
+                possible_xs.append(i+'-w'+j)
+        
+        outs=['Cases','Deaths']
+        existing_xs = set(ts['period'].unique())
+        newcols = {}
+        for p in possible_xs:
+            if(p in existing_xs):
+                newcols[p] = 0
+        
+        # each line is a city, goal is clustering cities using cases, and after using mobi residential, and calculate clusters overlapping in the two scenarios
+        cities = list(ts['city'].unique())
+        outcomes = ['Cases','Deaths', 'mobility']
+        
+        xs = {}
+        for o in outcomes:
+            xs[o]=[]
+        
+        ind=1
+        for c in cities:
+            for o in outcomes:
+                #o='Cases'
+                #for o in outcomes:
+                cond = "(ts['city']==c) & (ts['outcome']=='Cases')"
+                col='residential'
+                if( o!='mobility' ):
+                    cond = " (ts['city']==c) & (ts['outcome']==o)"
+                    col='agg_per_1000'
+                aux = newcols
+                f = ts[ eval(cond) & (ts['type_period']=='week') ][ ['period', 'agg_per_1000', 'residential'] ]
+                y = f[col].fillna(0).values
+                i=0
+                for k in f['period'].values:
+                    aux[k] = y[i]
+                    i+=1
+                xs[o].append( [ float(el) for el in list(aux.values()) ] )
+            print(ind, '/', len(cities))
+            ind+=1
+    
+        with open('x_clustering.json', 'w') as g:
+            json.dump(xs, g)
+    else:
+        with open('x_clustering.json', 'r') as g:
+            xs = json.load(g)
+            
+    return xs
 
+# ---------- Clustering by graph ---------------
 def cluster_by_network(cities, xs, cutoff):
     g = open("results_clustering_network.tsv","w")
     g.write(f"identifier\tid_cluster\tnumber_elements\tcities\n")
@@ -47,9 +99,16 @@ def run_simulation_network():
     ts = pd.read_csv('../filtered_data/time_series_mobility_cases.tsv.gz', sep='\t', compression='gzip')
     cities = list(ts['city'].unique())
     
-    with open('x_clustering.json', 'r') as g:
-        xs = json.load(g)
+    xs = make_input()
+    
     cluster_by_network(cities, xs, 10)    
+
+
+# ---------- Clustering by ml kmeans ---------------
+def generate_groups(X, k):
+    m = KMeans(n_clusters=k, random_state=0).fit(X)
+    y = m.labels_
+    return y
 
 def test_elbow_method(xs, cutoff):
     res={}
@@ -133,26 +192,6 @@ def test_elbow_method(xs, cutoff):
     return res
     
 def run_simulation():
-    possible_xs=[]
-    for i in ['2020','2021','2022']:
-        for j in range(1, 60):
-            j=str(j)
-            if(len(j)==1):
-                j='0'+j
-            possible_xs.append(i+'-w'+j)
-    
-    ts = pd.read_csv('../filtered_data/time_series_mobility_cases.tsv.gz', sep='\t', compression='gzip')
-    outs=['Cases','Deaths']
-    existing_xs = set(ts['period'].unique())
-    newcols = {}
-    for p in possible_xs:
-        if(p in existing_xs):
-            newcols[p] = 0
-    
-    # each line is a city, goal is clustering cities using cases, and after using mobi residential, and calculate clusters overlapping in the two scenarios
-    cities = list(ts['city'].unique())
-    outcomes = ['Cases','Deaths', 'mobility']
-    
     g = open("results_clustering_scenarios_outcome_from_mobility.tsv", "w")
     g.write("type_scenario\tvariable_column_x\tcity\tpredicted_cluster\n")
     g.close()
@@ -160,40 +199,10 @@ def run_simulation():
     # Scenario 1 - outcomes with cases
     # Scenario 2 - outcomes with mobility
     
-    if(not os.path.isfile('x_clustering.json')):
-        xs = {}
-        for o in outcomes:
-            xs[o]=[]
-        
-        ind=1
-        for c in cities:
-            for o in outcomes:
-                #o='Cases'
-                #for o in outcomes:
-                cond = "(ts['city']==c) & (ts['outcome']=='Cases')"
-                col='residential'
-                if( o!='mobility' ):
-                    cond = " (ts['city']==c) & (ts['outcome']==o)"
-                    col='agg_per_1000'
-                aux = newcols
-                f = ts[ eval(cond) & (ts['type_period']=='week') ][ ['period', 'agg_per_1000', 'residential'] ]
-                y = f[col].fillna(0).values
-                i=0
-                for k in f['period'].values:
-                    aux[k] = y[i]
-                    i+=1
-                xs[o].append( [ float(el) for el in list(aux.values()) ] )
-            print(ind, '/', len(cities))
-            ind+=1
-    
-        with open('x_clustering.json', 'w') as g:
-            json.dump(xs, g)
-    else:
-        with open('x_clustering.json', 'r') as g:
-            xs = json.load(g)
+    xs = make_input()
     
     res_elbow = test_elbow_method(xs, 0.01)
-    for o in outcomes:
+    for o in xs.keys():
         X = xs[o]
         col='residential'
         typ = o
@@ -210,6 +219,7 @@ def run_simulation():
                 g.write(f"{typ}\t{col}\t{cities[i]}\t{j}\n")
             i+=1
 
+# ---------- Pos processing analysis ---------------
 def get_closest_cluster_by_neighbor(sett, set_group):
     ma = -1
     best_k = 0
