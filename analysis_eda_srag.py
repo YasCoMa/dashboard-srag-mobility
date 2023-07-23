@@ -88,7 +88,7 @@ class DashboardEdaSrag:
             st.markdown("In srag dataset, the missing data portion is very low. From the columns that have more absent information, besides race and pregnancy are great indicators for directed epidemiological studies, in the case of pregnancy, this field was ignored in general by 20% or less of female records. In general, missing data in race column corresponds to a relevant portion that varies from 52% in Distrito Federal, maintains in in 25-32 in most of the states, and has a minimum of 3.83% in Acre.")
             
             st.markdown("The city names were normalized to uppercase and without accents in the original dataset. These city names were then mapped to the brazilian city names according to the [2022 census table](https://www.ibge.gov.br/estatisticas/sociais/trabalho/22827-censo-demografico-2022.html?edicao=35938). In all data, considering the years of 2020, 2021 and 2022, only 12 cities could not be mapped due to typos in the city names. The amoun of lost records by each wrong city is showed below.")
-            with open('../filtered_data/wrong-city-info.json', 'r') as g:
+            with open('filtered_data/wrong-city-info.json', 'r') as g:
                 cinfo = json.load(g)
             dt={}
             for c in cinfo:
