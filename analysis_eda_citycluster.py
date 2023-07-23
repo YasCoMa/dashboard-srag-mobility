@@ -119,7 +119,7 @@ class DashboardClustering:
             return_value = agraph(nodes=nodes, edges=edges, config=config)
             
     def eda_UI(self, dfts):
-        with open('x_clustering.json') as g:
+        with open('filtered_data/x_clustering.json') as g:
             x = json.load(g)
             
         mapc = st.container()
