@@ -27,6 +27,7 @@ You can see a live demo [here](https://dashboard-srag-mobility-pipn9w3yh7p.strea
 	- pip3 install scipy
 	- pip3 install numpy
 	- pip3 install networkx
+	- pip3 install unidecode
 	- pip3 install streamlit_agraph
 
 ## Usage Instructions

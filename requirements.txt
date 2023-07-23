@@ -6,4 +6,5 @@ networkx
 numpy
 scipy
 seaborn
+unidecode
 streamlit_agraph
