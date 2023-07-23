@@ -125,7 +125,7 @@ class DashboardEdaMobi:
             aux[c]={}
             
         for state in df['state'].unique():
-            f = df[ (df['state']==state) & (~df['city'].isna()) ].fillna(0).groupby('city').mean()
+            f = df[ (df['state']==state) & (~df['city'].isna()) ].fillna(0).groupby('city').mean(numeric_only=True)
             aux['Residential'][state] = f.loc[:, 'residential'].values
             aux[cat][state] = f.loc[:, ncat].values
             #print( state, len(aux[cat][state]), len(aux['Residential'][state]) )
