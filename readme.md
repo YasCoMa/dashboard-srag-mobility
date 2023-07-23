@@ -37,4 +37,4 @@ You can see a live demo [here](https://dashboard-srag-mobility-pipn9w3yh7p.strea
 	3. ````streamlit run run.py````
 	
 ## Advanced statistical and machine learning analysis on this data
-* Go to the specific instructions in *methods_mlStats_analysis* folder
+* Go to the specific instructions in [methods_mlStats_analysis folder](https://github.com/YasCoMa/dashboard-srag-mobility/tree/master/methods_mlStats_analysis)
