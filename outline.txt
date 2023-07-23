@@ -1,0 +1,43 @@
+streamlit run analysis.py
+
+Datasets:
+    ds1 - https://raw.githubusercontent.com/danielgrijalva/movie-stats/7c6a562377ab5c91bb80c405be50a0494ae8e582/movies.csv
+    ds2 - https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
+
+Guide layout and components:
+https://docs.streamlit.io/library/api-reference/layout
+https://earthly.dev/blog/streamlit-python-dashboard/
+https://github.com/ChrisDelClea/streamlit-agraph
+https://www.geeksforgeeks.org/python-imdbpy-retrieving-actor-from-the-movie-details/
+https://vgnshiyer.medium.com/link-prediction-in-a-social-network-df230c3d85e6
+https://gist.github.com/simonkamronn/e846d88b8660f1aba7edbeca9afa1bd9
+https://docs.streamlit.io/library/api-reference/status/st.info
+
+Deploy:
+https://docs.streamlit.io/knowledge-base/tutorials/deploy/kubernetes
+
+Questions ds1:
+    - part 1
+    - filter by review score, genre - ok
+    - boxplot to show
+    - world map mean budget or gross in countries rescale - ok
+    - histogram of votes - https://gist.github.com/simonkamronn/e846d88b8660f1aba7edbeca9afa1bd9
+    - Distribution  of votes, show score in a subsample that has a homogeneous distribution of votes - ok
+    
+    - part 2
+    - pairplot with score, time, gross and budget - ok
+    - Budgets have some correlation with high score? - ok
+    - Mean of movie time by score - ok
+        - feature engineering - separate movie time into categories (short, medium and high) and put on a boxplot where the y is the score - ok
+        - idem with score in categories, Filtering by country,where y is the budget - ok
+    - Companies with budgets and gross as stacked bars --- profit (mean gross - mean budget) - ok
+    - median gross/budget/time aggregating by min max or avg, along the year ranges (five) - ok
+    
+    - part 3
+    - top 10 actors in high score movies
+    - most sucessful writers
+    - graph where the x are the top 10 actor stars ordered by participation in movies above 7 score, stacked bars showing participation in movies with hgh and medium score ranges
+    - network of stars filtered by score range
+        - get imdb actors of a movie and show semantic graph
+
+

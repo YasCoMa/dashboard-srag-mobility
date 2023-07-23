@@ -1,0 +1,951 @@
+city	number_periods	cases
+Viradouro	20	33
+São Miguel Arcanjo	29	44
+Jarinu	16	22
+Cajuru	19	30
+Ibaté	36	68
+Conchal	26	44
+Cafelândia	20	28
+Junqueirópolis	13	19
+Artur Nogueira	52	136
+Sales Oliveira	21	34
+Ibiúna	21	53
+Lorena	11	53
+Mineiros do Tietê	18	32
+Martinópolis	40	106
+Charqueada	4	5
+Arealva	16	19
+Torrinha	11	19
+Aguaí	6	7
+Itirapina	25	44
+Cachoeira Paulista	9	11
+Tupi Paulista	14	16
+Piratininga	44	86
+Igarapava	17	28
+Cândido Mota	47	150
+Flórida Paulista	5	6
+Pontal	32	68
+Itapuí	38	98
+Apiaí	17	37
+Divinolândia	8	12
+Panorama	20	25
+Tabatinga	12	18
+Piracaia	23	33
+Rosana	30	57
+Cerquilho	44	79
+Dois Córregos	14	21
+Iacanga	21	30
+Cerqueira César	26	44
+Palmital	18	21
+Salesópolis	19	24
+Pirapora do Bom Jesus	4	5
+Tapiratiba	3	4
+Presidente Bernardes	7	8
+Patrocínio Paulista	4	5
+Altinópolis	14	17
+Cajobi	19	34
+Colina	11	18
+Barrinha	2	2
+Itatinga	34	70
+Angatuba	38	68
+Bocaina	20	33
+Bastos	16	20
+Santo Anastácio	14	22
+Igaratá	3	3
+General Salgado	24	56
+Uchoa	1	1
+Potirendaba	24	38
+Itajobi	8	10
+Jardinópolis	10	20
+Dourado	21	35
+José Bonifácio	23	46
+Rio Grande da Serra	2	2
+Iracemápolis	7	8
+Mongaguá	8	9
+Cajati	2	4
+Herculândia	19	29
+Sete Barras	1	1
+Bernardino de Campos	6	8
+Iguape	2	2
+Bady Bassitt	3	3
+Ilha Comprida	1	1
+Itaporanga	20	24
+Águas de Lindóia	23	38
+Paraibuna	1	1
+Monte Aprazível	3	3
+Bofete	4	5
+Cordeirópolis	3	3
+Vargem Grande Paulista	3	4
+Nazaré Paulista	7	8
+Pirapozinho	9	11
+Nova Aliança	1	1
+Nhandeara	8	8
+Dumont	2	2
+São Simão	34	62
+Bom Jesus dos Perdões	1	1
+Buri	16	40
+Miguelópolis	2	2
+Itariri	3	3
+Pacaembu	8	8
+Ipiguá	2	2
+Fartura	9	10
+Engenheiro Coelho	6	12
+Luís Antônio	1	1
+Joanópolis	1	1
+Salto Grande	1	1
+Santa Adélia	5	7
+Águas da Prata	1	1
+Boa Esperança do Sul	4	6
+Pardinho	2	2
+Juquitiba	3	4
+Santa Rita do Passa Quatro	1	1
+Chavantes	16	22
+Urânia	3	3
+Pradópolis	1	1
+Palmares Paulista	7	11
+Nova Granada	16	38
+Iperó	17	46
+Ariranha	16	49
+Cedral	2	2
+Ouroeste	1	8
+Mirante do Paranapanema	2	2
+Guareí	3	9
+Bálsamo	5	5
+Pindorama	4	6
+Getulina	3	4
+Santa Branca	2	2
+Severínia	2	3
+Guapiaçu	5	5
+Valentim Gentil	2	3
+Palestina	2	2
+Cardoso	3	3
+Estrela d'Oeste	2	2
+Rinópolis	3	4
+Rincão	1	1
+Duartina	1	1
+Monte Azul Paulista	1	1
+Ibirá	1	1
+Três Coroas	24	39
+Horizontina	31	54
+Três de Maio	41	95
+Tapejara	22	36
+Tupanciretã	16	34
+Arroio Grande	12	25
+Nova Petrópolis	36	91
+Santo Cristo	10	24
+Imbé	8	13
+Salto do Jacuí	6	8
+Barra do Ribeiro	3	3
+Salvador do Sul	19	30
+Mostardas	2	3
+Cerro Largo	8	9
+São Pedro do Sul	3	3
+Não-Me-Toque	31	53
+Palmares do Sul	6	7
+Bom Princípio	16	18
+Itaqui	10	13
+Constantina	15	37
+Agudo	13	49
+Feliz	25	42
+Roca Sales	23	42
+Arroio do Sal	1	1
+Jaguarão	14	23
+Piratini	12	19
+Cidreira	7	8
+Pinheiro Machado	14	42
+São Francisco de Assis	4	4
+Quaraí	11	12
+Arroio do Tigre	5	6
+Balneário Pinhal	1	1
+Crissiumal	7	7
+Tapes	2	4
+Nova Santa Rita	2	2
+Barão	1	1
+Eldorado do Sul	9	18
+Nova Bassano	7	9
+Júlio de Castilhos	7	9
+Terra de Areia	5	6
+Restinga Sêca	7	10
+Araricá	2	2
+Nova Hartz	2	2
+Capão do Leão	1	1
+Morro Reuter	2	2
+Entre-Ijuís	1	1
+Butiá	1	1
+Três Cachoeiras	1	1
+Humaitá	23	48
+São Gabriel da Cachoeira	1	1
+Coari	16	52
+Parintins	23	37
+Iranduba	9	17
+Maués	2	9
+Manicoré	3	3
+Boca do Acre	2	2
+Rio Preto da Eva	6	7
+Itacoatiara	1	1
+Condado	7	8
+Barreiros	13	35
+Itapissuma	14	27
+Afogados da Ingazeira	42	73
+Bom Conselho	25	34
+Glória do Goitá	15	17
+Águas Belas	11	18
+Tabira	17	20
+Carpina	10	22
+João Alfredo	21	41
+Timbaúba	17	27
+São José do Egito	34	88
+Taquaritinga do Norte	4	5
+Custódia	15	19
+Petrolândia	7	8
+Aliança	8	11
+São José do Belmonte	3	3
+Cupira	32	84
+Nazaré da Mata	12	17
+Itambé	21	38
+Buíque	26	40
+Lajedo	12	18
+São Bento do Una	36	77
+Toritama	10	23
+Bodocó	24	32
+Floresta	17	29
+Ipubi	22	40
+Pombos	8	13
+Surubim	16	32
+Tamandaré	14	19
+Lagoa dos Gatos	5	6
+Abreu e Lima	2	2
+São José da Coroa Grande	3	5
+Vicência	8	9
+Bom Jardim	13	19
+Passira	7	7
+Lagoa do Carro	15	21
+Orobó	6	6
+Ribeirão	10	21
+Araçoiaba	18	27
+Sanharó	9	12
+Betânia	2	2
+Camocim de São Félix	2	2
+Cabrobó	17	24
+Rio Formoso	6	7
+Canhotinho	4	5
+Santa Maria da Boa Vista	13	13
+Altinho	1	1
+Chã Grande	3	6
+Catende	1	1
+Sirinhaém	2	2
+Vertentes	3	3
+Macaparana	3	3
+Riacho das Almas	5	7
+São José de Ribamar	5	109
+Barreirinhas	3	22
+Chapadinha	8	14
+Vitorino Freire	3	10
+Caxias	8	12
+Porto Franco	12	19
+Pedreiras	1	1
+Timon	26	37
+Balsas	17	28
+Itapecuru Mirim	1	1
+Colinas	1	1
+Açailândia	5	7
+São João dos Patos	2	2
+Lago da Pedra	6	22
+São Raimundo das Mangabeiras	2	2
+Zé Doca	1	1
+Barra do Corda	1	2
+Presidente Dutra	1	1
+Santa Inês	1	1
+Coroatá	1	1
+Codó	1	1
+Vitória do Mearim	8	11
+Bacabal	1	2
+Viana	3	3
+Grajaú	1	1
+Ipueiras	4	6
+Mauriti	10	18
+Canindé	10	15
+Ibiapina	4	5
+Icapuí	9	11
+Cedro	44	118
+Assaré	9	11
+Pentecoste	14	42
+Cruz	18	23
+Jaguaribe	16	24
+Pereiro	3	3
+Santa Quitéria	5	7
+Marco	8	8
+Barreira	8	19
+Itarema	10	13
+Massapê	5	5
+Tabuleiro do Norte	6	9
+Jijoca de Jericoacoara	13	28
+Barro	8	9
+Bela Cruz	24	31
+Irauçuba	5	13
+São Benedito	7	9
+Missão Velha	2	3
+Iracema	1	1
+Varjota	2	3
+Aurora	17	35
+Guaraciaba do Norte	13	14
+Viçosa do Ceará	3	3
+Guaiúba	3	10
+Amontada	7	11
+Ubajara	3	3
+Senador Pompeu	10	13
+Nova Russas	12	24
+Uruburetama	7	8
+Santana do Acaraú	4	4
+Monsenhor Tabosa	1	1
+Lavras da Mangabeira	5	11
+Novo Oriente	4	4
+Itaitinga	1	1
+Campos Sales	1	1
+Quixadá	1	1
+Jucás	1	1
+Horizonte	10	43
+Reriutaba	2	2
+Fortim	2	2
+Frecheirinha	4	12
+Paraipaba	3	8
+Trairi	4	4
+Aquiraz	1	3
+Forquilha	2	2
+Independência	2	2
+Morrinhos	14	34
+Rio dos Cedros	1	1
+Pomerode	33	56
+Jaguaruna	9	11
+Concórdia	30	46
+Turvo	24	34
+Fraiburgo	9	11
+Agrolândia	1	1
+Nova Trento	35	57
+São João Batista	16	18
+Presidente Getúlio	12	18
+Papanduva	14	17
+Palhoça	8	13
+Iporã do Oeste	2	2
+Orleans	14	17
+Canelinha	12	18
+Armazém	10	16
+Campo Alegre	13	15
+Massaranduba	1	1
+Camboriú	17	28
+Urussanga	20	26
+São Lourenço do Oeste	6	15
+Taió	2	3
+São Joaquim	19	41
+Sombrio	13	20
+Guaramirim	11	17
+Coronel Freitas	3	3
+Rio Negrinho	7	9
+Jacinto Machado	5	7
+Dionísio Cerqueira	9	11
+Palmitos	15	27
+Corupá	1	1
+Guaraciaba	1	1
+Itapoá	1	1
+Luzerna	1	1
+Penha	12	18
+Trombudo Central	2	3
+Luiz Alves	6	9
+Cunha Porã	4	4
+Santa Cecília	6	6
+Barra Velha	1	1
+Quilombo	3	3
+Irani	1	1
+Araquari	4	4
+Itapiranga	2	2
+Otacílio Costa	11	20
+Pinhalzinho	5	7
+São José do Cedro	1	1
+Urubici	1	1
+Faxinal dos Guedes	2	3
+Itá	7	9
+Pouso Redondo	4	5
+Balneário Barra do Sul	6	7
+Abelardo Luz	1	1
+Bombinhas	1	2
+Campo Erê	1	1
+Garuva	1	1
+Herval d'Oeste	1	1
+Paraíba do Sul	13	22
+Magé	6	17
+São João da Barra	38	63
+Tanguá	15	28
+Porto Real	11	16
+Bom Jesus do Itabapoana	17	30
+Porciúncula	14	22
+São Francisco de Itabapoana	16	31
+Guapimirim	31	59
+Armação dos Búzios	18	25
+Italva	9	11
+Sumidouro	5	5
+Engenheiro Paulo de Frontin	2	2
+Mangaratiba	2	2
+Mendes	2	3
+Paty do Alferes	3	30
+Carapebus	12	18
+Aperibé	4	6
+Itatiaia	2	3
+Carmo	2	2
+Santo Antônio de Pádua	1	1
+Comendador Levy Gasparian	5	11
+Cantagalo	2	2
+Silva Jardim	6	7
+Seropédica	1	1
+Queimados	1	1
+Paraíso do Norte	2	3
+Itaperuçu	28	63
+Santa Izabel do Oeste	2	2
+Apucarana	38	145
+Cruzeiro do Oeste	12	17
+São Mateus do Sul	8	11
+Assaí	4	7
+Nova Santa Rosa	14	16
+Joaquim Távora	5	7
+Piraquara	1	5
+Jardim Alegre	16	19
+Pinhais	20	81
+Astorga	5	8
+Wenceslau Braz	12	16
+Bituruna	12	18
+Céu Azul	10	10
+Três Barras do Paraná	22	26
+Sengés	10	20
+Paiçandu	2	2
+Loanda	2	2
+Manoel Ribas	6	6
+Itaipulândia	8	8
+Siqueira Campos	5	10
+Engenheiro Beltrão	10	13
+Andirá	18	23
+Ribeirão Claro	4	4
+Piên	3	3
+Rebouças	29	60
+Colombo	1	1
+Santa Tereza do Oeste	8	9
+Douradina	2	2
+Planalto	4	4
+Florestópolis	3	4
+Cidade Gaúcha	4	5
+Santa Isabel do Ivaí	1	1
+Piraí do Sul	3	3
+Mamborê	2	2
+Terra Rica	1	1
+Laranjeiras do Sul	1	1
+Jaguapitã	1	1
+Clevelândia	3	3
+São Jorge d'Oeste	3	4
+Santa Terezinha de Itaipu	1	15
+Candói	5	5
+Curiúva	1	1
+Salto do Lontra	1	1
+Altônia	1	1
+Porecatu	11	18
+Carambeí	1	1
+Ibaiti	1	1
+Quitandinha	1	1
+Missal	6	28
+Uraí	9	33
+Prudentópolis	10	16
+Pitanga	2	2
+Arapoti	2	3
+Jandaia do Sul	1	1
+Realeza	1	1
+Barão de Cocais	19	28
+Canápolis	8	20
+Eugenópolis	22	60
+Bom Sucesso	16	21
+Ervália	4	7
+Guaranésia	3	3
+Ouro Fino	22	33
+Itamogi	12	21
+Ouro Branco	9	11
+Malacacheta	9	15
+Andradas	14	18
+Almenara	33	59
+Santa Juliana	6	13
+Conselheiro Pena	2	2
+Sabará	19	26
+Itabirito	16	19
+Itambacuri	9	15
+Nanuque	17	27
+Prata	15	56
+Capinópolis	13	14
+Sarzedo	11	15
+Boa Esperança	20	28
+Congonhas	11	13
+Monte Alegre de Minas	10	12
+Itaguara	2	2
+Capelinha	17	24
+Monte Santo de Minas	21	32
+Francisco Sá	1	1
+Poço Fundo	3	3
+Divino	1	1
+São José da Lapa	5	8
+Esmeraldas	21	24
+Espinosa	5	5
+Cambuquira	6	8
+Minas Novas	19	33
+Campina Verde	7	9
+Mutum	2	2
+Baependi	15	21
+Pedro Leopoldo	16	21
+Paraguaçu	15	24
+Lambari	1	1
+Várzea da Palma	22	29
+Pirapetinga	2	2
+Padre Paraíso	12	13
+Rio Acima	1	1
+Lima Duarte	3	5
+Santos Dumont	4	6
+Sacramento	11	19
+Igarapé	16	24
+Prados	2	2
+Juruaia	5	5
+Jaíba	2	3
+Abaeté	23	33
+Campo Belo	9	9
+Inhapim	4	4
+Pedralva	1	1
+Três Marias	1	1
+Paraisópolis	5	7
+Camanducaia	11	16
+Cambuí	1	1
+Medina	17	18
+Cássia	5	7
+Águas Formosas	22	34
+Caeté	8	8
+Belo Oriente	12	15
+Cristais	4	4
+Machado	3	3
+Arcos	4	4
+Resplendor	3	3
+Itaúna	8	15
+Fronteira	17	30
+Brasília de Minas	1	1
+Caetanópolis	2	2
+Diamantina	6	7
+Juatuba	17	27
+Ouro Preto	8	15
+Jacutinga	4	4
+Guapé	3	3
+Cláudio	7	12
+Corinto	12	21
+Jequitinhonha	2	2
+Carmo do Rio Claro	5	7
+Campos Altos	3	3
+Campanha	2	2
+Alvinópolis	1	1
+Caxambu	15	19
+São Gonçalo do Rio Abaixo	5	6
+Rio Pomba	18	33
+São João Nepomuceno	1	1
+Botelhos	2	2
+Perdizes	2	2
+Conceição do Mato Dentro	3	3
+Matias Barbosa	3	6
+Perdões	7	10
+Nova Era	14	20
+Matozinhos	14	31
+Borda da Mata	1	1
+Muzambinho	2	2
+Coromandel	16	54
+Bocaiúva	1	1
+Bicas	1	1
+Bom Despacho	1	1
+Ibiraci	2	2
+Areado	1	1
+Passa Quatro	1	1
+Carlos Chagas	14	17
+Barroso	2	2
+Estiva	10	17
+Manhumirim	3	4
+Serro	6	6
+Martinho Campos	14	41
+Elói Mendes	13	36
+Resende Costa	8	11
+São Roque de Minas	2	3
+Iturama	11	15
+Nova Resende	1	1
+Antônio Carlos	4	5
+Maria da Fé	4	7
+Itaú de Minas	3	3
+Monte Azul	1	1
+Rio Piracicaba	3	5
+Congonhal	1	2
+Mantena	1	1
+Ipanema	2	4
+Capitólio	1	1
+Rio Paranaíba	4	6
+Monte Sião	1	1
+Carmo do Paranaíba	8	9
+São João Evangelista	1	1
+Itamonte	1	1
+Mar de Espanha	3	3
+São Domingos do Prata	3	5
+Porteirinha	5	5
+São Gonçalo do Sapucaí	5	5
+Lagoa Formosa	1	1
+Santa Maria de Itabira	3	4
+Pompéu	2	2
+Coração de Jesus	4	4
+Dores do Indaiá	1	2
+Alterosa	1	2
+Vazante	7	10
+Salinas	3	3
+Raul Soares	2	2
+Teixeiras	1	1
+Caldas	1	1
+Carmo de Minas	1	1
+Felixlândia	1	1
+São Miguel do Guamá	8	94
+Pacajá	10	14
+Tomé-Açu	13	29
+Xinguara	6	7
+Igarapé-Miri	7	69
+Salinópolis	20	33
+Igarapé-Açu	17	55
+Santa Maria do Pará	8	22
+Moju	7	13
+Conceição do Araguaia	9	12
+Novo Progresso	7	8
+Dom Eliseu	8	11
+Goianésia do Pará	19	30
+Rurópolis	6	7
+Vigia	11	29
+Alenquer	10	17
+Marituba	11	20
+Rondon do Pará	26	43
+Anapu	5	6
+Ulianópolis	8	14
+São Geraldo do Araguaia	3	6
+Brasil Novo	20	34
+Curionópolis	8	8
+Breu Branco	10	16
+Itaituba	12	15
+Benevides	12	20
+Capitão Poço	3	3
+Abaetetuba	4	10
+Almeirim	2	6
+Portel	3	4
+Mocajuba	4	4
+Itupiranga	5	6
+Uruará	8	11
+São Félix do Xingu	2	2
+Concórdia do Pará	6	8
+Terra Santa	2	2
+Acará	2	2
+São Domingos do Araguaia	1	1
+Rio Maria	1	1
+Santana do Araguaia	1	1
+São Felipe	6	9
+Mucuri	7	8
+Maracás	37	90
+Carinhanha	4	5
+Riachão do Jacuípe	7	7
+Nazaré	15	24
+Sento Sé	1	1
+Santa Rita de Cássia	2	2
+Conceição da Feira	13	22
+Castro Alves	1	1
+Canavieiras	19	26
+São Francisco do Conde	26	41
+Mata de São João	2	3
+Riacho de Santana	3	4
+Remanso	20	24
+Poções	19	22
+Ibicaraí	5	10
+Itaparica	9	14
+Morro do Chapéu	18	27
+Amélia Rodrigues	13	19
+Valente	5	6
+Santo Estêvão	8	12
+Itamaraju	17	36
+João Dourado	4	4
+Itacaré	4	4
+Gandu	2	4
+Iaçu	13	15
+Guanambi	34	77
+Casa Nova	6	8
+Prado	5	6
+Presidente Tancredo Neves	7	11
+Ipiaú	7	11
+Itajuípe	7	7
+Maragogipe	4	5
+Rio Real	8	10
+Medeiros Neto	12	19
+Belo Campo	2	2
+Condeúba	4	6
+Ubatã	6	10
+Uauá	2	3
+Barra da Estiva	4	5
+Inhambupe	7	9
+Itatim	10	12
+Uruçuca	4	4
+São Félix do Coribe	5	5
+Conceição do Jacuípe	8	9
+Santa Maria da Vitória	3	6
+Itanhém	2	2
+Amargosa	8	9
+Miguel Calmon	3	6
+Cachoeira	2	2
+Correntina	9	17
+Entre Rios	1	1
+Itapetinga	2	2
+Mutuípe	13	17
+Alcobaça	3	5
+Irará	8	8
+Cruz das Almas	18	26
+Madre de Deus	4	5
+Itabela	3	3
+Caravelas	3	4
+Conceição do Coité	2	2
+Una	7	8
+Ruy Barbosa	2	2
+Laje	9	13
+Cândido Sales	3	3
+Nova Viçosa	10	15
+Capim Grosso	4	5
+Iguaí	1	1
+Lapão	1	1
+Muritiba	1	1
+Coração de Maria	14	20
+Ibotirama	11	14
+Ribeira do Pombal	1	1
+Coaraci	2	3
+Araci	6	8
+Xique-Xique	2	3
+Barra do Choça	7	9
+Curaçá	1	1
+Itiúba	6	6
+Bom Jesus da Lapa	2	3
+Euclides da Cunha	1	1
+Belmonte	2	2
+Catu	5	5
+Jaguaquara	3	3
+Santo Amaro	2	2
+Santa Cruz Cabrália	1	1
+Cansanção	1	1
+Itarantim	1	1
+Catolé do Rocha	21	29
+Serra Branca	2	2
+Alagoa Grande	12	12
+Princesa Isabel	12	18
+Sousa	16	29
+Sapé	4	5
+Cabedelo	11	12
+Picuí	11	15
+Bayeux	9	18
+Pedras de Fogo	1	2
+Sumé	6	6
+Mari	9	9
+Rio Tinto	1	1
+Queimadas	5	5
+Solânea	3	4
+Alhandra	1	1
+Ingá	3	4
+Cuité	2	2
+Alagoa Nova	1	1
+Baixo Guandu	18	23
+Barra de São Francisco	17	36
+Alegre	3	5
+Castelo	19	31
+Marechal Floriano	2	2
+Nova Venécia	5	9
+São Gabriel da Palha	10	13
+Colatina	41	81
+Rio Bananal	11	11
+Sooretama	7	8
+Santa Teresa	17	27
+Alfredo Chaves	2	2
+Jaguaré	1	2
+Afonso Cláudio	2	2
+Ibatiba	4	6
+Guaçuí	6	7
+Anchieta	4	5
+Domingos Martins	6	7
+Vargem Alta	2	2
+Itapemirim	4	6
+Iúna	4	4
+Marataízes	4	7
+Piúma	2	2
+Presidente Kennedy	4	4
+Ecoporanga	1	1
+Montanha	1	1
+Fundão	1	1
+Pinheiros	3	3
+Iconha	1	1
+São Roque do Canaã	1	1
+Santa Leopoldina	1	1
+Vila Valério	3	4
+Pedro Canário	2	2
+Venda Nova do Imigrante	1	2
+Santa Maria de Jetibá	1	1
+Bom Jesus do Norte	1	1
+Pancas	4	4
+Marilândia	1	1
+Guamaré	21	34
+Extremoz	2	2
+Touros	3	3
+Apodi	23	32
+Currais Novos	30	69
+Nova Cruz	8	11
+Areia Branca	6	9
+Jucurutu	4	5
+Santa Cruz	19	35
+São Miguel	1	1
+São José de Mipibu	12	16
+Canguaretama	5	6
+Alto do Rodrigues	1	1
+Macau	1	1
+Caraúbas	4	5
+Jardim de Piranhas	3	3
+Goianinha	3	3
+Floriano	15	59
+Picos	29	45
+São Raimundo Nonato	5	6
+Bom Jesus	2	2
+Oeiras	2	3
+Montividiu	6	6
+Quirinópolis	28	72
+Ceres	25	35
+Bom Jesus de Goiás	18	27
+Santo Antônio de Goiás	8	13
+Jaraguá	7	9
+Porangatu	19	47
+Pirenópolis	21	29
+Planaltina	17	30
+Aragarças	24	41
+Hidrolândia	11	30
+Edéia	8	10
+Itapuranga	13	23
+Novo Gama	14	23
+Acreúna	9	9
+Iporá	14	18
+Itaberaí	28	48
+Niquelândia	6	10
+Indiara	5	8
+Goianira	4	6
+Cocalzinho de Goiás	3	3
+Alexânia	17	31
+Buriti Alegre	5	6
+Campos Belos	4	4
+Bela Vista de Goiás	14	44
+Silvânia	7	15
+Goianápolis	1	1
+Piracanjuba	15	20
+Piranhas	5	5
+Caçu	8	8
+Rialma	3	4
+Guapó	1	1
+Cachoeira Alta	3	5
+Anicuns	2	2
+Itapaci	2	2
+Corumbaíba	10	12
+Sanclerlândia	1	1
+Santo Antônio do Descoberto	3	3
+Campinorte	1	1
+Rubiataba	3	3
+Caiapônia	5	5
+Posse	2	2
+Orizona	2	3
+Vianópolis	4	4
+Jussara	1	1
+Cidade Ocidental	4	4
+Santana do Ipanema	19	51
+Chã Preta	4	6
+Pilar	8	9
+Teotônio Vilela	4	5
+Delmiro Gouveia	14	17
+Porto Calvo	12	14
+Marechal Deodoro	4	5
+São José da Laje	1	1
+Murici	3	4
+Maragogi	13	18
+Junqueiro	1	1
+Penedo	8	8
+Pão de Açúcar	1	1
+Lucas do Rio Verde	16	1168
+Campo Novo do Parecis	24	170
+Tangará da Serra	13	548
+Vila Rica	3	6
+Colíder	34	96
+Canarana	28	49
+Campos de Júlio	8	15
+Juara	17	19
+Sinop	20	54
+Juína	7	16
+Querência	15	33
+Nobres	13	18
+Diamantino	5	9
+Colniza	10	12
+Brasnorte	6	7
+Araputanga	7	11
+Alta Floresta	5	6
+Pontes e Lacerda	12	15
+São José dos Quatro Marcos	8	14
+São José do Rio Claro	3	3
+Confresa	2	2
+Peixoto de Azevedo	1	1
+Mirassol d'Oeste	4	4
+Tapurah	1	1
+Paraíso do Tocantins	18	25
+Dianópolis	3	3
+Tocantinópolis	13	17
+Araguatins	3	5
+Colinas do Tocantins	16	18
+Formoso do Araguaia	5	6
+Pedro Afonso	5	6
+Pimenta Bueno	5	6
+Guajará-Mirim	20	44
+Cacoal	52	178
+Ariquemes	12	18
+Presidente Médici	10	13
+Ouro Preto do Oeste	14	19
+Rolim de Moura	7	12
+Buritis	4	5
+São Francisco do Guaporé	8	16
+São Miguel do Guaporé	6	10
+Colorado do Oeste	1	1
+Itabaianinha	6	6
+Carmópolis	4	4
+Canindé de São Francisco	7	10
+Capela	1	1
+Itaporanga d'Ajuda	11	16
+Umbaúba	2	2
+Tobias Barreto	19	33
+Boquim	18	25
+Carira	6	7
+Campo do Brito	1	1
+Laranjeiras	1	1
+Barra dos Coqueiros	7	7
+Salgado	1	1
+Poço Verde	6	8
+Nossa Senhora das Dores	3	4
+Poço Redondo	2	2
+Laranjal do Jari	9	21
+Santana	17	33
+Oiapoque	18	44
+Ribas do Rio Pardo	28	54
+Eldorado	22	45
+Itaporã	41	95
+Brasilândia	15	27
+Guia Lopes da Laguna	9	11
+Rio Brilhante	32	56
+Ladário	5	6
+Terenos	10	17
+Aparecida do Taboado	12	15
+Sonora	2	2
+Angélica	14	20
+Glória de Dourados	2	2
+Itaquiraí	10	15
+Mundo Novo	11	13
+Camapuã	7	7
+Caarapó	1	1
+Deodápolis	6	9
+Água Clara	6	13
+Nova Alvorada do Sul	10	11

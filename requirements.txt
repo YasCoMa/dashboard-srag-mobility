@@ -1,0 +1,9 @@
+streamlit
+plotly
+matplotlib
+pandas
+networkx
+numpy
+scipy
+seaborn
+streamlit_agraph
