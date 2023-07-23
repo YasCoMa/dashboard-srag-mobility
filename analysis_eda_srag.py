@@ -599,7 +599,7 @@ class DashboardEdaSrag:
             self._s4_plot_grouped_city_info(dff, nmetric, 'displacement_for_medical_care', 'People that seek medical assistance in another city')
             
     def eda_UI(self, db):
-        with open('../filtered_data/state-city-population.json', 'r') as g:
+        with open('filtered_data/state-city-population.json', 'r') as g:
             states_info = json.load(g)
                 
         mapc = st.container()

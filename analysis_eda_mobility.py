@@ -278,7 +278,7 @@ class DashboardEdaMobi:
             
             
     def eda_UI(self, db, dfts):
-        with open('../filtered_data/state-city-population.json', 'r') as g:
+        with open('filtered_data/state-city-population.json', 'r') as g:
             states_info = json.load(g)
                 
         mapc = st.container()
