@@ -1,0 +1,5431 @@
+type_scenario	variable_column_x	city	predicted_cluster
+srag	Cases	São Paulo	9
+srag	Cases	Franco da Rocha	1
+srag	Cases	Leme	1
+srag	Cases	Bragança Paulista	9
+srag	Cases	Sertãozinho	9
+srag	Cases	São Bernardo do Campo	9
+srag	Cases	São Caetano do Sul	9
+srag	Cases	Santo André	9
+srag	Cases	Santos	9
+srag	Cases	Barueri	9
+srag	Cases	Guarulhos	9
+srag	Cases	Jundiaí	9
+srag	Cases	Capão Bonito	1
+srag	Cases	Caraguatatuba	9
+srag	Cases	Osasco	9
+srag	Cases	Itapevi	9
+srag	Cases	Bauru	9
+srag	Cases	Ribeirão Preto	9
+srag	Cases	Campinas	9
+srag	Cases	Mairiporã	10
+srag	Cases	Santana de Parnaíba	9
+srag	Cases	Marília	9
+srag	Cases	Ribeirão Pires	9
+srag	Cases	Viradouro	6
+srag	Cases	Sorocaba	9
+srag	Cases	Cotia	9
+srag	Cases	Francisco Morato	1
+srag	Cases	Limeira	9
+srag	Cases	Cabreúva	10
+srag	Cases	Arujá	1
+srag	Cases	Jaú	9
+srag	Cases	Itapecerica da Serra	9
+srag	Cases	Mogi das Cruzes	9
+srag	Cases	Praia Grande	9
+srag	Cases	Suzano	1
+srag	Cases	São Miguel Arcanjo	5
+srag	Cases	Guarujá	9
+srag	Cases	Caieiras	9
+srag	Cases	São Carlos	9
+srag	Cases	Andradina	11
+srag	Cases	Mogi Guaçu	9
+srag	Cases	Mauá	9
+srag	Cases	Tupã	0
+srag	Cases	Presidente Epitácio	12
+srag	Cases	Dracena	10
+srag	Cases	Hortolândia	9
+srag	Cases	Guararema	10
+srag	Cases	Presidente Prudente	9
+srag	Cases	Piracicaba	9
+srag	Cases	Americana	9
+srag	Cases	Araras	10
+srag	Cases	Diadema	9
+srag	Cases	Catanduva	9
+srag	Cases	Lençóis Paulista	9
+srag	Cases	Jacareí	9
+srag	Cases	Itaquaquecetuba	9
+srag	Cases	Jarinu	6
+srag	Cases	Avaré	10
+srag	Cases	Cajuru	6
+srag	Cases	Nova Odessa	10
+srag	Cases	Olímpia	10
+srag	Cases	Guaíra	12
+srag	Cases	Barretos	9
+srag	Cases	Itu	9
+srag	Cases	Sumaré	9
+srag	Cases	Araçatuba	9
+srag	Cases	Serrana	12
+srag	Cases	Campo Limpo Paulista	10
+srag	Cases	Carapicuíba	9
+srag	Cases	Ibaté	6
+srag	Cases	Taboão da Serra	9
+srag	Cases	Franca	8
+srag	Cases	São José do Rio Preto	9
+srag	Cases	Santa Fé do Sul	12
+srag	Cases	Cubatão	9
+srag	Cases	Paulínia	9
+srag	Cases	Orlândia	5
+srag	Cases	Botucatu	9
+srag	Cases	Itapetininga	9
+srag	Cases	Américo Brasiliense	10
+srag	Cases	Vinhedo	9
+srag	Cases	Rio Claro	9
+srag	Cases	Ilha Solteira	10
+srag	Cases	Santa Bárbara d'Oeste	10
+srag	Cases	Taubaté	9
+srag	Cases	Matão	0
+srag	Cases	São Vicente	10
+srag	Cases	Conchal	6
+srag	Cases	Ipuã	12
+srag	Cases	Pariquera-Açu	9
+srag	Cases	Itapira	9
+srag	Cases	Boituva	10
+srag	Cases	Pirassununga	9
+srag	Cases	Salto de Pirapora	10
+srag	Cases	Buritama	10
+srag	Cases	Ituverava	10
+srag	Cases	Jales	10
+srag	Cases	Amparo	0
+srag	Cases	Bertioga	10
+srag	Cases	São Sebastião da Grama	6
+srag	Cases	Valinhos	9
+srag	Cases	Monte Alto	10
+srag	Cases	Ferraz de Vasconcelos	9
+srag	Cases	Fernandópolis	12
+srag	Cases	Adamantina	10
+srag	Cases	Lins	10
+srag	Cases	Araçariguama	10
+srag	Cases	Votuporanga	9
+srag	Cases	Itararé	12
+srag	Cases	Cafelândia	6
+srag	Cases	Salto	9
+srag	Cases	Guaratinguetá	10
+srag	Cases	Jandira	12
+srag	Cases	Jaguariúna	10
+srag	Cases	São João da Boa Vista	10
+srag	Cases	Conchas	5
+srag	Cases	Pedreira	12
+srag	Cases	Porto Ferreira	12
+srag	Cases	Regente Feijó	12
+srag	Cases	Indaiatuba	9
+srag	Cases	Tanabi	12
+srag	Cases	Itapeva	12
+srag	Cases	Penápolis	0
+srag	Cases	Embu-Guaçu	10
+srag	Cases	Itaí	6
+srag	Cases	Promissão	10
+srag	Cases	Itatiba	9
+srag	Cases	Santa Cruz do Rio Pardo	9
+srag	Cases	Pederneiras	12
+srag	Cases	Batatais	10
+srag	Cases	Cruzeiro	1
+srag	Cases	Pindamonhangaba	9
+srag	Cases	Aparecida	12
+srag	Cases	Jaboticabal	6
+srag	Cases	Várzea Paulista	5
+srag	Cases	Poá	1
+srag	Cases	Assis	9
+srag	Cases	Itupeva	0
+srag	Cases	Paraguaçu Paulista	12
+srag	Cases	Porto Feliz	10
+srag	Cases	São Pedro	12
+srag	Cases	Junqueirópolis	6
+srag	Cases	Ubatuba	10
+srag	Cases	Ilhabela	5
+srag	Cases	Atibaia	9
+srag	Cases	Barra Bonita	10
+srag	Cases	Álvares Machado	5
+srag	Cases	Ibitinga	10
+srag	Cases	Louveira	10
+srag	Cases	Artur Nogueira	12
+srag	Cases	Agudos	10
+srag	Cases	Vargem Grande do Sul	12
+srag	Cases	Ourinhos	10
+srag	Cases	Taquarituba	12
+srag	Cases	Tatuí	9
+srag	Cases	São Manuel	5
+srag	Cases	Paranapanema	5
+srag	Cases	Castilho	12
+srag	Cases	Sales Oliveira	12
+srag	Cases	Socorro	9
+srag	Cases	Ibiúna	5
+srag	Cases	Bebedouro	11
+srag	Cases	Guapiara	12
+srag	Cases	Lorena	1
+srag	Cases	Mineiros do Tietê	12
+srag	Cases	Santa Isabel	9
+srag	Cases	Caçapava	10
+srag	Cases	Casa Branca	12
+srag	Cases	Tietê	12
+srag	Cases	Serra Negra	5
+srag	Cases	Espírito Santo do Pinhal	10
+srag	Cases	São José do Rio Pardo	10
+srag	Cases	Rio das Pedras	12
+srag	Cases	Mococa	10
+srag	Cases	Martinópolis	12
+srag	Cases	Teodoro Sampaio	12
+srag	Cases	Bariri	10
+srag	Cases	Charqueada	6
+srag	Cases	Borborema	10
+srag	Cases	Votorantim	9
+srag	Cases	Arealva	6
+srag	Cases	Osvaldo Cruz	12
+srag	Cases	Campos do Jordão	10
+srag	Cases	Brotas	6
+srag	Cases	Cajamar	1
+srag	Cases	Cosmópolis	10
+srag	Cases	São Roque	5
+srag	Cases	Torrinha	6
+srag	Cases	Mairinque	2
+srag	Cases	Aguaí	6
+srag	Cases	Garça	12
+srag	Cases	Santa Cruz das Palmeiras	12
+srag	Cases	Tambaú	12
+srag	Cases	Itirapina	12
+srag	Cases	Taguaí	12
+srag	Cases	Mirandópolis	10
+srag	Cases	Caconde	10
+srag	Cases	Guariba	10
+srag	Cases	Taquaritinga	10
+srag	Cases	Macatuba	5
+srag	Cases	Cachoeira Paulista	2
+srag	Cases	Registro	10
+srag	Cases	Araraquara	9
+srag	Cases	Itanhaém	10
+srag	Cases	Alumínio	5
+srag	Cases	Tupi Paulista	5
+srag	Cases	Itápolis	12
+srag	Cases	Novo Horizonte	12
+srag	Cases	Piratininga	5
+srag	Cases	Igarapava	5
+srag	Cases	Cândido Mota	12
+srag	Cases	Guará	10
+srag	Cases	Flórida Paulista	5
+srag	Cases	Pontal	10
+srag	Cases	Itapuí	12
+srag	Cases	São Sebastião	9
+srag	Cases	São Joaquim da Barra	12
+srag	Cases	Valparaíso	12
+srag	Cases	Apiaí	12
+srag	Cases	Divinolândia	12
+srag	Cases	Rancharia	10
+srag	Cases	Panorama	5
+srag	Cases	Piraju	10
+srag	Cases	Peruíbe	1
+srag	Cases	Morro Agudo	5
+srag	Cases	Presidente Venceslau	11
+srag	Cases	Tabatinga	5
+srag	Cases	Pitangueiras	11
+srag	Cases	Piracaia	11
+srag	Cases	Rosana	11
+srag	Cases	Maracaí	11
+srag	Cases	Cerquilho	9
+srag	Cases	Lucélia	11
+srag	Cases	Cravinhos	1
+srag	Cases	Dois Córregos	0
+srag	Cases	Guararapes	9
+srag	Cases	Iacanga	1
+srag	Cases	Queluz	1
+srag	Cases	Ipaussu	1
+srag	Cases	Cerqueira César	9
+srag	Cases	Palmital	1
+srag	Cases	Descalvado	9
+srag	Cases	Salesópolis	11
+srag	Cases	Auriflama	11
+srag	Cases	Monte Mor	1
+srag	Cases	Pirapora do Bom Jesus	11
+srag	Cases	Ribeirão Bonito	11
+srag	Cases	Pilar do Sul	11
+srag	Cases	Tapiratiba	11
+srag	Cases	Presidente Bernardes	11
+srag	Cases	Patrocínio Paulista	11
+srag	Cases	Laranjal Paulista	10
+srag	Cases	Altinópolis	11
+srag	Cases	Cajobi	11
+srag	Cases	Colina	11
+srag	Cases	Barrinha	11
+srag	Cases	Santa Rosa de Viterbo	10
+srag	Cases	Itatinga	10
+srag	Cases	Angatuba	9
+srag	Cases	Cesário Lange	9
+srag	Cases	Piedade	9
+srag	Cases	Bocaina	11
+srag	Cases	Bastos	11
+srag	Cases	Capivari	11
+srag	Cases	Santo Anastácio	11
+srag	Cases	Igaratá	11
+srag	Cases	General Salgado	11
+srag	Cases	Uchoa	11
+srag	Cases	Potirendaba	11
+srag	Cases	Pirajuí	11
+srag	Cases	Itajobi	11
+srag	Cases	Pereira Barreto	11
+srag	Cases	Tabapuã	11
+srag	Cases	Jardinópolis	11
+srag	Cases	Dourado	11
+srag	Cases	José Bonifácio	11
+srag	Cases	Rio Grande da Serra	11
+srag	Cases	Iracemápolis	11
+srag	Cases	Mongaguá	11
+srag	Cases	Ribeirão Branco	11
+srag	Cases	Jaci	11
+srag	Cases	Cajati	11
+srag	Cases	Herculândia	11
+srag	Cases	Sete Barras	11
+srag	Cases	Parapuã	11
+srag	Cases	Bernardino de Campos	11
+srag	Cases	Iguape	11
+srag	Cases	Bady Bassitt	11
+srag	Cases	Ilha Comprida	11
+srag	Cases	Itaporanga	11
+srag	Cases	Pirangi	11
+srag	Cases	Águas de Lindóia	11
+srag	Cases	Paraibuna	11
+srag	Cases	Monte Aprazível	11
+srag	Cases	Bofete	11
+srag	Cases	Cordeirópolis	11
+srag	Cases	Mirassol	11
+srag	Cases	Vargem Grande Paulista	11
+srag	Cases	Itaberá	11
+srag	Cases	Nazaré Paulista	11
+srag	Cases	Pirapozinho	11
+srag	Cases	Nova Aliança	11
+srag	Cases	Nhandeara	11
+srag	Cases	Dumont	11
+srag	Cases	São Simão	11
+srag	Cases	Bom Jesus dos Perdões	11
+srag	Cases	Buri	11
+srag	Cases	Miguelópolis	11
+srag	Cases	Itariri	11
+srag	Cases	Pacaembu	11
+srag	Cases	Ipiguá	11
+srag	Cases	Fartura	11
+srag	Cases	Engenheiro Coelho	11
+srag	Cases	Luís Antônio	11
+srag	Cases	Joanópolis	11
+srag	Cases	Vera Cruz	11
+srag	Cases	Salto Grande	11
+srag	Cases	Santa Adélia	11
+srag	Cases	Águas da Prata	11
+srag	Cases	Boa Esperança do Sul	11
+srag	Cases	Pardinho	11
+srag	Cases	Juquitiba	11
+srag	Cases	Santa Rita do Passa Quatro	11
+srag	Cases	Chavantes	11
+srag	Cases	Urânia	11
+srag	Cases	Nova Europa	11
+srag	Cases	Pradópolis	11
+srag	Cases	Palmares Paulista	11
+srag	Cases	Nova Granada	11
+srag	Cases	Iperó	11
+srag	Cases	Ariranha	11
+srag	Cases	Cedral	11
+srag	Cases	Ouroeste	11
+srag	Cases	Mirante do Paranapanema	11
+srag	Cases	Guareí	11
+srag	Cases	Bálsamo	11
+srag	Cases	Pindorama	11
+srag	Cases	Getulina	11
+srag	Cases	Santa Branca	11
+srag	Cases	Severínia	11
+srag	Cases	Guapiaçu	11
+srag	Cases	Valentim Gentil	11
+srag	Cases	Palestina	11
+srag	Cases	Cardoso	11
+srag	Cases	Estrela d'Oeste	11
+srag	Cases	Rinópolis	11
+srag	Cases	Rincão	11
+srag	Cases	Duartina	11
+srag	Cases	Monte Azul Paulista	11
+srag	Cases	Ibirá	11
+srag	Cases	Porto Alegre	9
+srag	Cases	Passo Fundo	9
+srag	Cases	Santo Ângelo	10
+srag	Cases	Cruzeiro do Sul	10
+srag	Cases	Santa Maria	9
+srag	Cases	Bento Gonçalves	9
+srag	Cases	Teutônia	10
+srag	Cases	Carazinho	12
+srag	Cases	Novo Hamburgo	9
+srag	Cases	Farroupilha	10
+srag	Cases	Camaquã	12
+srag	Cases	Santa Cruz do Sul	12
+srag	Cases	Estrela	10
+srag	Cases	Lajeado	10
+srag	Cases	Osório	12
+srag	Cases	Canoas	10
+srag	Cases	Pelotas	10
+srag	Cases	Marau	1
+srag	Cases	Caxias do Sul	9
+srag	Cases	São Jerônimo	12
+srag	Cases	Cachoeirinha	10
+srag	Cases	Tenente Portela	12
+srag	Cases	Rio Grande	10
+srag	Cases	Parobé	12
+srag	Cases	Sapiranga	12
+srag	Cases	São Sebastião do Caí	12
+srag	Cases	Ijuí	10
+srag	Cases	Três Coroas	5
+srag	Cases	Canela	12
+srag	Cases	Santa Rosa	12
+srag	Cases	Gramado	12
+srag	Cases	Guaíba	12
+srag	Cases	Antônio Prado	5
+srag	Cases	Três Passos	12
+srag	Cases	Esteio	12
+srag	Cases	São Borja	12
+srag	Cases	Gravataí	10
+srag	Cases	Viamão	12
+srag	Cases	São Leopoldo	12
+srag	Cases	Uruguaiana	12
+srag	Cases	Bagé	10
+srag	Cases	Erechim	10
+srag	Cases	Venâncio Aires	9
+srag	Cases	Cachoeira do Sul	12
+srag	Cases	Ivoti	12
+srag	Cases	Tramandaí	12
+srag	Cases	Vacaria	9
+srag	Cases	Santiago	10
+srag	Cases	Estância Velha	12
+srag	Cases	Torres	10
+srag	Cases	Garibaldi	10
+srag	Cases	Rio Pardo	5
+srag	Cases	Alegrete	10
+srag	Cases	Tapera	5
+srag	Cases	Getúlio Vargas	5
+srag	Cases	Montenegro	10
+srag	Cases	Taquari	12
+srag	Cases	Santo Augusto	12
+srag	Cases	Encantado	10
+srag	Cases	São Gabriel	10
+srag	Cases	Caçapava do Sul	8
+srag	Cases	Capão da Canoa	10
+srag	Cases	Rosário do Sul	8
+srag	Cases	Sapucaia do Sul	9
+srag	Cases	Alvorada	12
+srag	Cases	Paraí	6
+srag	Cases	Sarandi	10
+srag	Cases	Nonoai	5
+srag	Cases	São Luiz Gonzaga	12
+srag	Cases	Candelária	11
+srag	Cases	Triunfo	9
+srag	Cases	Arroio do Meio	9
+srag	Cases	Dom Pedrito	9
+srag	Cases	Cruz Alta	9
+srag	Cases	Sananduva	1
+srag	Cases	Soledade	1
+srag	Cases	Campo Bom	1
+srag	Cases	Espumoso	1
+srag	Cases	Igrejinha	9
+srag	Cases	Bom Retiro do Sul	1
+srag	Cases	Santo Antônio da Patrulha	9
+srag	Cases	Nova Prata	1
+srag	Cases	Palmeira das Missões	9
+srag	Cases	São José do Norte	11
+srag	Cases	Charqueadas	9
+srag	Cases	Taquara	1
+srag	Cases	Horizontina	1
+srag	Cases	Giruá	1
+srag	Cases	São Marcos	1
+srag	Cases	Seberi	1
+srag	Cases	Guaporé	1
+srag	Cases	Três de Maio	1
+srag	Cases	Tapejara	1
+srag	Cases	Frederico Westphalen	9
+srag	Cases	Ibirubá	11
+srag	Cases	Encruzilhada do Sul	11
+srag	Cases	Carlos Barbosa	9
+srag	Cases	Veranópolis	9
+srag	Cases	Canguçu	9
+srag	Cases	Dois Irmãos	9
+srag	Cases	Flores da Cunha	1
+srag	Cases	Serafina Corrêa	11
+srag	Cases	Tupanciretã	11
+srag	Cases	Lagoa Vermelha	9
+srag	Cases	Arroio Grande	1
+srag	Cases	Nova Petrópolis	9
+srag	Cases	Casca	11
+srag	Cases	Panambi	9
+srag	Cases	Rolante	11
+srag	Cases	Santa Vitória do Palmar	11
+srag	Cases	Santo Cristo	2
+srag	Cases	Portão	1
+srag	Cases	São Lourenço do Sul	11
+srag	Cases	Imbé	2
+srag	Cases	Tuparendi	11
+srag	Cases	Salto do Jacuí	11
+srag	Cases	Barra do Ribeiro	11
+srag	Cases	Chapada	11
+srag	Cases	Salvador do Sul	11
+srag	Cases	Mostardas	11
+srag	Cases	Cerro Largo	11
+srag	Cases	São Pedro do Sul	11
+srag	Cases	Não-Me-Toque	11
+srag	Cases	Palmares do Sul	11
+srag	Cases	Bom Princípio	11
+srag	Cases	São Sepé	11
+srag	Cases	Sobradinho	9
+srag	Cases	Itaqui	9
+srag	Cases	Constantina	9
+srag	Cases	São Francisco de Paula	9
+srag	Cases	Agudo	9
+srag	Cases	Feliz	9
+srag	Cases	Roca Sales	9
+srag	Cases	Arroio do Sal	9
+srag	Cases	Jaguarão	9
+srag	Cases	Piratini	9
+srag	Cases	Cidreira	9
+srag	Cases	Pinheiro Machado	9
+srag	Cases	São Francisco de Assis	9
+srag	Cases	Quaraí	9
+srag	Cases	Arroio do Tigre	9
+srag	Cases	Balneário Pinhal	9
+srag	Cases	Crissiumal	9
+srag	Cases	Tapes	9
+srag	Cases	Nova Santa Rita	9
+srag	Cases	Barão	9
+srag	Cases	Eldorado do Sul	9
+srag	Cases	Nova Bassano	9
+srag	Cases	Júlio de Castilhos	9
+srag	Cases	Terra de Areia	9
+srag	Cases	Restinga Sêca	9
+srag	Cases	Araricá	9
+srag	Cases	Nova Hartz	9
+srag	Cases	Capão do Leão	9
+srag	Cases	Morro Reuter	9
+srag	Cases	Entre-Ijuís	9
+srag	Cases	Butiá	9
+srag	Cases	Três Cachoeiras	9
+srag	Cases	Manaus	9
+srag	Cases	Manacapuru	8
+srag	Cases	Humaitá	2
+srag	Cases	Presidente Figueiredo	8
+srag	Cases	São Gabriel da Cachoeira	8
+srag	Cases	Tefé	8
+srag	Cases	Coari	8
+srag	Cases	Parintins	1
+srag	Cases	Iranduba	8
+srag	Cases	Maués	8
+srag	Cases	Manicoré	8
+srag	Cases	Boca do Acre	8
+srag	Cases	Rio Preto da Eva	8
+srag	Cases	Itacoatiara	8
+srag	Cases	Recife	9
+srag	Cases	Garanhuns	1
+srag	Cases	Salgueiro	1
+srag	Cases	Condado	2
+srag	Cases	São Lourenço da Mata	1
+srag	Cases	Jaboatão dos Guararapes	1
+srag	Cases	Palmares	8
+srag	Cases	Vitória de Santo Antão	8
+srag	Cases	Petrolina	10
+srag	Cases	Cabo de Santo Agostinho	1
+srag	Cases	Olinda	1
+srag	Cases	Igarassu	2
+srag	Cases	Caruaru	9
+srag	Cases	Araripina	10
+srag	Cases	Barreiros	5
+srag	Cases	Ouricuri	0
+srag	Cases	Arcoverde	9
+srag	Cases	Itapissuma	2
+srag	Cases	Gravatá	3
+srag	Cases	Pesqueira	5
+srag	Cases	Paulista	9
+srag	Cases	Ipojuca	2
+srag	Cases	Afogados da Ingazeira	3
+srag	Cases	Bom Conselho	3
+srag	Cases	Limoeiro	1
+srag	Cases	Feira Nova	1
+srag	Cases	Serra Talhada	1
+srag	Cases	Moreno	1
+srag	Cases	Bezerros	1
+srag	Cases	Água Preta	2
+srag	Cases	Glória do Goitá	2
+srag	Cases	Águas Belas	2
+srag	Cases	Santa Cruz do Capibaribe	1
+srag	Cases	Tabira	2
+srag	Cases	Paudalho	1
+srag	Cases	Carpina	2
+srag	Cases	João Alfredo	2
+srag	Cases	Exu	1
+srag	Cases	Camaragibe	1
+srag	Cases	Bonito	1
+srag	Cases	Brejo da Madre de Deus	2
+srag	Cases	Timbaúba	1
+srag	Cases	São José do Egito	1
+srag	Cases	Taquaritinga do Norte	1
+srag	Cases	Custódia	1
+srag	Cases	Petrolândia	1
+srag	Cases	Aliança	1
+srag	Cases	Agrestina	1
+srag	Cases	São José do Belmonte	1
+srag	Cases	Cupira	1
+srag	Cases	Escada	1
+srag	Cases	Nazaré da Mata	1
+srag	Cases	Itambé	1
+srag	Cases	Buíque	1
+srag	Cases	Lajedo	1
+srag	Cases	São Bento do Una	1
+srag	Cases	Toritama	1
+srag	Cases	Bodocó	1
+srag	Cases	Floresta	1
+srag	Cases	Ipubi	1
+srag	Cases	Pombos	1
+srag	Cases	Surubim	1
+srag	Cases	Belo Jardim	11
+srag	Cases	Tamandaré	1
+srag	Cases	Lagoa dos Gatos	1
+srag	Cases	Abreu e Lima	1
+srag	Cases	São Caitano	1
+srag	Cases	São José da Coroa Grande	1
+srag	Cases	Trindade	9
+srag	Cases	Vicência	6
+srag	Cases	Bom Jardim	6
+srag	Cases	Passira	5
+srag	Cases	Lagoa do Carro	1
+srag	Cases	Orobó	1
+srag	Cases	Ribeirão	1
+srag	Cases	Araçoiaba	1
+srag	Cases	Sanharó	1
+srag	Cases	Betânia	1
+srag	Cases	Camocim de São Félix	1
+srag	Cases	Cabrobó	1
+srag	Cases	Rio Formoso	1
+srag	Cases	Canhotinho	1
+srag	Cases	Santa Maria da Boa Vista	1
+srag	Cases	Altinho	1
+srag	Cases	Chã Grande	1
+srag	Cases	Catende	1
+srag	Cases	Sirinhaém	1
+srag	Cases	Vertentes	1
+srag	Cases	Macaparana	1
+srag	Cases	Riacho das Almas	1
+srag	Cases	São Luís	9
+srag	Cases	Imperatriz	9
+srag	Cases	São José de Ribamar	6
+srag	Cases	Barreirinhas	6
+srag	Cases	Chapadinha	6
+srag	Cases	Vitorino Freire	6
+srag	Cases	Caxias	6
+srag	Cases	Porto Franco	2
+srag	Cases	Pinheiro	10
+srag	Cases	Pedreiras	2
+srag	Cases	Timon	2
+srag	Cases	Balsas	6
+srag	Cases	Itapecuru Mirim	6
+srag	Cases	Colinas	6
+srag	Cases	Açailândia	6
+srag	Cases	São João dos Patos	6
+srag	Cases	Lago da Pedra	6
+srag	Cases	São Raimundo das Mangabeiras	6
+srag	Cases	Zé Doca	6
+srag	Cases	Barra do Corda	6
+srag	Cases	Presidente Dutra	6
+srag	Cases	Santa Inês	6
+srag	Cases	Coroatá	6
+srag	Cases	Codó	6
+srag	Cases	Vitória do Mearim	6
+srag	Cases	Bacabal	6
+srag	Cases	Viana	6
+srag	Cases	Grajaú	6
+srag	Cases	Fortaleza	9
+srag	Cases	Maranguape	2
+srag	Cases	Sobral	9
+srag	Cases	Caucaia	1
+srag	Cases	Limoeiro do Norte	2
+srag	Cases	Acaraú	2
+srag	Cases	Aracati	1
+srag	Cases	São Gonçalo do Amarante	10
+srag	Cases	Quixeramobim	9
+srag	Cases	Itapipoca	1
+srag	Cases	Juazeiro do Norte	9
+srag	Cases	Tianguá	1
+srag	Cases	Boa Viagem	0
+srag	Cases	Barbalha	9
+srag	Cases	Iguatu	1
+srag	Cases	Crato	10
+srag	Cases	Ipueiras	6
+srag	Cases	Maracanaú	10
+srag	Cases	Pacatuba	2
+srag	Cases	Cascavel	9
+srag	Cases	Camocim	5
+srag	Cases	Jaguaruana	5
+srag	Cases	Várzea Alegre	10
+srag	Cases	Crateús	9
+srag	Cases	Mombaça	1
+srag	Cases	Tauá	1
+srag	Cases	Beberibe	1
+srag	Cases	Russas	9
+srag	Cases	Mauriti	0
+srag	Cases	Brejo Santo	1
+srag	Cases	Canindé	1
+srag	Cases	Icó	9
+srag	Cases	Ibiapina	1
+srag	Cases	Icapuí	1
+srag	Cases	Cedro	9
+srag	Cases	Assaré	9
+srag	Cases	Quixeré	9
+srag	Cases	Pentecoste	9
+srag	Cases	Jardim	9
+srag	Cases	Redenção	9
+srag	Cases	Acopiara	11
+srag	Cases	Cruz	9
+srag	Cases	Jaguaribe	9
+srag	Cases	Pereiro	9
+srag	Cases	Santa Quitéria	9
+srag	Cases	Marco	9
+srag	Cases	Barreira	9
+srag	Cases	Itarema	9
+srag	Cases	Massapê	9
+srag	Cases	Tabuleiro do Norte	9
+srag	Cases	Granja	9
+srag	Cases	Jijoca de Jericoacoara	9
+srag	Cases	Barro	9
+srag	Cases	Bela Cruz	9
+srag	Cases	Irauçuba	9
+srag	Cases	São Benedito	9
+srag	Cases	Morada Nova	9
+srag	Cases	Missão Velha	9
+srag	Cases	Iracema	9
+srag	Cases	Varjota	9
+srag	Cases	Aurora	9
+srag	Cases	Guaraciaba do Norte	9
+srag	Cases	Viçosa do Ceará	9
+srag	Cases	Guaiúba	9
+srag	Cases	Amontada	9
+srag	Cases	Ubajara	9
+srag	Cases	Senador Pompeu	9
+srag	Cases	Nova Russas	9
+srag	Cases	Uruburetama	9
+srag	Cases	Santana do Acaraú	9
+srag	Cases	Monsenhor Tabosa	9
+srag	Cases	Lavras da Mangabeira	9
+srag	Cases	Novo Oriente	9
+srag	Cases	Itaitinga	9
+srag	Cases	Campos Sales	9
+srag	Cases	Quixadá	9
+srag	Cases	Jucás	9
+srag	Cases	Horizonte	9
+srag	Cases	Reriutaba	9
+srag	Cases	Fortim	9
+srag	Cases	Frecheirinha	9
+srag	Cases	Paraipaba	9
+srag	Cases	Trairi	9
+srag	Cases	Aquiraz	9
+srag	Cases	Forquilha	9
+srag	Cases	Independência	9
+srag	Cases	Morrinhos	9
+srag	Cases	Eusébio	11
+srag	Cases	Tamboril	11
+srag	Cases	Braço do Norte	9
+srag	Cases	Jaraguá do Sul	9
+srag	Cases	São José	9
+srag	Cases	Joinville	9
+srag	Cases	Florianópolis	9
+srag	Cases	Tubarão	10
+srag	Cases	Blumenau	9
+srag	Cases	Balneário Camboriú	9
+srag	Cases	São Bento do Sul	12
+srag	Cases	Lages	10
+srag	Cases	Joaçaba	10
+srag	Cases	Araranguá	9
+srag	Cases	Brusque	9
+srag	Cases	Morro da Fumaça	12
+srag	Cases	Chapecó	9
+srag	Cases	Rio dos Cedros	6
+srag	Cases	Curitibanos	12
+srag	Cases	Capinzal	12
+srag	Cases	Itajaí	9
+srag	Cases	Itaiópolis	5
+srag	Cases	Biguaçu	10
+srag	Cases	Ituporanga	10
+srag	Cases	Timbó	10
+srag	Cases	Içara	10
+srag	Cases	Imbituba	12
+srag	Cases	Laguna	11
+srag	Cases	Pomerode	12
+srag	Cases	Ibirama	11
+srag	Cases	Jaguaruna	12
+srag	Cases	Criciúma	9
+srag	Cases	Canoinhas	5
+srag	Cases	Concórdia	5
+srag	Cases	Itapema	12
+srag	Cases	Videira	5
+srag	Cases	Três Barras	12
+srag	Cases	São Francisco do Sul	10
+srag	Cases	Turvo	5
+srag	Cases	Porto União	12
+srag	Cases	Fraiburgo	5
+srag	Cases	Rio do Sul	10
+srag	Cases	Gaspar	10
+srag	Cases	Caçador	10
+srag	Cases	Indaial	12
+srag	Cases	Agrolândia	5
+srag	Cases	Xanxerê	5
+srag	Cases	Xaxim	5
+srag	Cases	Mafra	12
+srag	Cases	Nova Trento	12
+srag	Cases	São João Batista	12
+srag	Cases	Navegantes	10
+srag	Cases	Presidente Getúlio	5
+srag	Cases	Papanduva	12
+srag	Cases	Palhoça	12
+srag	Cases	Iporã do Oeste	5
+srag	Cases	Orleans	5
+srag	Cases	Canelinha	5
+srag	Cases	São Miguel do Oeste	10
+srag	Cases	Maravilha	10
+srag	Cases	Armazém	5
+srag	Cases	Santo Amaro da Imperatriz	12
+srag	Cases	Campo Alegre	5
+srag	Cases	Massaranduba	5
+srag	Cases	Camboriú	5
+srag	Cases	Urussanga	11
+srag	Cases	São Lourenço do Oeste	11
+srag	Cases	Taió	11
+srag	Cases	Tijucas	9
+srag	Cases	São Joaquim	11
+srag	Cases	Sombrio	11
+srag	Cases	Guaramirim	11
+srag	Cases	Coronel Freitas	11
+srag	Cases	Rio Negrinho	11
+srag	Cases	Campos Novos	11
+srag	Cases	Jacinto Machado	11
+srag	Cases	Dionísio Cerqueira	11
+srag	Cases	Palmitos	11
+srag	Cases	Corupá	11
+srag	Cases	Guaraciaba	11
+srag	Cases	Itapoá	11
+srag	Cases	Luzerna	11
+srag	Cases	Penha	11
+srag	Cases	Trombudo Central	11
+srag	Cases	Luiz Alves	11
+srag	Cases	Cunha Porã	11
+srag	Cases	Santa Cecília	11
+srag	Cases	Barra Velha	11
+srag	Cases	Quilombo	11
+srag	Cases	Irani	11
+srag	Cases	Araquari	11
+srag	Cases	Itapiranga	11
+srag	Cases	Otacílio Costa	11
+srag	Cases	Pinhalzinho	11
+srag	Cases	São José do Cedro	11
+srag	Cases	Urubici	11
+srag	Cases	Faxinal dos Guedes	11
+srag	Cases	Itá	11
+srag	Cases	Pouso Redondo	11
+srag	Cases	Balneário Barra do Sul	11
+srag	Cases	Abelardo Luz	11
+srag	Cases	Bombinhas	11
+srag	Cases	Campo Erê	11
+srag	Cases	Garuva	11
+srag	Cases	Herval d'Oeste	11
+srag	Cases	Rio de Janeiro	9
+srag	Cases	Cabo Frio	10
+srag	Cases	Petrópolis	9
+srag	Cases	Resende	9
+srag	Cases	Angra dos Reis	10
+srag	Cases	Barra do Piraí	10
+srag	Cases	Niterói	9
+srag	Cases	Quissamã	2
+srag	Cases	Itaboraí	9
+srag	Cases	Macaé	9
+srag	Cases	Campos dos Goytacazes	9
+srag	Cases	Vassouras	2
+srag	Cases	Teresópolis	9
+srag	Cases	São Gonçalo	9
+srag	Cases	Duque de Caxias	9
+srag	Cases	Volta Redonda	9
+srag	Cases	Rio das Ostras	9
+srag	Cases	Itaguaí	9
+srag	Cases	Rio Bonito	10
+srag	Cases	Valença	9
+srag	Cases	Nova Friburgo	9
+srag	Cases	Nilópolis	9
+srag	Cases	Barra Mansa	9
+srag	Cases	Belford Roxo	9
+srag	Cases	Itaperuna	10
+srag	Cases	Saquarema	1
+srag	Cases	Maricá	10
+srag	Cases	Piraí	5
+srag	Cases	Araruama	10
+srag	Cases	Nova Iguaçu	9
+srag	Cases	Paraíba do Sul	2
+srag	Cases	Miguel Pereira	1
+srag	Cases	Magé	2
+srag	Cases	Mesquita	1
+srag	Cases	Itaocara	1
+srag	Cases	São João da Barra	1
+srag	Cases	Conceição de Macabu	11
+srag	Cases	Pinheiral	11
+srag	Cases	Quatis	1
+srag	Cases	Tanguá	1
+srag	Cases	Cachoeiras de Macacu	1
+srag	Cases	Japeri	0
+srag	Cases	Porto Real	6
+srag	Cases	Casimiro de Abreu	0
+srag	Cases	Bom Jesus do Itabapoana	6
+srag	Cases	Três Rios	2
+srag	Cases	Porciúncula	6
+srag	Cases	São Francisco de Itabapoana	1
+srag	Cases	Guapimirim	1
+srag	Cases	Iguaba Grande	1
+srag	Cases	Armação dos Búzios	1
+srag	Cases	Italva	2
+srag	Cases	Sumidouro	2
+srag	Cases	Sapucaia	1
+srag	Cases	Areal	1
+srag	Cases	Engenheiro Paulo de Frontin	1
+srag	Cases	Mangaratiba	1
+srag	Cases	Paracambi	1
+srag	Cases	Mendes	1
+srag	Cases	Paty do Alferes	1
+srag	Cases	Cambuci	1
+srag	Cases	Carapebus	1
+srag	Cases	Aperibé	1
+srag	Cases	Itatiaia	1
+srag	Cases	Carmo	1
+srag	Cases	Santo Antônio de Pádua	1
+srag	Cases	Comendador Levy Gasparian	1
+srag	Cases	Cantagalo	1
+srag	Cases	São Pedro da Aldeia	1
+srag	Cases	Silva Jardim	1
+srag	Cases	Seropédica	1
+srag	Cases	Queimados	1
+srag	Cases	Curitiba	9
+srag	Cases	Guaraniaçu	12
+srag	Cases	Paraíso do Norte	5
+srag	Cases	Paranavaí	10
+srag	Cases	Londrina	9
+srag	Cases	Maringá	9
+srag	Cases	Campina Grande do Sul	10
+srag	Cases	Telêmaco Borba	12
+srag	Cases	Campo Largo	10
+srag	Cases	Foz do Iguaçu	9
+srag	Cases	Palmas	10
+srag	Cases	Itaperuçu	5
+srag	Cases	Ivaiporã	12
+srag	Cases	Toledo	10
+srag	Cases	Santa Izabel do Oeste	6
+srag	Cases	Francisco Beltrão	10
+srag	Cases	Arapongas	10
+srag	Cases	Cianorte	9
+srag	Cases	Umuarama	10
+srag	Cases	Pato Branco	10
+srag	Cases	Apucarana	10
+srag	Cases	Ponta Grossa	9
+srag	Cases	Cornélio Procópio	10
+srag	Cases	Araucária	12
+srag	Cases	Campo Mourão	9
+srag	Cases	Cruzeiro do Oeste	6
+srag	Cases	São Mateus do Sul	5
+srag	Cases	Guarapuava	10
+srag	Cases	Santa Helena	5
+srag	Cases	Chopinzinho	12
+srag	Cases	Medianeira	12
+srag	Cases	Tibagi	12
+srag	Cases	Santo Antônio da Platina	10
+srag	Cases	São José dos Pinhais	10
+srag	Cases	Rolândia	12
+srag	Cases	Jacarezinho	12
+srag	Cases	Palmeira	12
+srag	Cases	Paranaguá	10
+srag	Cases	Jaguariaíva	5
+srag	Cases	Nova Esperança	5
+srag	Cases	Ibiporã	12
+srag	Cases	Assaí	6
+srag	Cases	Colorado	10
+srag	Cases	Nova Santa Rosa	10
+srag	Cases	Quedas do Iguaçu	10
+srag	Cases	Rio Branco do Sul	10
+srag	Cases	Terra Boa	10
+srag	Cases	Cambé	9
+srag	Cases	Irati	12
+srag	Cases	Nova Aurora	12
+srag	Cases	Mangueirinha	12
+srag	Cases	Santa Mariana	12
+srag	Cases	Joaquim Távora	12
+srag	Cases	União da Vitória	12
+srag	Cases	Dois Vizinhos	12
+srag	Cases	Piraquara	5
+srag	Cases	Marechal Cândido Rondon	12
+srag	Cases	Capitão Leônidas Marques	12
+srag	Cases	Ampére	12
+srag	Cases	Jardim Alegre	12
+srag	Cases	Bandeirantes	10
+srag	Cases	Palotina	10
+srag	Cases	Matelândia	7
+srag	Cases	Pinhais	7
+srag	Cases	Ubiratã	7
+srag	Cases	Imbituva	7
+srag	Cases	Astorga	7
+srag	Cases	Corbélia	7
+srag	Cases	Goioerê	10
+srag	Cases	Assis Chateaubriand	10
+srag	Cases	Wenceslau Braz	7
+srag	Cases	Bituruna	7
+srag	Cases	Céu Azul	7
+srag	Cases	Três Barras do Paraná	7
+srag	Cases	Araruna	10
+srag	Cases	Sengés	10
+srag	Cases	Santo Antônio do Sudoeste	10
+srag	Cases	Paiçandu	10
+srag	Cases	São Miguel do Iguaçu	10
+srag	Cases	Capanema	9
+srag	Cases	Loanda	7
+srag	Cases	Manoel Ribas	7
+srag	Cases	Itaipulândia	7
+srag	Cases	Siqueira Campos	7
+srag	Cases	Ribeirão do Pinhal	7
+srag	Cases	Castro	7
+srag	Cases	Engenheiro Beltrão	7
+srag	Cases	Andirá	7
+srag	Cases	Fazenda Rio Grande	7
+srag	Cases	Ribeirão Claro	7
+srag	Cases	Piên	7
+srag	Cases	Rebouças	7
+srag	Cases	Colombo	7
+srag	Cases	Santa Tereza do Oeste	7
+srag	Cases	Douradina	7
+srag	Cases	Planalto	7
+srag	Cases	Florestópolis	7
+srag	Cases	Cidade Gaúcha	7
+srag	Cases	Santa Isabel do Ivaí	7
+srag	Cases	Piraí do Sul	7
+srag	Cases	Mamborê	7
+srag	Cases	Terra Rica	7
+srag	Cases	Laranjeiras do Sul	7
+srag	Cases	Jaguapitã	7
+srag	Cases	Clevelândia	7
+srag	Cases	São Jorge d'Oeste	7
+srag	Cases	Lapa	7
+srag	Cases	Coronel Vivida	7
+srag	Cases	Santa Terezinha de Itaipu	7
+srag	Cases	Candói	7
+srag	Cases	Curiúva	7
+srag	Cases	Salto do Lontra	7
+srag	Cases	Altônia	7
+srag	Cases	Porecatu	7
+srag	Cases	Carambeí	7
+srag	Cases	Ibaiti	7
+srag	Cases	Quitandinha	7
+srag	Cases	Missal	7
+srag	Cases	Uraí	7
+srag	Cases	Terra Roxa	7
+srag	Cases	Prudentópolis	7
+srag	Cases	Pitanga	7
+srag	Cases	Arapoti	7
+srag	Cases	Jandaia do Sul	7
+srag	Cases	Realeza	7
+srag	Cases	Paracatu	7
+srag	Cases	Belo Horizonte	9
+srag	Cases	Uberlândia	9
+srag	Cases	Extrema	1
+srag	Cases	Juiz de Fora	9
+srag	Cases	Uberaba	9
+srag	Cases	Leopoldina	10
+srag	Cases	Betim	9
+srag	Cases	Araguari	0
+srag	Cases	Patrocínio	10
+srag	Cases	Cataguases	10
+srag	Cases	Caratinga	10
+srag	Cases	Coronel Fabriciano	10
+srag	Cases	Muriaé	10
+srag	Cases	Ponte Nova	12
+srag	Cases	Manhuaçu	10
+srag	Cases	Sete Lagoas	10
+srag	Cases	Divinópolis	9
+srag	Cases	Ubá	10
+srag	Cases	Ipatinga	10
+srag	Cases	Teófilo Otoni	10
+srag	Cases	Barão de Cocais	6
+srag	Cases	Pouso Alegre	9
+srag	Cases	Montes Claros	9
+srag	Cases	Governador Valadares	9
+srag	Cases	Canápolis	6
+srag	Cases	Lagoa da Prata	10
+srag	Cases	Barbacena	9
+srag	Cases	Poços de Caldas	10
+srag	Cases	Ribeirão das Neves	12
+srag	Cases	Contagem	9
+srag	Cases	Frutal	5
+srag	Cases	Nova Lima	12
+srag	Cases	João Monlevade	12
+srag	Cases	Formiga	12
+srag	Cases	Eugenópolis	6
+srag	Cases	Curvelo	10
+srag	Cases	Ibirité	10
+srag	Cases	São Lourenço	10
+srag	Cases	Itanhandu	5
+srag	Cases	Visconde do Rio Branco	10
+srag	Cases	Jaboticatubas	11
+srag	Cases	Unaí	11
+srag	Cases	Araxá	11
+srag	Cases	São Joaquim de Bicas	5
+srag	Cases	Ituiutaba	10
+srag	Cases	Pirapora	10
+srag	Cases	Patos de Minas	9
+srag	Cases	Mateus Leme	5
+srag	Cases	João Pinheiro	11
+srag	Cases	Itabira	10
+srag	Cases	Três Pontas	12
+srag	Cases	Bom Sucesso	6
+srag	Cases	Além Paraíba	10
+srag	Cases	Itajubá	9
+srag	Cases	Carangola	10
+srag	Cases	Mariana	10
+srag	Cases	Três Corações	10
+srag	Cases	Pedra Azul	5
+srag	Cases	Lagoa Santa	12
+srag	Cases	Santa Luzia	10
+srag	Cases	Itaobim	10
+srag	Cases	Ervália	10
+srag	Cases	Guaranésia	10
+srag	Cases	Guaxupé	10
+srag	Cases	Ouro Fino	1
+srag	Cases	Itamogi	6
+srag	Cases	Passos	1
+srag	Cases	Conceição das Alagoas	11
+srag	Cases	Ouro Branco	11
+srag	Cases	São Sebastião do Paraíso	10
+srag	Cases	Oliveira	11
+srag	Cases	Brumadinho	11
+srag	Cases	Malacacheta	6
+srag	Cases	Campestre	6
+srag	Cases	Araporã	11
+srag	Cases	Alfenas	10
+srag	Cases	Andradas	5
+srag	Cases	Timóteo	12
+srag	Cases	Araçuaí	6
+srag	Cases	Piumhi	0
+srag	Cases	Varginha	9
+srag	Cases	Almenara	5
+srag	Cases	Janaúba	10
+srag	Cases	Monte Carmelo	5
+srag	Cases	Santa Juliana	6
+srag	Cases	Conselheiro Pena	6
+srag	Cases	Pará de Minas	12
+srag	Cases	Sabará	5
+srag	Cases	Santa Bárbara	5
+srag	Cases	Santa Rita do Sapucaí	5
+srag	Cases	Conselheiro Lafaiete	10
+srag	Cases	Lavras	3
+srag	Cases	Januária	12
+srag	Cases	Itabirito	6
+srag	Cases	Itambacuri	6
+srag	Cases	Nanuque	6
+srag	Cases	Viçosa	5
+srag	Cases	Aimorés	5
+srag	Cases	Prata	5
+srag	Cases	Capinópolis	5
+srag	Cases	Sarzedo	8
+srag	Cases	São João del Rei	9
+srag	Cases	Boa Esperança	6
+srag	Cases	Congonhas	6
+srag	Cases	Monte Alegre de Minas	6
+srag	Cases	Itaguara	6
+srag	Cases	Capelinha	5
+srag	Cases	Santo Antônio do Monte	1
+srag	Cases	Monte Santo de Minas	1
+srag	Cases	Novo Cruzeiro	1
+srag	Cases	Cruzília	10
+srag	Cases	Vespasiano	10
+srag	Cases	São Gotardo	0
+srag	Cases	Nova Ponte	1
+srag	Cases	Francisco Sá	1
+srag	Cases	Poço Fundo	1
+srag	Cases	Divino	1
+srag	Cases	São José da Lapa	1
+srag	Cases	Esmeraldas	1
+srag	Cases	Espinosa	0
+srag	Cases	Cambuquira	0
+srag	Cases	Minas Novas	0
+srag	Cases	Candeias	9
+srag	Cases	Campina Verde	6
+srag	Cases	Mutum	6
+srag	Cases	Nova Serrana	0
+srag	Cases	Nepomuceno	0
+srag	Cases	Baependi	0
+srag	Cases	Pedro Leopoldo	0
+srag	Cases	Paraguaçu	0
+srag	Cases	Lambari	0
+srag	Cases	Várzea da Palma	0
+srag	Cases	Guanhães	0
+srag	Cases	Pirapetinga	0
+srag	Cases	Padre Paraíso	0
+srag	Cases	Rio Acima	0
+srag	Cases	Lima Duarte	0
+srag	Cases	Santos Dumont	0
+srag	Cases	Sacramento	0
+srag	Cases	Igarapé	0
+srag	Cases	Turmalina	0
+srag	Cases	Prados	0
+srag	Cases	Carmópolis de Minas	0
+srag	Cases	Juruaia	0
+srag	Cases	Jaíba	0
+srag	Cases	Abaeté	0
+srag	Cases	Campo Belo	0
+srag	Cases	Tupaciguara	10
+srag	Cases	Inhapim	0
+srag	Cases	Pedralva	0
+srag	Cases	Três Marias	0
+srag	Cases	Paraisópolis	0
+srag	Cases	Entre Rios de Minas	0
+srag	Cases	Camanducaia	0
+srag	Cases	Cambuí	0
+srag	Cases	Medina	0
+srag	Cases	Cássia	0
+srag	Cases	Águas Formosas	0
+srag	Cases	Caeté	0
+srag	Cases	Belo Oriente	0
+srag	Cases	Cristais	0
+srag	Cases	Machado	0
+srag	Cases	Arcos	0
+srag	Cases	Resplendor	0
+srag	Cases	Itaúna	0
+srag	Cases	Fronteira	0
+srag	Cases	Brasília de Minas	0
+srag	Cases	Caetanópolis	0
+srag	Cases	Diamantina	0
+srag	Cases	Alpinópolis	0
+srag	Cases	Juatuba	0
+srag	Cases	Ouro Preto	0
+srag	Cases	Jacutinga	0
+srag	Cases	Guapé	0
+srag	Cases	Cláudio	0
+srag	Cases	Corinto	0
+srag	Cases	Jequitinhonha	0
+srag	Cases	Carmo do Rio Claro	0
+srag	Cases	Campos Altos	0
+srag	Cases	Campanha	0
+srag	Cases	Alvinópolis	0
+srag	Cases	Caxambu	0
+srag	Cases	São Gonçalo do Rio Abaixo	0
+srag	Cases	Serra do Salitre	0
+srag	Cases	Rio Pomba	0
+srag	Cases	São João Nepomuceno	0
+srag	Cases	Botelhos	0
+srag	Cases	Perdizes	0
+srag	Cases	Conceição do Mato Dentro	0
+srag	Cases	Matias Barbosa	0
+srag	Cases	Perdões	0
+srag	Cases	Nova Era	0
+srag	Cases	Matozinhos	0
+srag	Cases	Borda da Mata	0
+srag	Cases	Muzambinho	0
+srag	Cases	Coromandel	0
+srag	Cases	Bocaiúva	0
+srag	Cases	Bicas	0
+srag	Cases	Bom Despacho	0
+srag	Cases	Ibiraci	0
+srag	Cases	Areado	0
+srag	Cases	Passa Quatro	0
+srag	Cases	Carlos Chagas	0
+srag	Cases	Barroso	0
+srag	Cases	Estiva	0
+srag	Cases	Manhumirim	0
+srag	Cases	Serro	0
+srag	Cases	Martinho Campos	0
+srag	Cases	Elói Mendes	0
+srag	Cases	Resende Costa	0
+srag	Cases	São Roque de Minas	0
+srag	Cases	Iturama	0
+srag	Cases	Nova Resende	0
+srag	Cases	Antônio Carlos	0
+srag	Cases	Maria da Fé	0
+srag	Cases	Itaú de Minas	0
+srag	Cases	Monte Azul	0
+srag	Cases	Rio Piracicaba	0
+srag	Cases	Congonhal	0
+srag	Cases	Mantena	0
+srag	Cases	Ipanema	0
+srag	Cases	Capitólio	0
+srag	Cases	Rio Paranaíba	0
+srag	Cases	Monte Sião	0
+srag	Cases	Carmo do Paranaíba	0
+srag	Cases	São João Evangelista	0
+srag	Cases	Itamonte	0
+srag	Cases	Mar de Espanha	0
+srag	Cases	São Domingos do Prata	0
+srag	Cases	Porteirinha	0
+srag	Cases	São Gonçalo do Sapucaí	0
+srag	Cases	Lagoa Formosa	0
+srag	Cases	Santa Maria de Itabira	0
+srag	Cases	Pompéu	0
+srag	Cases	Coração de Jesus	0
+srag	Cases	Dores do Indaiá	0
+srag	Cases	Alterosa	0
+srag	Cases	Vazante	0
+srag	Cases	Salinas	0
+srag	Cases	Raul Soares	0
+srag	Cases	Teixeiras	0
+srag	Cases	Caldas	0
+srag	Cases	Carmo de Minas	0
+srag	Cases	Felixlândia	0
+srag	Cases	Marabá	9
+srag	Cases	Altamira	9
+srag	Cases	Parauapebas	9
+srag	Cases	Belém	9
+srag	Cases	São Miguel do Guamá	2
+srag	Cases	Castanhal	1
+srag	Cases	Santarém	9
+srag	Cases	Ananindeua	2
+srag	Cases	Santo Antônio do Tauá	2
+srag	Cases	Pacajá	2
+srag	Cases	Tucuruí	8
+srag	Cases	Canaã dos Carajás	8
+srag	Cases	Tomé-Açu	8
+srag	Cases	Xinguara	8
+srag	Cases	Igarapé-Miri	8
+srag	Cases	Bragança	8
+srag	Cases	Salinópolis	8
+srag	Cases	Novo Repartimento	8
+srag	Cases	Paragominas	8
+srag	Cases	Ourilândia do Norte	8
+srag	Cases	Igarapé-Açu	8
+srag	Cases	Santa Maria do Pará	8
+srag	Cases	Juruti	8
+srag	Cases	Oriximiná	8
+srag	Cases	Breves	8
+srag	Cases	Mãe do Rio	8
+srag	Cases	Monte Alegre	8
+srag	Cases	Óbidos	8
+srag	Cases	Moju	8
+srag	Cases	Conceição do Araguaia	8
+srag	Cases	Novo Progresso	8
+srag	Cases	Cametá	8
+srag	Cases	Dom Eliseu	8
+srag	Cases	Barcarena	8
+srag	Cases	Goianésia do Pará	6
+srag	Cases	Jacundá	8
+srag	Cases	Tailândia	8
+srag	Cases	Rurópolis	8
+srag	Cases	Vigia	8
+srag	Cases	Alenquer	8
+srag	Cases	Marituba	8
+srag	Cases	Tucumã	10
+srag	Cases	Rondon do Pará	8
+srag	Cases	Anapu	8
+srag	Cases	Ulianópolis	8
+srag	Cases	São Geraldo do Araguaia	8
+srag	Cases	Brasil Novo	8
+srag	Cases	Curionópolis	8
+srag	Cases	Breu Branco	8
+srag	Cases	Itaituba	8
+srag	Cases	Benevides	8
+srag	Cases	Capitão Poço	8
+srag	Cases	Abaetetuba	8
+srag	Cases	Almeirim	8
+srag	Cases	Portel	8
+srag	Cases	Mocajuba	8
+srag	Cases	Itupiranga	8
+srag	Cases	Uruará	8
+srag	Cases	São Félix do Xingu	8
+srag	Cases	Concórdia do Pará	8
+srag	Cases	Terra Santa	8
+srag	Cases	Acará	8
+srag	Cases	São Domingos do Araguaia	8
+srag	Cases	Rio Maria	8
+srag	Cases	Santana do Araguaia	8
+srag	Cases	Salvador	9
+srag	Cases	Vitória da Conquista	10
+srag	Cases	Jequié	10
+srag	Cases	Ilhéus	10
+srag	Cases	Itabuna	9
+srag	Cases	Feira de Santana	10
+srag	Cases	Barreiras	12
+srag	Cases	Camaçari	10
+srag	Cases	Simões Filho	5
+srag	Cases	Teixeira de Freitas	10
+srag	Cases	Irecê	12
+srag	Cases	Juazeiro	10
+srag	Cases	Lauro de Freitas	9
+srag	Cases	Porto Seguro	12
+srag	Cases	Paulo Afonso	4
+srag	Cases	Alagoinhas	4
+srag	Cases	São Felipe	6
+srag	Cases	Mucuri	6
+srag	Cases	Maracás	4
+srag	Cases	Eunápolis	12
+srag	Cases	Carinhanha	6
+srag	Cases	Serrinha	4
+srag	Cases	Riachão do Jacuípe	6
+srag	Cases	Nazaré	4
+srag	Cases	São Desidério	4
+srag	Cases	Santo Antônio de Jesus	12
+srag	Cases	Sento Sé	6
+srag	Cases	Seabra	12
+srag	Cases	Santa Rita de Cássia	6
+srag	Cases	Conceição da Feira	5
+srag	Cases	Senhor do Bonfim	5
+srag	Cases	Castro Alves	6
+srag	Cases	Canavieiras	5
+srag	Cases	São Francisco do Conde	5
+srag	Cases	Mata de São João	5
+srag	Cases	Itaberaba	12
+srag	Cases	Riacho de Santana	2
+srag	Cases	Remanso	2
+srag	Cases	Poções	3
+srag	Cases	Camacan	3
+srag	Cases	Ibicaraí	3
+srag	Cases	Itaparica	3
+srag	Cases	Morro do Chapéu	3
+srag	Cases	Amélia Rodrigues	3
+srag	Cases	Campo Formoso	10
+srag	Cases	Valente	3
+srag	Cases	Pojuca	10
+srag	Cases	Santo Estêvão	3
+srag	Cases	Itamaraju	3
+srag	Cases	João Dourado	2
+srag	Cases	Itacaré	2
+srag	Cases	Gandu	2
+srag	Cases	Dias d'Ávila	3
+srag	Cases	Iaçu	2
+srag	Cases	Guanambi	3
+srag	Cases	Casa Nova	2
+srag	Cases	Prado	2
+srag	Cases	Presidente Tancredo Neves	2
+srag	Cases	Ipiaú	3
+srag	Cases	Itajuípe	3
+srag	Cases	Maragogipe	3
+srag	Cases	Rio Real	3
+srag	Cases	Medeiros Neto	3
+srag	Cases	Belo Campo	3
+srag	Cases	Ituberá	3
+srag	Cases	Condeúba	3
+srag	Cases	São Sebastião do Passé	3
+srag	Cases	Ubatã	3
+srag	Cases	Uauá	3
+srag	Cases	Barra da Estiva	3
+srag	Cases	Inhambupe	3
+srag	Cases	Caetité	3
+srag	Cases	Itatim	3
+srag	Cases	Uruçuca	3
+srag	Cases	São Félix do Coribe	3
+srag	Cases	Conceição do Jacuípe	3
+srag	Cases	Santa Maria da Vitória	3
+srag	Cases	Itanhém	3
+srag	Cases	Amargosa	3
+srag	Cases	Miguel Calmon	3
+srag	Cases	Cachoeira	3
+srag	Cases	Correntina	3
+srag	Cases	Entre Rios	3
+srag	Cases	Itapetinga	3
+srag	Cases	Mutuípe	3
+srag	Cases	Alcobaça	3
+srag	Cases	Irará	3
+srag	Cases	Jacobina	3
+srag	Cases	Cruz das Almas	3
+srag	Cases	Madre de Deus	3
+srag	Cases	Itabela	3
+srag	Cases	Caravelas	3
+srag	Cases	Conceição do Coité	3
+srag	Cases	Una	3
+srag	Cases	Ruy Barbosa	3
+srag	Cases	Laje	3
+srag	Cases	Cândido Sales	3
+srag	Cases	Nova Viçosa	3
+srag	Cases	Capim Grosso	3
+srag	Cases	Iguaí	3
+srag	Cases	Lapão	3
+srag	Cases	Muritiba	3
+srag	Cases	Coração de Maria	3
+srag	Cases	Ibotirama	3
+srag	Cases	Ribeira do Pombal	3
+srag	Cases	Coaraci	3
+srag	Cases	Araci	3
+srag	Cases	Livramento de Nossa Senhora	3
+srag	Cases	Xique-Xique	3
+srag	Cases	Barra do Choça	3
+srag	Cases	Curaçá	3
+srag	Cases	Itiúba	3
+srag	Cases	Bom Jesus da Lapa	3
+srag	Cases	Euclides da Cunha	3
+srag	Cases	Belmonte	3
+srag	Cases	Catu	3
+srag	Cases	Jaguaquara	3
+srag	Cases	Santo Amaro	3
+srag	Cases	Santa Cruz Cabrália	3
+srag	Cases	Cansanção	3
+srag	Cases	Itarantim	3
+srag	Cases	Santa Rita	9
+srag	Cases	João Pessoa	9
+srag	Cases	Campina Grande	10
+srag	Cases	Catolé do Rocha	6
+srag	Cases	Pombal	12
+srag	Cases	Patos	10
+srag	Cases	São Bento	5
+srag	Cases	Serra Branca	5
+srag	Cases	Monteiro	5
+srag	Cases	Cajazeiras	10
+srag	Cases	Alagoa Grande	5
+srag	Cases	Princesa Isabel	5
+srag	Cases	Sousa	5
+srag	Cases	Guarabira	5
+srag	Cases	Sapé	6
+srag	Cases	Cabedelo	6
+srag	Cases	Picuí	6
+srag	Cases	Bayeux	6
+srag	Cases	Pedras de Fogo	6
+srag	Cases	Sumé	6
+srag	Cases	Itabaiana	10
+srag	Cases	Mari	6
+srag	Cases	Mamanguape	5
+srag	Cases	Rio Tinto	6
+srag	Cases	Queimadas	5
+srag	Cases	Solânea	5
+srag	Cases	Alhandra	5
+srag	Cases	Ingá	5
+srag	Cases	Cuité	5
+srag	Cases	Alagoa Nova	5
+srag	Cases	Vitória	9
+srag	Cases	Cariacica	2
+srag	Cases	Serra	9
+srag	Cases	Vila Velha	1
+srag	Cases	Guarapari	2
+srag	Cases	Baixo Guandu	6
+srag	Cases	Aracruz	2
+srag	Cases	Cachoeiro de Itapemirim	10
+srag	Cases	Barra de São Francisco	6
+srag	Cases	Alegre	6
+srag	Cases	Castelo	5
+srag	Cases	Linhares	10
+srag	Cases	Marechal Floriano	6
+srag	Cases	Nova Venécia	6
+srag	Cases	São Gabriel da Palha	6
+srag	Cases	Colatina	10
+srag	Cases	Rio Bananal	6
+srag	Cases	Sooretama	6
+srag	Cases	Santa Teresa	2
+srag	Cases	São Mateus	1
+srag	Cases	Alfredo Chaves	6
+srag	Cases	Jaguaré	6
+srag	Cases	Afonso Cláudio	2
+srag	Cases	Ibatiba	2
+srag	Cases	Guaçuí	2
+srag	Cases	Anchieta	2
+srag	Cases	Domingos Martins	2
+srag	Cases	Vargem Alta	2
+srag	Cases	Itapemirim	2
+srag	Cases	Iúna	2
+srag	Cases	Marataízes	2
+srag	Cases	Piúma	2
+srag	Cases	Presidente Kennedy	2
+srag	Cases	Ecoporanga	2
+srag	Cases	Montanha	2
+srag	Cases	Fundão	2
+srag	Cases	Pinheiros	2
+srag	Cases	Iconha	2
+srag	Cases	São Roque do Canaã	2
+srag	Cases	Santa Leopoldina	2
+srag	Cases	Vila Valério	2
+srag	Cases	Pedro Canário	2
+srag	Cases	Venda Nova do Imigrante	2
+srag	Cases	Santa Maria de Jetibá	2
+srag	Cases	Bom Jesus do Norte	2
+srag	Cases	Pancas	2
+srag	Cases	Marilândia	2
+srag	Cases	Natal	9
+srag	Cases	Mossoró	9
+srag	Cases	Parnamirim	12
+srag	Cases	Caicó	12
+srag	Cases	Guamaré	6
+srag	Cases	Pau dos Ferros	10
+srag	Cases	São Paulo do Potengi	5
+srag	Cases	Extremoz	5
+srag	Cases	Santo Antônio	5
+srag	Cases	Macaíba	10
+srag	Cases	Touros	6
+srag	Cases	Apodi	5
+srag	Cases	Currais Novos	5
+srag	Cases	Nova Cruz	5
+srag	Cases	Areia Branca	5
+srag	Cases	Ceará-Mirim	5
+srag	Cases	Jucurutu	6
+srag	Cases	Santa Cruz	5
+srag	Cases	São Miguel	6
+srag	Cases	São José de Mipibu	5
+srag	Cases	Canguaretama	6
+srag	Cases	Alto do Rodrigues	6
+srag	Cases	João Câmara	5
+srag	Cases	Macau	5
+srag	Cases	Caraúbas	5
+srag	Cases	Jardim de Piranhas	5
+srag	Cases	Goianinha	5
+srag	Cases	Teresina	9
+srag	Cases	Parnaíba	2
+srag	Cases	Campo Maior	12
+srag	Cases	Piripiri	2
+srag	Cases	Floriano	2
+srag	Cases	Picos	4
+srag	Cases	São Raimundo Nonato	6
+srag	Cases	Bom Jesus	6
+srag	Cases	Oeiras	6
+srag	Cases	Goiânia	9
+srag	Cases	Goianésia	12
+srag	Cases	Mineiros	10
+srag	Cases	Aparecida de Goiânia	9
+srag	Cases	Montividiu	6
+srag	Cases	Quirinópolis	6
+srag	Cases	Anápolis	9
+srag	Cases	Caldas Novas	10
+srag	Cases	Itumbiara	12
+srag	Cases	Nerópolis	12
+srag	Cases	Ceres	5
+srag	Cases	Águas Lindas de Goiás	8
+srag	Cases	São Luís de Montes Belos	12
+srag	Cases	Bom Jesus de Goiás	5
+srag	Cases	Rio Verde	10
+srag	Cases	Catalão	10
+srag	Cases	Valparaíso de Goiás	1
+srag	Cases	Santo Antônio de Goiás	6
+srag	Cases	Jaraguá	6
+srag	Cases	Jataí	12
+srag	Cases	Porangatu	5
+srag	Cases	Inhumas	5
+srag	Cases	Formosa	12
+srag	Cases	Pirenópolis	5
+srag	Cases	Planaltina	5
+srag	Cases	Luziânia	12
+srag	Cases	Aragarças	6
+srag	Cases	Senador Canedo	4
+srag	Cases	Hidrolândia	6
+srag	Cases	Santa Helena de Goiás	12
+srag	Cases	Edéia	6
+srag	Cases	Pires do Rio	12
+srag	Cases	Cristalina	5
+srag	Cases	Itapuranga	5
+srag	Cases	Novo Gama	5
+srag	Cases	Acreúna	6
+srag	Cases	Iporá	5
+srag	Cases	Goiás	5
+srag	Cases	Itaberaí	12
+srag	Cases	Niquelândia	5
+srag	Cases	Indiara	5
+srag	Cases	Uruaçu	5
+srag	Cases	Goianira	5
+srag	Cases	Cocalzinho de Goiás	5
+srag	Cases	Alexânia	12
+srag	Cases	Goiatuba	5
+srag	Cases	Buriti Alegre	5
+srag	Cases	Campos Belos	5
+srag	Cases	Bela Vista de Goiás	5
+srag	Cases	Silvânia	5
+srag	Cases	Palmeiras de Goiás	5
+srag	Cases	Goianápolis	5
+srag	Cases	Piracanjuba	5
+srag	Cases	Piranhas	5
+srag	Cases	Caçu	5
+srag	Cases	Rialma	5
+srag	Cases	Guapó	5
+srag	Cases	Cachoeira Alta	5
+srag	Cases	Anicuns	5
+srag	Cases	Itapaci	10
+srag	Cases	Corumbaíba	10
+srag	Cases	Sanclerlândia	10
+srag	Cases	Santo Antônio do Descoberto	10
+srag	Cases	Campinorte	10
+srag	Cases	Rubiataba	10
+srag	Cases	Ipameri	10
+srag	Cases	Caiapônia	10
+srag	Cases	Posse	10
+srag	Cases	Orizona	10
+srag	Cases	Vianópolis	10
+srag	Cases	Jussara	10
+srag	Cases	Cidade Ocidental	10
+srag	Cases	Maceió	9
+srag	Cases	Coruripe	6
+srag	Cases	Arapiraca	8
+srag	Cases	São Miguel dos Campos	2
+srag	Cases	Santana do Ipanema	2
+srag	Cases	Palmeira dos Índios	5
+srag	Cases	Rio Largo	5
+srag	Cases	Chã Preta	6
+srag	Cases	Pilar	5
+srag	Cases	Girau do Ponciano	5
+srag	Cases	Teotônio Vilela	5
+srag	Cases	Delmiro Gouveia	5
+srag	Cases	Porto Calvo	5
+srag	Cases	União dos Palmares	12
+srag	Cases	Marechal Deodoro	5
+srag	Cases	São José da Laje	5
+srag	Cases	Murici	5
+srag	Cases	Maragogi	5
+srag	Cases	Junqueiro	5
+srag	Cases	Penedo	5
+srag	Cases	Pão de Açúcar	5
+srag	Cases	Cuiabá	9
+srag	Cases	Lucas do Rio Verde	2
+srag	Cases	Sorriso	10
+srag	Cases	Campo Novo do Parecis	2
+srag	Cases	Tangará da Serra	2
+srag	Cases	Jaciara	2
+srag	Cases	Nova Mutum	1
+srag	Cases	Primavera do Leste	10
+srag	Cases	Cáceres	10
+srag	Cases	Campo Verde	2
+srag	Cases	Várzea Grande	2
+srag	Cases	Rondonópolis	10
+srag	Cases	Vila Rica	6
+srag	Cases	Água Boa	5
+srag	Cases	Alto Araguaia	8
+srag	Cases	Colíder	10
+srag	Cases	Canarana	8
+srag	Cases	Campos de Júlio	8
+srag	Cases	Juara	8
+srag	Cases	Sinop	1
+srag	Cases	Barra do Garças	10
+srag	Cases	Barra do Bugres	6
+srag	Cases	Juína	6
+srag	Cases	Querência	2
+srag	Cases	Nobres	8
+srag	Cases	Aripuanã	8
+srag	Cases	Diamantino	8
+srag	Cases	Colniza	8
+srag	Cases	Nova Xavantina	8
+srag	Cases	Brasnorte	8
+srag	Cases	Araputanga	8
+srag	Cases	Alta Floresta	8
+srag	Cases	Pontes e Lacerda	8
+srag	Cases	São José dos Quatro Marcos	8
+srag	Cases	São José do Rio Claro	8
+srag	Cases	Confresa	8
+srag	Cases	Peixoto de Azevedo	8
+srag	Cases	Mirassol d'Oeste	8
+srag	Cases	Tapurah	8
+srag	Cases	Augustinópolis	8
+srag	Cases	Araguaína	9
+srag	Cases	Gurupi	10
+srag	Cases	Paraíso do Tocantins	5
+srag	Cases	Guaraí	1
+srag	Cases	Dianópolis	1
+srag	Cases	Miracema do Tocantins	1
+srag	Cases	Porto Nacional	10
+srag	Cases	Tocantinópolis	8
+srag	Cases	Araguatins	8
+srag	Cases	Colinas do Tocantins	8
+srag	Cases	Formoso do Araguaia	8
+srag	Cases	Pedro Afonso	8
+srag	Cases	Porto Velho	9
+srag	Cases	Pimenta Bueno	6
+srag	Cases	Guajará-Mirim	2
+srag	Cases	Ji-Paraná	10
+srag	Cases	Jaru	5
+srag	Cases	Cacoal	1
+srag	Cases	Ariquemes	2
+srag	Cases	Vilhena	5
+srag	Cases	Presidente Médici	6
+srag	Cases	Ouro Preto do Oeste	5
+srag	Cases	Rolim de Moura	5
+srag	Cases	Buritis	5
+srag	Cases	São Francisco do Guaporé	5
+srag	Cases	São Miguel do Guaporé	5
+srag	Cases	Colorado do Oeste	5
+srag	Cases	Nova Mamoré	5
+srag	Cases	Rio Branco	9
+srag	Cases	Aracaju	9
+srag	Cases	Itabaianinha	6
+srag	Cases	Nossa Senhora da Glória	4
+srag	Cases	Nossa Senhora do Socorro	10
+srag	Cases	Lagarto	10
+srag	Cases	Estância	10
+srag	Cases	Simão Dias	6
+srag	Cases	Propriá	4
+srag	Cases	Carmópolis	4
+srag	Cases	São Cristóvão	10
+srag	Cases	Canindé de São Francisco	6
+srag	Cases	Capela	6
+srag	Cases	Itaporanga d'Ajuda	4
+srag	Cases	Umbaúba	4
+srag	Cases	Tobias Barreto	4
+srag	Cases	Boquim	4
+srag	Cases	Carira	4
+srag	Cases	Campo do Brito	4
+srag	Cases	Laranjeiras	4
+srag	Cases	Barra dos Coqueiros	4
+srag	Cases	Salgado	4
+srag	Cases	Poço Verde	4
+srag	Cases	Nossa Senhora das Dores	4
+srag	Cases	Poço Redondo	4
+srag	Cases	Boa Vista	10
+srag	Cases	Macapá	9
+srag	Cases	Laranjal do Jari	2
+srag	Cases	Santana	2
+srag	Cases	Oiapoque	2
+srag	Cases	Nova Andradina	9
+srag	Cases	Campo Grande	9
+srag	Cases	Corumbá	10
+srag	Cases	Naviraí	10
+srag	Cases	Ponta Porã	10
+srag	Cases	Sidrolândia	12
+srag	Cases	Miranda	5
+srag	Cases	Maracaju	12
+srag	Cases	Amambai	12
+srag	Cases	Dourados	9
+srag	Cases	Três Lagoas	9
+srag	Cases	São Gabriel do Oeste	5
+srag	Cases	Ribas do Rio Pardo	5
+srag	Cases	Eldorado	5
+srag	Cases	Chapadão do Sul	10
+srag	Cases	Aquidauana	12
+srag	Cases	Itaporã	5
+srag	Cases	Brasilândia	5
+srag	Cases	Paranaíba	10
+srag	Cases	Bataguassu	5
+srag	Cases	Coxim	10
+srag	Cases	Ivinhema	5
+srag	Cases	Iguatemi	10
+srag	Cases	Guia Lopes da Laguna	10
+srag	Cases	Rio Brilhante	10
+srag	Cases	Costa Rica	10
+srag	Cases	Fátima do Sul	10
+srag	Cases	Cassilândia	10
+srag	Cases	Ladário	10
+srag	Cases	Terenos	10
+srag	Cases	Aparecida do Taboado	10
+srag	Cases	Sonora	10
+srag	Cases	Rio Verde de Mato Grosso	10
+srag	Cases	Angélica	10
+srag	Cases	Bela Vista	10
+srag	Cases	Glória de Dourados	10
+srag	Cases	Porto Murtinho	10
+srag	Cases	Anastácio	10
+srag	Cases	Itaquiraí	10
+srag	Cases	Mundo Novo	10
+srag	Cases	Camapuã	10
+srag	Cases	Caarapó	10
+srag	Cases	Deodápolis	10
+srag	Cases	Água Clara	10
+srag	Cases	Nova Alvorada do Sul	10
+srag	Cases	Batayporã	10
+srag	Death	São Paulo	13
+srag	Death	Franco da Rocha	5
+srag	Death	Leme	5
+srag	Death	Bragança Paulista	13
+srag	Death	Sertãozinho	5
+srag	Death	São Bernardo do Campo	13
+srag	Death	São Caetano do Sul	13
+srag	Death	Santo André	13
+srag	Death	Santos	13
+srag	Death	Barueri	13
+srag	Death	Guarulhos	13
+srag	Death	Jundiaí	13
+srag	Death	Capão Bonito	5
+srag	Death	Caraguatatuba	13
+srag	Death	Osasco	13
+srag	Death	Itapevi	5
+srag	Death	Bauru	13
+srag	Death	Ribeirão Preto	13
+srag	Death	Campinas	13
+srag	Death	Mairiporã	3
+srag	Death	Santana de Parnaíba	13
+srag	Death	Marília	13
+srag	Death	Ribeirão Pires	13
+srag	Death	Viradouro	4
+srag	Death	Sorocaba	13
+srag	Death	Cotia	13
+srag	Death	Francisco Morato	5
+srag	Death	Limeira	5
+srag	Death	Cabreúva	10
+srag	Death	Arujá	3
+srag	Death	Jaú	13
+srag	Death	Itapecerica da Serra	13
+srag	Death	Mogi das Cruzes	13
+srag	Death	Praia Grande	5
+srag	Death	Suzano	9
+srag	Death	São Miguel Arcanjo	11
+srag	Death	Guarujá	13
+srag	Death	Caieiras	5
+srag	Death	São Carlos	13
+srag	Death	Andradina	5
+srag	Death	Mogi Guaçu	3
+srag	Death	Mauá	13
+srag	Death	Tupã	2
+srag	Death	Presidente Epitácio	7
+srag	Death	Dracena	5
+srag	Death	Hortolândia	13
+srag	Death	Guararema	10
+srag	Death	Presidente Prudente	13
+srag	Death	Piracicaba	13
+srag	Death	Americana	13
+srag	Death	Araras	3
+srag	Death	Diadema	13
+srag	Death	Catanduva	13
+srag	Death	Lençóis Paulista	5
+srag	Death	Jacareí	13
+srag	Death	Itaquaquecetuba	5
+srag	Death	Jarinu	4
+srag	Death	Avaré	3
+srag	Death	Cajuru	11
+srag	Death	Nova Odessa	7
+srag	Death	Olímpia	7
+srag	Death	Guaíra	7
+srag	Death	Barretos	13
+srag	Death	Itu	13
+srag	Death	Sumaré	13
+srag	Death	Araçatuba	13
+srag	Death	Serrana	7
+srag	Death	Campo Limpo Paulista	3
+srag	Death	Carapicuíba	13
+srag	Death	Ibaté	11
+srag	Death	Taboão da Serra	13
+srag	Death	Franca	17
+srag	Death	São José do Rio Preto	13
+srag	Death	Santa Fé do Sul	7
+srag	Death	Cubatão	13
+srag	Death	Paulínia	13
+srag	Death	Orlândia	11
+srag	Death	Botucatu	13
+srag	Death	Itapetininga	13
+srag	Death	Américo Brasiliense	3
+srag	Death	Vinhedo	13
+srag	Death	Rio Claro	5
+srag	Death	Ilha Solteira	3
+srag	Death	Santa Bárbara d'Oeste	3
+srag	Death	Taubaté	13
+srag	Death	Matão	2
+srag	Death	São Vicente	3
+srag	Death	Conchal	11
+srag	Death	Ipuã	7
+srag	Death	Pariquera-Açu	13
+srag	Death	Itapira	13
+srag	Death	Boituva	3
+srag	Death	Pirassununga	5
+srag	Death	Salto de Pirapora	3
+srag	Death	Buritama	12
+srag	Death	Ituverava	3
+srag	Death	Jales	3
+srag	Death	Amparo	5
+srag	Death	Bertioga	3
+srag	Death	São Sebastião da Grama	11
+srag	Death	Valinhos	13
+srag	Death	Monte Alto	3
+srag	Death	Ferraz de Vasconcelos	5
+srag	Death	Fernandópolis	7
+srag	Death	Adamantina	10
+srag	Death	Lins	3
+srag	Death	Araçariguama	10
+srag	Death	Votuporanga	13
+srag	Death	Itararé	7
+srag	Death	Cafelândia	14
+srag	Death	Salto	13
+srag	Death	Guaratinguetá	3
+srag	Death	Jandira	10
+srag	Death	Jaguariúna	7
+srag	Death	São João da Boa Vista	5
+srag	Death	Conchas	11
+srag	Death	Pedreira	7
+srag	Death	Porto Ferreira	7
+srag	Death	Regente Feijó	7
+srag	Death	Indaiatuba	13
+srag	Death	Tanabi	11
+srag	Death	Itapeva	7
+srag	Death	Penápolis	2
+srag	Death	Embu-Guaçu	7
+srag	Death	Itaí	11
+srag	Death	Promissão	7
+srag	Death	Itatiba	13
+srag	Death	Santa Cruz do Rio Pardo	5
+srag	Death	Pederneiras	7
+srag	Death	Batatais	7
+srag	Death	Cruzeiro	1
+srag	Death	Pindamonhangaba	13
+srag	Death	Aparecida	7
+srag	Death	Jaboticabal	11
+srag	Death	Várzea Paulista	11
+srag	Death	Poá	9
+srag	Death	Assis	12
+srag	Death	Itupeva	2
+srag	Death	Paraguaçu Paulista	7
+srag	Death	Porto Feliz	3
+srag	Death	São Pedro	10
+srag	Death	Junqueirópolis	4
+srag	Death	Ubatuba	3
+srag	Death	Ilhabela	14
+srag	Death	Atibaia	13
+srag	Death	Barra Bonita	7
+srag	Death	Álvares Machado	11
+srag	Death	Ibitinga	7
+srag	Death	Louveira	3
+srag	Death	Artur Nogueira	10
+srag	Death	Agudos	7
+srag	Death	Vargem Grande do Sul	10
+srag	Death	Ourinhos	3
+srag	Death	Taquarituba	10
+srag	Death	Tatuí	13
+srag	Death	São Manuel	10
+srag	Death	Paranapanema	11
+srag	Death	Castilho	7
+srag	Death	Sales Oliveira	7
+srag	Death	Socorro	13
+srag	Death	Ibiúna	14
+srag	Death	Bebedouro	15
+srag	Death	Guapiara	10
+srag	Death	Lorena	3
+srag	Death	Mineiros do Tietê	10
+srag	Death	Santa Isabel	13
+srag	Death	Caçapava	3
+srag	Death	Casa Branca	11
+srag	Death	Tietê	7
+srag	Death	Serra Negra	11
+srag	Death	Espírito Santo do Pinhal	7
+srag	Death	São José do Rio Pardo	3
+srag	Death	Rio das Pedras	7
+srag	Death	Mococa	3
+srag	Death	Martinópolis	11
+srag	Death	Teodoro Sampaio	10
+srag	Death	Bariri	3
+srag	Death	Charqueada	4
+srag	Death	Borborema	3
+srag	Death	Votorantim	3
+srag	Death	Arealva	4
+srag	Death	Osvaldo Cruz	10
+srag	Death	Campos do Jordão	3
+srag	Death	Brotas	11
+srag	Death	Cajamar	3
+srag	Death	Cosmópolis	3
+srag	Death	São Roque	10
+srag	Death	Torrinha	4
+srag	Death	Mairinque	6
+srag	Death	Aguaí	4
+srag	Death	Garça	11
+srag	Death	Santa Cruz das Palmeiras	7
+srag	Death	Tambaú	10
+srag	Death	Itirapina	10
+srag	Death	Taguaí	7
+srag	Death	Mirandópolis	3
+srag	Death	Caconde	3
+srag	Death	Guariba	3
+srag	Death	Taquaritinga	3
+srag	Death	Macatuba	14
+srag	Death	Cachoeira Paulista	14
+srag	Death	Registro	3
+srag	Death	Araraquara	13
+srag	Death	Itanhaém	3
+srag	Death	Alumínio	10
+srag	Death	Tupi Paulista	10
+srag	Death	Itápolis	7
+srag	Death	Novo Horizonte	7
+srag	Death	Piratininga	10
+srag	Death	Igarapava	10
+srag	Death	Cândido Mota	7
+srag	Death	Guará	10
+srag	Death	Flórida Paulista	10
+srag	Death	Pontal	10
+srag	Death	Itapuí	10
+srag	Death	São Sebastião	5
+srag	Death	São Joaquim da Barra	7
+srag	Death	Valparaíso	10
+srag	Death	Apiaí	10
+srag	Death	Divinolândia	10
+srag	Death	Rancharia	3
+srag	Death	Panorama	10
+srag	Death	Piraju	3
+srag	Death	Peruíbe	5
+srag	Death	Morro Agudo	11
+srag	Death	Presidente Venceslau	15
+srag	Death	Tabatinga	14
+srag	Death	Pitangueiras	15
+srag	Death	Piracaia	15
+srag	Death	Rosana	15
+srag	Death	Maracaí	15
+srag	Death	Cerquilho	5
+srag	Death	Lucélia	15
+srag	Death	Cravinhos	5
+srag	Death	Dois Córregos	2
+srag	Death	Guararapes	5
+srag	Death	Iacanga	0
+srag	Death	Queluz	0
+srag	Death	Ipaussu	0
+srag	Death	Cerqueira César	5
+srag	Death	Palmital	5
+srag	Death	Descalvado	5
+srag	Death	Salesópolis	0
+srag	Death	Auriflama	0
+srag	Death	Monte Mor	5
+srag	Death	Pirapora do Bom Jesus	15
+srag	Death	Ribeirão Bonito	15
+srag	Death	Pilar do Sul	15
+srag	Death	Tapiratiba	15
+srag	Death	Presidente Bernardes	15
+srag	Death	Patrocínio Paulista	15
+srag	Death	Laranjal Paulista	3
+srag	Death	Altinópolis	15
+srag	Death	Cajobi	15
+srag	Death	Colina	3
+srag	Death	Barrinha	3
+srag	Death	Santa Rosa de Viterbo	3
+srag	Death	Itatinga	3
+srag	Death	Angatuba	5
+srag	Death	Cesário Lange	5
+srag	Death	Piedade	5
+srag	Death	Bocaina	15
+srag	Death	Bastos	15
+srag	Death	Capivari	5
+srag	Death	Santo Anastácio	15
+srag	Death	Igaratá	15
+srag	Death	General Salgado	15
+srag	Death	Uchoa	15
+srag	Death	Potirendaba	15
+srag	Death	Pirajuí	12
+srag	Death	Itajobi	12
+srag	Death	Pereira Barreto	12
+srag	Death	Tabapuã	12
+srag	Death	Jardinópolis	12
+srag	Death	Dourado	12
+srag	Death	José Bonifácio	5
+srag	Death	Rio Grande da Serra	0
+srag	Death	Iracemápolis	12
+srag	Death	Mongaguá	12
+srag	Death	Ribeirão Branco	12
+srag	Death	Jaci	12
+srag	Death	Cajati	12
+srag	Death	Herculândia	12
+srag	Death	Sete Barras	12
+srag	Death	Parapuã	12
+srag	Death	Bernardino de Campos	12
+srag	Death	Iguape	12
+srag	Death	Bady Bassitt	12
+srag	Death	Ilha Comprida	12
+srag	Death	Itaporanga	12
+srag	Death	Pirangi	12
+srag	Death	Águas de Lindóia	12
+srag	Death	Paraibuna	12
+srag	Death	Monte Aprazível	12
+srag	Death	Bofete	12
+srag	Death	Cordeirópolis	12
+srag	Death	Mirassol	12
+srag	Death	Vargem Grande Paulista	12
+srag	Death	Itaberá	12
+srag	Death	Nazaré Paulista	12
+srag	Death	Pirapozinho	12
+srag	Death	Nova Aliança	12
+srag	Death	Nhandeara	12
+srag	Death	Dumont	12
+srag	Death	São Simão	12
+srag	Death	Bom Jesus dos Perdões	12
+srag	Death	Buri	12
+srag	Death	Miguelópolis	12
+srag	Death	Itariri	12
+srag	Death	Pacaembu	12
+srag	Death	Ipiguá	12
+srag	Death	Fartura	12
+srag	Death	Engenheiro Coelho	12
+srag	Death	Luís Antônio	12
+srag	Death	Joanópolis	12
+srag	Death	Vera Cruz	12
+srag	Death	Salto Grande	12
+srag	Death	Santa Adélia	12
+srag	Death	Águas da Prata	12
+srag	Death	Boa Esperança do Sul	12
+srag	Death	Pardinho	12
+srag	Death	Juquitiba	12
+srag	Death	Santa Rita do Passa Quatro	12
+srag	Death	Chavantes	12
+srag	Death	Urânia	12
+srag	Death	Nova Europa	12
+srag	Death	Pradópolis	12
+srag	Death	Palmares Paulista	12
+srag	Death	Nova Granada	12
+srag	Death	Iperó	12
+srag	Death	Ariranha	12
+srag	Death	Cedral	12
+srag	Death	Ouroeste	12
+srag	Death	Mirante do Paranapanema	12
+srag	Death	Guareí	12
+srag	Death	Bálsamo	12
+srag	Death	Pindorama	12
+srag	Death	Getulina	12
+srag	Death	Santa Branca	12
+srag	Death	Severínia	12
+srag	Death	Guapiaçu	12
+srag	Death	Valentim Gentil	12
+srag	Death	Palestina	12
+srag	Death	Cardoso	12
+srag	Death	Estrela d'Oeste	12
+srag	Death	Rinópolis	12
+srag	Death	Rincão	12
+srag	Death	Duartina	12
+srag	Death	Monte Azul Paulista	12
+srag	Death	Ibirá	12
+srag	Death	Porto Alegre	13
+srag	Death	Passo Fundo	13
+srag	Death	Santo Ângelo	3
+srag	Death	Cruzeiro do Sul	7
+srag	Death	Santa Maria	13
+srag	Death	Bento Gonçalves	13
+srag	Death	Teutônia	7
+srag	Death	Carazinho	7
+srag	Death	Novo Hamburgo	13
+srag	Death	Farroupilha	7
+srag	Death	Camaquã	7
+srag	Death	Santa Cruz do Sul	7
+srag	Death	Estrela	3
+srag	Death	Lajeado	3
+srag	Death	Osório	7
+srag	Death	Canoas	3
+srag	Death	Pelotas	3
+srag	Death	Marau	5
+srag	Death	Caxias do Sul	13
+srag	Death	São Jerônimo	7
+srag	Death	Cachoeirinha	3
+srag	Death	Tenente Portela	7
+srag	Death	Rio Grande	3
+srag	Death	Parobé	7
+srag	Death	Sapiranga	7
+srag	Death	São Sebastião do Caí	11
+srag	Death	Ijuí	7
+srag	Death	Três Coroas	11
+srag	Death	Canela	7
+srag	Death	Santa Rosa	7
+srag	Death	Gramado	7
+srag	Death	Guaíba	7
+srag	Death	Antônio Prado	11
+srag	Death	Três Passos	7
+srag	Death	Esteio	7
+srag	Death	São Borja	7
+srag	Death	Gravataí	3
+srag	Death	Viamão	7
+srag	Death	São Leopoldo	7
+srag	Death	Uruguaiana	7
+srag	Death	Bagé	7
+srag	Death	Erechim	7
+srag	Death	Venâncio Aires	5
+srag	Death	Cachoeira do Sul	7
+srag	Death	Ivoti	10
+srag	Death	Tramandaí	7
+srag	Death	Vacaria	5
+srag	Death	Santiago	7
+srag	Death	Estância Velha	7
+srag	Death	Torres	3
+srag	Death	Garibaldi	3
+srag	Death	Rio Pardo	10
+srag	Death	Alegrete	7
+srag	Death	Tapera	11
+srag	Death	Getúlio Vargas	11
+srag	Death	Montenegro	3
+srag	Death	Taquari	7
+srag	Death	Santo Augusto	10
+srag	Death	Encantado	3
+srag	Death	São Gabriel	3
+srag	Death	Caçapava do Sul	17
+srag	Death	Capão da Canoa	3
+srag	Death	Rosário do Sul	14
+srag	Death	Sapucaia do Sul	13
+srag	Death	Alvorada	7
+srag	Death	Paraí	4
+srag	Death	Sarandi	3
+srag	Death	Nonoai	11
+srag	Death	São Luiz Gonzaga	7
+srag	Death	Candelária	0
+srag	Death	Triunfo	5
+srag	Death	Arroio do Meio	5
+srag	Death	Dom Pedrito	13
+srag	Death	Cruz Alta	5
+srag	Death	Sananduva	0
+srag	Death	Soledade	5
+srag	Death	Campo Bom	5
+srag	Death	Espumoso	0
+srag	Death	Igrejinha	0
+srag	Death	Bom Retiro do Sul	0
+srag	Death	Santo Antônio da Patrulha	5
+srag	Death	Nova Prata	0
+srag	Death	Palmeira das Missões	5
+srag	Death	São José do Norte	0
+srag	Death	Charqueadas	5
+srag	Death	Taquara	0
+srag	Death	Horizontina	0
+srag	Death	Giruá	0
+srag	Death	São Marcos	5
+srag	Death	Seberi	0
+srag	Death	Guaporé	5
+srag	Death	Três de Maio	5
+srag	Death	Tapejara	0
+srag	Death	Frederico Westphalen	5
+srag	Death	Ibirubá	5
+srag	Death	Encruzilhada do Sul	5
+srag	Death	Carlos Barbosa	5
+srag	Death	Veranópolis	5
+srag	Death	Canguçu	5
+srag	Death	Dois Irmãos	5
+srag	Death	Flores da Cunha	0
+srag	Death	Serafina Corrêa	0
+srag	Death	Tupanciretã	0
+srag	Death	Lagoa Vermelha	5
+srag	Death	Arroio Grande	0
+srag	Death	Nova Petrópolis	5
+srag	Death	Casca	5
+srag	Death	Panambi	5
+srag	Death	Rolante	0
+srag	Death	Santa Vitória do Palmar	5
+srag	Death	Santo Cristo	9
+srag	Death	Portão	9
+srag	Death	São Lourenço do Sul	0
+srag	Death	Imbé	9
+srag	Death	Tuparendi	0
+srag	Death	Salto do Jacuí	0
+srag	Death	Barra do Ribeiro	0
+srag	Death	Chapada	0
+srag	Death	Salvador do Sul	0
+srag	Death	Mostardas	0
+srag	Death	Cerro Largo	0
+srag	Death	São Pedro do Sul	0
+srag	Death	Não-Me-Toque	0
+srag	Death	Palmares do Sul	0
+srag	Death	Bom Princípio	0
+srag	Death	São Sepé	0
+srag	Death	Sobradinho	5
+srag	Death	Itaqui	5
+srag	Death	Constantina	5
+srag	Death	São Francisco de Paula	5
+srag	Death	Agudo	5
+srag	Death	Feliz	5
+srag	Death	Roca Sales	5
+srag	Death	Arroio do Sal	5
+srag	Death	Jaguarão	5
+srag	Death	Piratini	5
+srag	Death	Cidreira	5
+srag	Death	Pinheiro Machado	5
+srag	Death	São Francisco de Assis	5
+srag	Death	Quaraí	5
+srag	Death	Arroio do Tigre	5
+srag	Death	Balneário Pinhal	5
+srag	Death	Crissiumal	5
+srag	Death	Tapes	5
+srag	Death	Nova Santa Rita	5
+srag	Death	Barão	5
+srag	Death	Eldorado do Sul	5
+srag	Death	Nova Bassano	0
+srag	Death	Júlio de Castilhos	0
+srag	Death	Terra de Areia	5
+srag	Death	Restinga Sêca	5
+srag	Death	Araricá	5
+srag	Death	Nova Hartz	5
+srag	Death	Capão do Leão	5
+srag	Death	Morro Reuter	5
+srag	Death	Entre-Ijuís	5
+srag	Death	Butiá	5
+srag	Death	Três Cachoeiras	5
+srag	Death	Manaus	13
+srag	Death	Manacapuru	17
+srag	Death	Humaitá	9
+srag	Death	Presidente Figueiredo	9
+srag	Death	São Gabriel da Cachoeira	9
+srag	Death	Tefé	9
+srag	Death	Coari	9
+srag	Death	Parintins	9
+srag	Death	Iranduba	9
+srag	Death	Maués	9
+srag	Death	Manicoré	9
+srag	Death	Boca do Acre	9
+srag	Death	Rio Preto da Eva	9
+srag	Death	Itacoatiara	9
+srag	Death	Recife	13
+srag	Death	Garanhuns	17
+srag	Death	Salgueiro	9
+srag	Death	Condado	9
+srag	Death	São Lourenço da Mata	9
+srag	Death	Jaboatão dos Guararapes	5
+srag	Death	Palmares	9
+srag	Death	Vitória de Santo Antão	9
+srag	Death	Petrolina	3
+srag	Death	Cabo de Santo Agostinho	3
+srag	Death	Olinda	5
+srag	Death	Igarassu	14
+srag	Death	Caruaru	13
+srag	Death	Araripina	7
+srag	Death	Barreiros	14
+srag	Death	Ouricuri	2
+srag	Death	Arcoverde	5
+srag	Death	Itapissuma	6
+srag	Death	Gravatá	9
+srag	Death	Pesqueira	11
+srag	Death	Paulista	5
+srag	Death	Ipojuca	6
+srag	Death	Afogados da Ingazeira	8
+srag	Death	Bom Conselho	8
+srag	Death	Limoeiro	5
+srag	Death	Feira Nova	5
+srag	Death	Serra Talhada	5
+srag	Death	Moreno	9
+srag	Death	Bezerros	7
+srag	Death	Água Preta	6
+srag	Death	Glória do Goitá	9
+srag	Death	Águas Belas	9
+srag	Death	Santa Cruz do Capibaribe	5
+srag	Death	Tabira	9
+srag	Death	Paudalho	9
+srag	Death	Carpina	9
+srag	Death	João Alfredo	9
+srag	Death	Exu	9
+srag	Death	Camaragibe	9
+srag	Death	Bonito	0
+srag	Death	Brejo da Madre de Deus	9
+srag	Death	Timbaúba	9
+srag	Death	São José do Egito	5
+srag	Death	Taquaritinga do Norte	5
+srag	Death	Custódia	5
+srag	Death	Petrolândia	5
+srag	Death	Aliança	5
+srag	Death	Agrestina	5
+srag	Death	São José do Belmonte	5
+srag	Death	Cupira	5
+srag	Death	Escada	5
+srag	Death	Nazaré da Mata	0
+srag	Death	Itambé	5
+srag	Death	Buíque	5
+srag	Death	Lajedo	5
+srag	Death	São Bento do Una	5
+srag	Death	Toritama	5
+srag	Death	Bodocó	5
+srag	Death	Floresta	5
+srag	Death	Ipubi	5
+srag	Death	Pombos	5
+srag	Death	Surubim	5
+srag	Death	Belo Jardim	15
+srag	Death	Tamandaré	0
+srag	Death	Lagoa dos Gatos	0
+srag	Death	Abreu e Lima	0
+srag	Death	São Caitano	5
+srag	Death	São José da Coroa Grande	5
+srag	Death	Trindade	5
+srag	Death	Vicência	4
+srag	Death	Bom Jardim	14
+srag	Death	Passira	9
+srag	Death	Lagoa do Carro	9
+srag	Death	Orobó	9
+srag	Death	Ribeirão	9
+srag	Death	Araçoiaba	9
+srag	Death	Sanharó	9
+srag	Death	Betânia	9
+srag	Death	Camocim de São Félix	9
+srag	Death	Cabrobó	9
+srag	Death	Rio Formoso	9
+srag	Death	Canhotinho	9
+srag	Death	Santa Maria da Boa Vista	9
+srag	Death	Altinho	9
+srag	Death	Chã Grande	9
+srag	Death	Catende	9
+srag	Death	Sirinhaém	9
+srag	Death	Vertentes	9
+srag	Death	Macaparana	9
+srag	Death	Riacho das Almas	9
+srag	Death	São Luís	13
+srag	Death	Imperatriz	5
+srag	Death	São José de Ribamar	4
+srag	Death	Barreirinhas	4
+srag	Death	Chapadinha	4
+srag	Death	Vitorino Freire	4
+srag	Death	Caxias	4
+srag	Death	Porto Franco	14
+srag	Death	Pinheiro	10
+srag	Death	Pedreiras	14
+srag	Death	Timon	14
+srag	Death	Balsas	4
+srag	Death	Itapecuru Mirim	4
+srag	Death	Colinas	4
+srag	Death	Açailândia	4
+srag	Death	São João dos Patos	4
+srag	Death	Lago da Pedra	4
+srag	Death	São Raimundo das Mangabeiras	4
+srag	Death	Zé Doca	4
+srag	Death	Barra do Corda	4
+srag	Death	Presidente Dutra	4
+srag	Death	Santa Inês	4
+srag	Death	Coroatá	4
+srag	Death	Codó	4
+srag	Death	Vitória do Mearim	4
+srag	Death	Bacabal	4
+srag	Death	Viana	4
+srag	Death	Grajaú	4
+srag	Death	Fortaleza	13
+srag	Death	Maranguape	14
+srag	Death	Sobral	5
+srag	Death	Caucaia	5
+srag	Death	Limoeiro do Norte	14
+srag	Death	Acaraú	6
+srag	Death	Aracati	5
+srag	Death	São Gonçalo do Amarante	3
+srag	Death	Quixeramobim	13
+srag	Death	Itapipoca	5
+srag	Death	Juazeiro do Norte	5
+srag	Death	Tianguá	5
+srag	Death	Boa Viagem	2
+srag	Death	Barbalha	5
+srag	Death	Iguatu	5
+srag	Death	Crato	7
+srag	Death	Ipueiras	4
+srag	Death	Maracanaú	10
+srag	Death	Pacatuba	6
+srag	Death	Cascavel	13
+srag	Death	Camocim	14
+srag	Death	Jaguaruana	10
+srag	Death	Várzea Alegre	3
+srag	Death	Crateús	5
+srag	Death	Mombaça	9
+srag	Death	Tauá	5
+srag	Death	Beberibe	5
+srag	Death	Russas	5
+srag	Death	Mauriti	15
+srag	Death	Brejo Santo	5
+srag	Death	Canindé	9
+srag	Death	Icó	0
+srag	Death	Ibiapina	0
+srag	Death	Icapuí	0
+srag	Death	Cedro	5
+srag	Death	Assaré	5
+srag	Death	Quixeré	5
+srag	Death	Pentecoste	5
+srag	Death	Jardim	13
+srag	Death	Redenção	13
+srag	Death	Acopiara	0
+srag	Death	Cruz	0
+srag	Death	Jaguaribe	0
+srag	Death	Pereiro	0
+srag	Death	Santa Quitéria	0
+srag	Death	Marco	0
+srag	Death	Barreira	0
+srag	Death	Itarema	0
+srag	Death	Massapê	0
+srag	Death	Tabuleiro do Norte	0
+srag	Death	Granja	5
+srag	Death	Jijoca de Jericoacoara	0
+srag	Death	Barro	5
+srag	Death	Bela Cruz	5
+srag	Death	Irauçuba	5
+srag	Death	São Benedito	5
+srag	Death	Morada Nova	5
+srag	Death	Missão Velha	0
+srag	Death	Iracema	0
+srag	Death	Varjota	0
+srag	Death	Aurora	5
+srag	Death	Guaraciaba do Norte	5
+srag	Death	Viçosa do Ceará	5
+srag	Death	Guaiúba	5
+srag	Death	Amontada	5
+srag	Death	Ubajara	5
+srag	Death	Senador Pompeu	5
+srag	Death	Nova Russas	5
+srag	Death	Uruburetama	5
+srag	Death	Santana do Acaraú	5
+srag	Death	Monsenhor Tabosa	5
+srag	Death	Lavras da Mangabeira	5
+srag	Death	Novo Oriente	5
+srag	Death	Itaitinga	5
+srag	Death	Campos Sales	5
+srag	Death	Quixadá	5
+srag	Death	Jucás	0
+srag	Death	Horizonte	0
+srag	Death	Reriutaba	0
+srag	Death	Fortim	0
+srag	Death	Frecheirinha	0
+srag	Death	Paraipaba	0
+srag	Death	Trairi	0
+srag	Death	Aquiraz	0
+srag	Death	Forquilha	0
+srag	Death	Independência	0
+srag	Death	Morrinhos	0
+srag	Death	Eusébio	0
+srag	Death	Tamboril	0
+srag	Death	Braço do Norte	5
+srag	Death	Jaraguá do Sul	13
+srag	Death	São José	13
+srag	Death	Joinville	13
+srag	Death	Florianópolis	13
+srag	Death	Tubarão	3
+srag	Death	Blumenau	13
+srag	Death	Balneário Camboriú	13
+srag	Death	São Bento do Sul	7
+srag	Death	Lages	7
+srag	Death	Joaçaba	7
+srag	Death	Araranguá	5
+srag	Death	Brusque	13
+srag	Death	Morro da Fumaça	7
+srag	Death	Chapecó	13
+srag	Death	Rio dos Cedros	4
+srag	Death	Curitibanos	7
+srag	Death	Capinzal	7
+srag	Death	Itajaí	13
+srag	Death	Itaiópolis	11
+srag	Death	Biguaçu	3
+srag	Death	Ituporanga	10
+srag	Death	Timbó	3
+srag	Death	Içara	3
+srag	Death	Imbituba	10
+srag	Death	Laguna	0
+srag	Death	Pomerode	11
+srag	Death	Ibirama	15
+srag	Death	Jaguaruna	7
+srag	Death	Criciúma	13
+srag	Death	Canoinhas	10
+srag	Death	Concórdia	10
+srag	Death	Itapema	7
+srag	Death	Videira	11
+srag	Death	Três Barras	11
+srag	Death	São Francisco do Sul	7
+srag	Death	Turvo	11
+srag	Death	Porto União	10
+srag	Death	Fraiburgo	14
+srag	Death	Rio do Sul	3
+srag	Death	Gaspar	7
+srag	Death	Caçador	3
+srag	Death	Indaial	7
+srag	Death	Agrolândia	11
+srag	Death	Xanxerê	10
+srag	Death	Xaxim	10
+srag	Death	Mafra	7
+srag	Death	Nova Trento	10
+srag	Death	São João Batista	10
+srag	Death	Navegantes	3
+srag	Death	Presidente Getúlio	11
+srag	Death	Papanduva	10
+srag	Death	Palhoça	10
+srag	Death	Iporã do Oeste	10
+srag	Death	Orleans	10
+srag	Death	Canelinha	10
+srag	Death	São Miguel do Oeste	3
+srag	Death	Maravilha	10
+srag	Death	Armazém	10
+srag	Death	Santo Amaro da Imperatriz	10
+srag	Death	Campo Alegre	10
+srag	Death	Massaranduba	10
+srag	Death	Camboriú	10
+srag	Death	Urussanga	15
+srag	Death	São Lourenço do Oeste	15
+srag	Death	Taió	15
+srag	Death	Tijucas	5
+srag	Death	São Joaquim	15
+srag	Death	Sombrio	15
+srag	Death	Guaramirim	15
+srag	Death	Coronel Freitas	15
+srag	Death	Rio Negrinho	15
+srag	Death	Campos Novos	15
+srag	Death	Jacinto Machado	15
+srag	Death	Dionísio Cerqueira	15
+srag	Death	Palmitos	15
+srag	Death	Corupá	15
+srag	Death	Guaraciaba	15
+srag	Death	Itapoá	15
+srag	Death	Luzerna	15
+srag	Death	Penha	15
+srag	Death	Trombudo Central	15
+srag	Death	Luiz Alves	15
+srag	Death	Cunha Porã	15
+srag	Death	Santa Cecília	15
+srag	Death	Barra Velha	15
+srag	Death	Quilombo	15
+srag	Death	Irani	15
+srag	Death	Araquari	15
+srag	Death	Itapiranga	15
+srag	Death	Otacílio Costa	15
+srag	Death	Pinhalzinho	15
+srag	Death	São José do Cedro	15
+srag	Death	Urubici	15
+srag	Death	Faxinal dos Guedes	15
+srag	Death	Itá	15
+srag	Death	Pouso Redondo	15
+srag	Death	Balneário Barra do Sul	15
+srag	Death	Abelardo Luz	15
+srag	Death	Bombinhas	15
+srag	Death	Campo Erê	15
+srag	Death	Garuva	15
+srag	Death	Herval d'Oeste	15
+srag	Death	Rio de Janeiro	13
+srag	Death	Cabo Frio	3
+srag	Death	Petrópolis	13
+srag	Death	Resende	13
+srag	Death	Angra dos Reis	3
+srag	Death	Barra do Piraí	3
+srag	Death	Niterói	13
+srag	Death	Quissamã	14
+srag	Death	Itaboraí	5
+srag	Death	Macaé	13
+srag	Death	Campos dos Goytacazes	13
+srag	Death	Vassouras	6
+srag	Death	Teresópolis	13
+srag	Death	São Gonçalo	13
+srag	Death	Duque de Caxias	13
+srag	Death	Volta Redonda	13
+srag	Death	Rio das Ostras	13
+srag	Death	Itaguaí	5
+srag	Death	Rio Bonito	3
+srag	Death	Valença	13
+srag	Death	Nova Friburgo	13
+srag	Death	Nilópolis	13
+srag	Death	Barra Mansa	5
+srag	Death	Belford Roxo	5
+srag	Death	Itaperuna	7
+srag	Death	Saquarema	3
+srag	Death	Maricá	3
+srag	Death	Piraí	10
+srag	Death	Araruama	3
+srag	Death	Nova Iguaçu	13
+srag	Death	Paraíba do Sul	14
+srag	Death	Miguel Pereira	5
+srag	Death	Magé	6
+srag	Death	Mesquita	12
+srag	Death	Itaocara	0
+srag	Death	São João da Barra	12
+srag	Death	Conceição de Macabu	15
+srag	Death	Pinheiral	12
+srag	Death	Quatis	9
+srag	Death	Tanguá	9
+srag	Death	Cachoeiras de Macacu	5
+srag	Death	Japeri	2
+srag	Death	Porto Real	4
+srag	Death	Casimiro de Abreu	2
+srag	Death	Bom Jesus do Itabapoana	4
+srag	Death	Três Rios	9
+srag	Death	Porciúncula	4
+srag	Death	São Francisco de Itabapoana	9
+srag	Death	Guapimirim	9
+srag	Death	Iguaba Grande	9
+srag	Death	Armação dos Búzios	9
+srag	Death	Italva	9
+srag	Death	Sumidouro	9
+srag	Death	Sapucaia	9
+srag	Death	Areal	9
+srag	Death	Engenheiro Paulo de Frontin	9
+srag	Death	Mangaratiba	9
+srag	Death	Paracambi	5
+srag	Death	Mendes	9
+srag	Death	Paty do Alferes	9
+srag	Death	Cambuci	0
+srag	Death	Carapebus	9
+srag	Death	Aperibé	9
+srag	Death	Itatiaia	9
+srag	Death	Carmo	0
+srag	Death	Santo Antônio de Pádua	0
+srag	Death	Comendador Levy Gasparian	0
+srag	Death	Cantagalo	0
+srag	Death	São Pedro da Aldeia	0
+srag	Death	Silva Jardim	0
+srag	Death	Seropédica	0
+srag	Death	Queimados	0
+srag	Death	Curitiba	13
+srag	Death	Guaraniaçu	11
+srag	Death	Paraíso do Norte	10
+srag	Death	Paranavaí	3
+srag	Death	Londrina	13
+srag	Death	Maringá	13
+srag	Death	Campina Grande do Sul	7
+srag	Death	Telêmaco Borba	7
+srag	Death	Campo Largo	3
+srag	Death	Foz do Iguaçu	13
+srag	Death	Palmas	3
+srag	Death	Itaperuçu	11
+srag	Death	Ivaiporã	7
+srag	Death	Toledo	7
+srag	Death	Santa Izabel do Oeste	11
+srag	Death	Francisco Beltrão	3
+srag	Death	Arapongas	3
+srag	Death	Cianorte	12
+srag	Death	Umuarama	3
+srag	Death	Pato Branco	3
+srag	Death	Apucarana	3
+srag	Death	Ponta Grossa	13
+srag	Death	Cornélio Procópio	7
+srag	Death	Araucária	7
+srag	Death	Campo Mourão	13
+srag	Death	Cruzeiro do Oeste	11
+srag	Death	São Mateus do Sul	11
+srag	Death	Guarapuava	13
+srag	Death	Santa Helena	11
+srag	Death	Chopinzinho	7
+srag	Death	Medianeira	7
+srag	Death	Tibagi	7
+srag	Death	Santo Antônio da Platina	7
+srag	Death	São José dos Pinhais	7
+srag	Death	Rolândia	7
+srag	Death	Jacarezinho	7
+srag	Death	Palmeira	10
+srag	Death	Paranaguá	3
+srag	Death	Jaguariaíva	11
+srag	Death	Nova Esperança	10
+srag	Death	Ibiporã	7
+srag	Death	Assaí	14
+srag	Death	Colorado	7
+srag	Death	Nova Santa Rosa	7
+srag	Death	Quedas do Iguaçu	7
+srag	Death	Rio Branco do Sul	7
+srag	Death	Terra Boa	7
+srag	Death	Cambé	5
+srag	Death	Irati	7
+srag	Death	Nova Aurora	11
+srag	Death	Mangueirinha	7
+srag	Death	Santa Mariana	7
+srag	Death	Joaquim Távora	7
+srag	Death	União da Vitória	7
+srag	Death	Dois Vizinhos	7
+srag	Death	Piraquara	11
+srag	Death	Marechal Cândido Rondon	7
+srag	Death	Capitão Leônidas Marques	10
+srag	Death	Ampére	7
+srag	Death	Jardim Alegre	7
+srag	Death	Bandeirantes	3
+srag	Death	Palotina	3
+srag	Death	Matelândia	3
+srag	Death	Pinhais	3
+srag	Death	Ubiratã	3
+srag	Death	Imbituva	3
+srag	Death	Astorga	3
+srag	Death	Corbélia	3
+srag	Death	Goioerê	3
+srag	Death	Assis Chateaubriand	3
+srag	Death	Wenceslau Braz	18
+srag	Death	Bituruna	18
+srag	Death	Céu Azul	18
+srag	Death	Três Barras do Paraná	3
+srag	Death	Araruna	3
+srag	Death	Sengés	3
+srag	Death	Santo Antônio do Sudoeste	3
+srag	Death	Paiçandu	3
+srag	Death	São Miguel do Iguaçu	3
+srag	Death	Capanema	3
+srag	Death	Loanda	18
+srag	Death	Manoel Ribas	18
+srag	Death	Itaipulândia	18
+srag	Death	Siqueira Campos	18
+srag	Death	Ribeirão do Pinhal	18
+srag	Death	Castro	18
+srag	Death	Engenheiro Beltrão	18
+srag	Death	Andirá	18
+srag	Death	Fazenda Rio Grande	18
+srag	Death	Ribeirão Claro	18
+srag	Death	Piên	18
+srag	Death	Rebouças	18
+srag	Death	Colombo	18
+srag	Death	Santa Tereza do Oeste	18
+srag	Death	Douradina	18
+srag	Death	Planalto	18
+srag	Death	Florestópolis	18
+srag	Death	Cidade Gaúcha	18
+srag	Death	Santa Isabel do Ivaí	18
+srag	Death	Piraí do Sul	18
+srag	Death	Mamborê	18
+srag	Death	Terra Rica	18
+srag	Death	Laranjeiras do Sul	18
+srag	Death	Jaguapitã	18
+srag	Death	Clevelândia	18
+srag	Death	São Jorge d'Oeste	18
+srag	Death	Lapa	18
+srag	Death	Coronel Vivida	18
+srag	Death	Santa Terezinha de Itaipu	18
+srag	Death	Candói	18
+srag	Death	Curiúva	18
+srag	Death	Salto do Lontra	18
+srag	Death	Altônia	18
+srag	Death	Porecatu	18
+srag	Death	Carambeí	18
+srag	Death	Ibaiti	18
+srag	Death	Quitandinha	18
+srag	Death	Missal	18
+srag	Death	Uraí	18
+srag	Death	Terra Roxa	18
+srag	Death	Prudentópolis	18
+srag	Death	Pitanga	18
+srag	Death	Arapoti	18
+srag	Death	Jandaia do Sul	18
+srag	Death	Realeza	18
+srag	Death	Paracatu	18
+srag	Death	Belo Horizonte	13
+srag	Death	Uberlândia	13
+srag	Death	Extrema	5
+srag	Death	Juiz de Fora	13
+srag	Death	Uberaba	13
+srag	Death	Leopoldina	3
+srag	Death	Betim	13
+srag	Death	Araguari	7
+srag	Death	Patrocínio	7
+srag	Death	Cataguases	10
+srag	Death	Caratinga	7
+srag	Death	Coronel Fabriciano	7
+srag	Death	Muriaé	3
+srag	Death	Ponte Nova	7
+srag	Death	Manhuaçu	7
+srag	Death	Sete Lagoas	3
+srag	Death	Divinópolis	13
+srag	Death	Ubá	7
+srag	Death	Ipatinga	3
+srag	Death	Teófilo Otoni	7
+srag	Death	Barão de Cocais	4
+srag	Death	Pouso Alegre	13
+srag	Death	Montes Claros	13
+srag	Death	Governador Valadares	13
+srag	Death	Canápolis	4
+srag	Death	Lagoa da Prata	7
+srag	Death	Barbacena	3
+srag	Death	Poços de Caldas	7
+srag	Death	Ribeirão das Neves	7
+srag	Death	Contagem	13
+srag	Death	Frutal	10
+srag	Death	Nova Lima	7
+srag	Death	João Monlevade	7
+srag	Death	Formiga	7
+srag	Death	Eugenópolis	11
+srag	Death	Curvelo	13
+srag	Death	Ibirité	7
+srag	Death	São Lourenço	7
+srag	Death	Itanhandu	11
+srag	Death	Visconde do Rio Branco	7
+srag	Death	Jaboticatubas	15
+srag	Death	Unaí	7
+srag	Death	Araxá	5
+srag	Death	São Joaquim de Bicas	14
+srag	Death	Ituiutaba	7
+srag	Death	Pirapora	7
+srag	Death	Patos de Minas	5
+srag	Death	Mateus Leme	14
+srag	Death	João Pinheiro	7
+srag	Death	Itabira	7
+srag	Death	Três Pontas	7
+srag	Death	Bom Sucesso	4
+srag	Death	Além Paraíba	5
+srag	Death	Itajubá	13
+srag	Death	Carangola	5
+srag	Death	Mariana	5
+srag	Death	Três Corações	3
+srag	Death	Pedra Azul	11
+srag	Death	Lagoa Santa	11
+srag	Death	Santa Luzia	10
+srag	Death	Itaobim	10
+srag	Death	Ervália	10
+srag	Death	Guaranésia	10
+srag	Death	Guaxupé	3
+srag	Death	Ouro Fino	9
+srag	Death	Itamogi	15
+srag	Death	Passos	5
+srag	Death	Conceição das Alagoas	15
+srag	Death	Ouro Branco	15
+srag	Death	São Sebastião do Paraíso	7
+srag	Death	Oliveira	15
+srag	Death	Brumadinho	15
+srag	Death	Malacacheta	4
+srag	Death	Campestre	4
+srag	Death	Araporã	15
+srag	Death	Alfenas	7
+srag	Death	Andradas	11
+srag	Death	Timóteo	7
+srag	Death	Araçuaí	4
+srag	Death	Piumhi	15
+srag	Death	Varginha	5
+srag	Death	Almenara	11
+srag	Death	Janaúba	7
+srag	Death	Monte Carmelo	11
+srag	Death	Santa Juliana	4
+srag	Death	Conselheiro Pena	4
+srag	Death	Pará de Minas	7
+srag	Death	Sabará	11
+srag	Death	Santa Bárbara	11
+srag	Death	Santa Rita do Sapucaí	14
+srag	Death	Conselheiro Lafaiete	7
+srag	Death	Lavras	1
+srag	Death	Januária	11
+srag	Death	Itabirito	4
+srag	Death	Itambacuri	4
+srag	Death	Nanuque	14
+srag	Death	Viçosa	10
+srag	Death	Aimorés	14
+srag	Death	Prata	14
+srag	Death	Capinópolis	14
+srag	Death	Sarzedo	14
+srag	Death	São João del Rei	13
+srag	Death	Boa Esperança	4
+srag	Death	Congonhas	4
+srag	Death	Monte Alegre de Minas	4
+srag	Death	Itaguara	4
+srag	Death	Capelinha	14
+srag	Death	Santo Antônio do Monte	9
+srag	Death	Monte Santo de Minas	9
+srag	Death	Novo Cruzeiro	1
+srag	Death	Cruzília	1
+srag	Death	Vespasiano	5
+srag	Death	São Gotardo	1
+srag	Death	Nova Ponte	1
+srag	Death	Francisco Sá	1
+srag	Death	Poço Fundo	1
+srag	Death	Divino	1
+srag	Death	São José da Lapa	1
+srag	Death	Esmeraldas	1
+srag	Death	Espinosa	1
+srag	Death	Cambuquira	1
+srag	Death	Minas Novas	1
+srag	Death	Candeias	5
+srag	Death	Campina Verde	4
+srag	Death	Mutum	4
+srag	Death	Nova Serrana	15
+srag	Death	Nepomuceno	15
+srag	Death	Baependi	15
+srag	Death	Pedro Leopoldo	15
+srag	Death	Paraguaçu	15
+srag	Death	Lambari	15
+srag	Death	Várzea da Palma	15
+srag	Death	Guanhães	1
+srag	Death	Pirapetinga	1
+srag	Death	Padre Paraíso	1
+srag	Death	Rio Acima	1
+srag	Death	Lima Duarte	1
+srag	Death	Santos Dumont	1
+srag	Death	Sacramento	1
+srag	Death	Igarapé	1
+srag	Death	Turmalina	1
+srag	Death	Prados	1
+srag	Death	Carmópolis de Minas	1
+srag	Death	Juruaia	1
+srag	Death	Jaíba	1
+srag	Death	Abaeté	1
+srag	Death	Campo Belo	1
+srag	Death	Tupaciguara	1
+srag	Death	Inhapim	1
+srag	Death	Pedralva	1
+srag	Death	Três Marias	1
+srag	Death	Paraisópolis	1
+srag	Death	Entre Rios de Minas	1
+srag	Death	Camanducaia	1
+srag	Death	Cambuí	1
+srag	Death	Medina	1
+srag	Death	Cássia	1
+srag	Death	Águas Formosas	1
+srag	Death	Caeté	1
+srag	Death	Belo Oriente	1
+srag	Death	Cristais	1
+srag	Death	Machado	1
+srag	Death	Arcos	1
+srag	Death	Resplendor	1
+srag	Death	Itaúna	1
+srag	Death	Fronteira	1
+srag	Death	Brasília de Minas	1
+srag	Death	Caetanópolis	1
+srag	Death	Diamantina	1
+srag	Death	Alpinópolis	2
+srag	Death	Juatuba	2
+srag	Death	Ouro Preto	2
+srag	Death	Jacutinga	2
+srag	Death	Guapé	2
+srag	Death	Cláudio	2
+srag	Death	Corinto	2
+srag	Death	Jequitinhonha	2
+srag	Death	Carmo do Rio Claro	2
+srag	Death	Campos Altos	2
+srag	Death	Campanha	2
+srag	Death	Alvinópolis	2
+srag	Death	Caxambu	2
+srag	Death	São Gonçalo do Rio Abaixo	2
+srag	Death	Serra do Salitre	2
+srag	Death	Rio Pomba	2
+srag	Death	São João Nepomuceno	2
+srag	Death	Botelhos	2
+srag	Death	Perdizes	2
+srag	Death	Conceição do Mato Dentro	2
+srag	Death	Matias Barbosa	2
+srag	Death	Perdões	2
+srag	Death	Nova Era	2
+srag	Death	Matozinhos	2
+srag	Death	Borda da Mata	2
+srag	Death	Muzambinho	2
+srag	Death	Coromandel	2
+srag	Death	Bocaiúva	2
+srag	Death	Bicas	2
+srag	Death	Bom Despacho	2
+srag	Death	Ibiraci	2
+srag	Death	Areado	2
+srag	Death	Passa Quatro	2
+srag	Death	Carlos Chagas	2
+srag	Death	Barroso	2
+srag	Death	Estiva	2
+srag	Death	Manhumirim	2
+srag	Death	Serro	2
+srag	Death	Martinho Campos	2
+srag	Death	Elói Mendes	2
+srag	Death	Resende Costa	2
+srag	Death	São Roque de Minas	2
+srag	Death	Iturama	2
+srag	Death	Nova Resende	2
+srag	Death	Antônio Carlos	2
+srag	Death	Maria da Fé	2
+srag	Death	Itaú de Minas	2
+srag	Death	Monte Azul	2
+srag	Death	Rio Piracicaba	2
+srag	Death	Congonhal	2
+srag	Death	Mantena	2
+srag	Death	Ipanema	2
+srag	Death	Capitólio	2
+srag	Death	Rio Paranaíba	2
+srag	Death	Monte Sião	2
+srag	Death	Carmo do Paranaíba	2
+srag	Death	São João Evangelista	2
+srag	Death	Itamonte	2
+srag	Death	Mar de Espanha	2
+srag	Death	São Domingos do Prata	2
+srag	Death	Porteirinha	2
+srag	Death	São Gonçalo do Sapucaí	2
+srag	Death	Lagoa Formosa	2
+srag	Death	Santa Maria de Itabira	2
+srag	Death	Pompéu	2
+srag	Death	Coração de Jesus	2
+srag	Death	Dores do Indaiá	2
+srag	Death	Alterosa	2
+srag	Death	Vazante	2
+srag	Death	Salinas	2
+srag	Death	Raul Soares	2
+srag	Death	Teixeiras	2
+srag	Death	Caldas	2
+srag	Death	Carmo de Minas	2
+srag	Death	Felixlândia	2
+srag	Death	Marabá	13
+srag	Death	Altamira	13
+srag	Death	Parauapebas	13
+srag	Death	Belém	13
+srag	Death	São Miguel do Guamá	6
+srag	Death	Castanhal	5
+srag	Death	Santarém	13
+srag	Death	Ananindeua	14
+srag	Death	Santo Antônio do Tauá	14
+srag	Death	Pacajá	14
+srag	Death	Tucuruí	17
+srag	Death	Canaã dos Carajás	17
+srag	Death	Tomé-Açu	14
+srag	Death	Xinguara	14
+srag	Death	Igarapé-Miri	14
+srag	Death	Bragança	17
+srag	Death	Salinópolis	17
+srag	Death	Novo Repartimento	17
+srag	Death	Paragominas	17
+srag	Death	Ourilândia do Norte	17
+srag	Death	Igarapé-Açu	17
+srag	Death	Santa Maria do Pará	17
+srag	Death	Juruti	17
+srag	Death	Oriximiná	17
+srag	Death	Breves	17
+srag	Death	Mãe do Rio	17
+srag	Death	Monte Alegre	17
+srag	Death	Óbidos	17
+srag	Death	Moju	17
+srag	Death	Conceição do Araguaia	17
+srag	Death	Novo Progresso	17
+srag	Death	Cametá	17
+srag	Death	Dom Eliseu	17
+srag	Death	Barcarena	17
+srag	Death	Goianésia do Pará	4
+srag	Death	Jacundá	17
+srag	Death	Tailândia	17
+srag	Death	Rurópolis	17
+srag	Death	Vigia	17
+srag	Death	Alenquer	17
+srag	Death	Marituba	17
+srag	Death	Tucumã	17
+srag	Death	Rondon do Pará	17
+srag	Death	Anapu	17
+srag	Death	Ulianópolis	17
+srag	Death	São Geraldo do Araguaia	17
+srag	Death	Brasil Novo	17
+srag	Death	Curionópolis	17
+srag	Death	Breu Branco	17
+srag	Death	Itaituba	17
+srag	Death	Benevides	17
+srag	Death	Capitão Poço	17
+srag	Death	Abaetetuba	17
+srag	Death	Almeirim	17
+srag	Death	Portel	17
+srag	Death	Mocajuba	17
+srag	Death	Itupiranga	17
+srag	Death	Uruará	17
+srag	Death	São Félix do Xingu	17
+srag	Death	Concórdia do Pará	17
+srag	Death	Terra Santa	17
+srag	Death	Acará	17
+srag	Death	São Domingos do Araguaia	17
+srag	Death	Rio Maria	17
+srag	Death	Santana do Araguaia	17
+srag	Death	Salvador	13
+srag	Death	Vitória da Conquista	3
+srag	Death	Jequié	3
+srag	Death	Ilhéus	3
+srag	Death	Itabuna	5
+srag	Death	Feira de Santana	7
+srag	Death	Barreiras	7
+srag	Death	Camaçari	7
+srag	Death	Simões Filho	10
+srag	Death	Teixeira de Freitas	7
+srag	Death	Irecê	11
+srag	Death	Juazeiro	3
+srag	Death	Lauro de Freitas	13
+srag	Death	Porto Seguro	7
+srag	Death	Paulo Afonso	11
+srag	Death	Alagoinhas	11
+srag	Death	São Felipe	4
+srag	Death	Mucuri	4
+srag	Death	Maracás	11
+srag	Death	Eunápolis	7
+srag	Death	Carinhanha	4
+srag	Death	Serrinha	11
+srag	Death	Riachão do Jacuípe	4
+srag	Death	Nazaré	4
+srag	Death	São Desidério	11
+srag	Death	Santo Antônio de Jesus	7
+srag	Death	Sento Sé	4
+srag	Death	Seabra	10
+srag	Death	Santa Rita de Cássia	4
+srag	Death	Conceição da Feira	14
+srag	Death	Senhor do Bonfim	14
+srag	Death	Castro Alves	4
+srag	Death	Canavieiras	14
+srag	Death	São Francisco do Conde	10
+srag	Death	Mata de São João	14
+srag	Death	Itaberaba	7
+srag	Death	Riacho de Santana	6
+srag	Death	Remanso	8
+srag	Death	Poções	8
+srag	Death	Camacan	8
+srag	Death	Ibicaraí	8
+srag	Death	Itaparica	8
+srag	Death	Morro do Chapéu	8
+srag	Death	Amélia Rodrigues	8
+srag	Death	Campo Formoso	8
+srag	Death	Valente	8
+srag	Death	Pojuca	8
+srag	Death	Santo Estêvão	8
+srag	Death	Itamaraju	8
+srag	Death	João Dourado	8
+srag	Death	Itacaré	8
+srag	Death	Gandu	8
+srag	Death	Dias d'Ávila	8
+srag	Death	Iaçu	8
+srag	Death	Guanambi	8
+srag	Death	Casa Nova	8
+srag	Death	Prado	8
+srag	Death	Presidente Tancredo Neves	8
+srag	Death	Ipiaú	8
+srag	Death	Itajuípe	8
+srag	Death	Maragogipe	8
+srag	Death	Rio Real	8
+srag	Death	Medeiros Neto	8
+srag	Death	Belo Campo	8
+srag	Death	Ituberá	8
+srag	Death	Condeúba	8
+srag	Death	São Sebastião do Passé	8
+srag	Death	Ubatã	8
+srag	Death	Uauá	8
+srag	Death	Barra da Estiva	8
+srag	Death	Inhambupe	8
+srag	Death	Caetité	8
+srag	Death	Itatim	8
+srag	Death	Uruçuca	8
+srag	Death	São Félix do Coribe	8
+srag	Death	Conceição do Jacuípe	8
+srag	Death	Santa Maria da Vitória	8
+srag	Death	Itanhém	8
+srag	Death	Amargosa	8
+srag	Death	Miguel Calmon	8
+srag	Death	Cachoeira	8
+srag	Death	Correntina	8
+srag	Death	Entre Rios	8
+srag	Death	Itapetinga	8
+srag	Death	Mutuípe	8
+srag	Death	Alcobaça	8
+srag	Death	Irará	8
+srag	Death	Jacobina	2
+srag	Death	Cruz das Almas	8
+srag	Death	Madre de Deus	16
+srag	Death	Itabela	16
+srag	Death	Caravelas	16
+srag	Death	Conceição do Coité	16
+srag	Death	Una	16
+srag	Death	Ruy Barbosa	16
+srag	Death	Laje	16
+srag	Death	Cândido Sales	16
+srag	Death	Nova Viçosa	16
+srag	Death	Capim Grosso	16
+srag	Death	Iguaí	16
+srag	Death	Lapão	16
+srag	Death	Muritiba	16
+srag	Death	Coração de Maria	16
+srag	Death	Ibotirama	16
+srag	Death	Ribeira do Pombal	16
+srag	Death	Coaraci	16
+srag	Death	Araci	16
+srag	Death	Livramento de Nossa Senhora	16
+srag	Death	Xique-Xique	16
+srag	Death	Barra do Choça	16
+srag	Death	Curaçá	16
+srag	Death	Itiúba	16
+srag	Death	Bom Jesus da Lapa	16
+srag	Death	Euclides da Cunha	16
+srag	Death	Belmonte	16
+srag	Death	Catu	16
+srag	Death	Jaguaquara	16
+srag	Death	Santo Amaro	16
+srag	Death	Santa Cruz Cabrália	16
+srag	Death	Cansanção	16
+srag	Death	Itarantim	16
+srag	Death	Santa Rita	13
+srag	Death	João Pessoa	13
+srag	Death	Campina Grande	3
+srag	Death	Catolé do Rocha	4
+srag	Death	Pombal	7
+srag	Death	Patos	3
+srag	Death	São Bento	11
+srag	Death	Serra Branca	11
+srag	Death	Monteiro	10
+srag	Death	Cajazeiras	3
+srag	Death	Alagoa Grande	11
+srag	Death	Princesa Isabel	11
+srag	Death	Sousa	11
+srag	Death	Guarabira	10
+srag	Death	Sapé	4
+srag	Death	Cabedelo	11
+srag	Death	Picuí	4
+srag	Death	Bayeux	11
+srag	Death	Pedras de Fogo	4
+srag	Death	Sumé	4
+srag	Death	Itabaiana	7
+srag	Death	Mari	4
+srag	Death	Mamanguape	10
+srag	Death	Rio Tinto	14
+srag	Death	Queimadas	14
+srag	Death	Solânea	14
+srag	Death	Alhandra	14
+srag	Death	Ingá	14
+srag	Death	Cuité	14
+srag	Death	Alagoa Nova	14
+srag	Death	Vitória	13
+srag	Death	Cariacica	6
+srag	Death	Serra	13
+srag	Death	Vila Velha	5
+srag	Death	Guarapari	14
+srag	Death	Baixo Guandu	4
+srag	Death	Aracruz	14
+srag	Death	Cachoeiro de Itapemirim	10
+srag	Death	Barra de São Francisco	4
+srag	Death	Alegre	4
+srag	Death	Castelo	11
+srag	Death	Linhares	3
+srag	Death	Marechal Floriano	4
+srag	Death	Nova Venécia	4
+srag	Death	São Gabriel da Palha	4
+srag	Death	Colatina	10
+srag	Death	Rio Bananal	4
+srag	Death	Sooretama	4
+srag	Death	Santa Teresa	6
+srag	Death	São Mateus	9
+srag	Death	Alfredo Chaves	6
+srag	Death	Jaguaré	6
+srag	Death	Afonso Cláudio	6
+srag	Death	Ibatiba	6
+srag	Death	Guaçuí	6
+srag	Death	Anchieta	6
+srag	Death	Domingos Martins	6
+srag	Death	Vargem Alta	6
+srag	Death	Itapemirim	6
+srag	Death	Iúna	6
+srag	Death	Marataízes	6
+srag	Death	Piúma	6
+srag	Death	Presidente Kennedy	6
+srag	Death	Ecoporanga	6
+srag	Death	Montanha	6
+srag	Death	Fundão	6
+srag	Death	Pinheiros	6
+srag	Death	Iconha	6
+srag	Death	São Roque do Canaã	6
+srag	Death	Santa Leopoldina	6
+srag	Death	Vila Valério	6
+srag	Death	Pedro Canário	6
+srag	Death	Venda Nova do Imigrante	6
+srag	Death	Santa Maria de Jetibá	6
+srag	Death	Bom Jesus do Norte	6
+srag	Death	Pancas	6
+srag	Death	Marilândia	6
+srag	Death	Natal	13
+srag	Death	Mossoró	13
+srag	Death	Parnamirim	7
+srag	Death	Caicó	10
+srag	Death	Guamaré	11
+srag	Death	Pau dos Ferros	7
+srag	Death	São Paulo do Potengi	10
+srag	Death	Extremoz	10
+srag	Death	Santo Antônio	10
+srag	Death	Macaíba	10
+srag	Death	Touros	4
+srag	Death	Apodi	11
+srag	Death	Currais Novos	11
+srag	Death	Nova Cruz	14
+srag	Death	Areia Branca	14
+srag	Death	Ceará-Mirim	14
+srag	Death	Jucurutu	4
+srag	Death	Santa Cruz	11
+srag	Death	São Miguel	4
+srag	Death	São José de Mipibu	11
+srag	Death	Canguaretama	14
+srag	Death	Alto do Rodrigues	14
+srag	Death	João Câmara	10
+srag	Death	Macau	10
+srag	Death	Caraúbas	10
+srag	Death	Jardim de Piranhas	10
+srag	Death	Goianinha	10
+srag	Death	Teresina	13
+srag	Death	Parnaíba	6
+srag	Death	Campo Maior	7
+srag	Death	Piripiri	14
+srag	Death	Floriano	6
+srag	Death	Picos	11
+srag	Death	São Raimundo Nonato	4
+srag	Death	Bom Jesus	4
+srag	Death	Oeiras	4
+srag	Death	Goiânia	13
+srag	Death	Goianésia	10
+srag	Death	Mineiros	7
+srag	Death	Aparecida de Goiânia	13
+srag	Death	Montividiu	4
+srag	Death	Quirinópolis	14
+srag	Death	Anápolis	13
+srag	Death	Caldas Novas	7
+srag	Death	Itumbiara	7
+srag	Death	Nerópolis	7
+srag	Death	Ceres	14
+srag	Death	Águas Lindas de Goiás	14
+srag	Death	São Luís de Montes Belos	7
+srag	Death	Bom Jesus de Goiás	11
+srag	Death	Rio Verde	3
+srag	Death	Catalão	3
+srag	Death	Valparaíso de Goiás	9
+srag	Death	Santo Antônio de Goiás	4
+srag	Death	Jaraguá	4
+srag	Death	Jataí	7
+srag	Death	Porangatu	11
+srag	Death	Inhumas	11
+srag	Death	Formosa	7
+srag	Death	Pirenópolis	11
+srag	Death	Planaltina	14
+srag	Death	Luziânia	7
+srag	Death	Aragarças	11
+srag	Death	Senador Canedo	11
+srag	Death	Hidrolândia	11
+srag	Death	Santa Helena de Goiás	11
+srag	Death	Edéia	11
+srag	Death	Pires do Rio	11
+srag	Death	Cristalina	10
+srag	Death	Itapuranga	11
+srag	Death	Novo Gama	10
+srag	Death	Acreúna	11
+srag	Death	Iporá	11
+srag	Death	Goiás	11
+srag	Death	Itaberaí	11
+srag	Death	Niquelândia	11
+srag	Death	Indiara	11
+srag	Death	Uruaçu	10
+srag	Death	Goianira	11
+srag	Death	Cocalzinho de Goiás	11
+srag	Death	Alexânia	10
+srag	Death	Goiatuba	10
+srag	Death	Buriti Alegre	11
+srag	Death	Campos Belos	10
+srag	Death	Bela Vista de Goiás	10
+srag	Death	Silvânia	10
+srag	Death	Palmeiras de Goiás	10
+srag	Death	Goianápolis	10
+srag	Death	Piracanjuba	10
+srag	Death	Piranhas	10
+srag	Death	Caçu	10
+srag	Death	Rialma	10
+srag	Death	Guapó	10
+srag	Death	Cachoeira Alta	10
+srag	Death	Anicuns	10
+srag	Death	Itapaci	10
+srag	Death	Corumbaíba	10
+srag	Death	Sanclerlândia	10
+srag	Death	Santo Antônio do Descoberto	10
+srag	Death	Campinorte	10
+srag	Death	Rubiataba	10
+srag	Death	Ipameri	10
+srag	Death	Caiapônia	10
+srag	Death	Posse	10
+srag	Death	Orizona	10
+srag	Death	Vianópolis	10
+srag	Death	Jussara	10
+srag	Death	Cidade Ocidental	10
+srag	Death	Maceió	13
+srag	Death	Coruripe	14
+srag	Death	Arapiraca	14
+srag	Death	São Miguel dos Campos	14
+srag	Death	Santana do Ipanema	14
+srag	Death	Palmeira dos Índios	10
+srag	Death	Rio Largo	10
+srag	Death	Chã Preta	11
+srag	Death	Pilar	14
+srag	Death	Girau do Ponciano	10
+srag	Death	Teotônio Vilela	10
+srag	Death	Delmiro Gouveia	10
+srag	Death	Porto Calvo	10
+srag	Death	União dos Palmares	10
+srag	Death	Marechal Deodoro	10
+srag	Death	São José da Laje	10
+srag	Death	Murici	10
+srag	Death	Maragogi	10
+srag	Death	Junqueiro	14
+srag	Death	Penedo	14
+srag	Death	Pão de Açúcar	14
+srag	Death	Cuiabá	13
+srag	Death	Lucas do Rio Verde	6
+srag	Death	Sorriso	7
+srag	Death	Campo Novo do Parecis	14
+srag	Death	Tangará da Serra	6
+srag	Death	Jaciara	6
+srag	Death	Nova Mutum	9
+srag	Death	Primavera do Leste	3
+srag	Death	Cáceres	3
+srag	Death	Campo Verde	6
+srag	Death	Várzea Grande	14
+srag	Death	Rondonópolis	3
+srag	Death	Vila Rica	4
+srag	Death	Água Boa	14
+srag	Death	Alto Araguaia	14
+srag	Death	Colíder	10
+srag	Death	Canarana	17
+srag	Death	Campos de Júlio	17
+srag	Death	Juara	17
+srag	Death	Sinop	9
+srag	Death	Barra do Garças	3
+srag	Death	Barra do Bugres	4
+srag	Death	Juína	4
+srag	Death	Querência	14
+srag	Death	Nobres	14
+srag	Death	Aripuanã	9
+srag	Death	Diamantino	9
+srag	Death	Colniza	9
+srag	Death	Nova Xavantina	17
+srag	Death	Brasnorte	17
+srag	Death	Araputanga	17
+srag	Death	Alta Floresta	17
+srag	Death	Pontes e Lacerda	17
+srag	Death	São José dos Quatro Marcos	17
+srag	Death	São José do Rio Claro	17
+srag	Death	Confresa	17
+srag	Death	Peixoto de Azevedo	17
+srag	Death	Mirassol d'Oeste	17
+srag	Death	Tapurah	17
+srag	Death	Augustinópolis	17
+srag	Death	Araguaína	3
+srag	Death	Gurupi	3
+srag	Death	Paraíso do Tocantins	14
+srag	Death	Guaraí	3
+srag	Death	Dianópolis	10
+srag	Death	Miracema do Tocantins	3
+srag	Death	Porto Nacional	3
+srag	Death	Tocantinópolis	14
+srag	Death	Araguatins	14
+srag	Death	Colinas do Tocantins	10
+srag	Death	Formoso do Araguaia	14
+srag	Death	Pedro Afonso	14
+srag	Death	Porto Velho	13
+srag	Death	Pimenta Bueno	4
+srag	Death	Guajará-Mirim	4
+srag	Death	Ji-Paraná	10
+srag	Death	Jaru	14
+srag	Death	Cacoal	17
+srag	Death	Ariquemes	14
+srag	Death	Vilhena	14
+srag	Death	Presidente Médici	14
+srag	Death	Ouro Preto do Oeste	14
+srag	Death	Rolim de Moura	14
+srag	Death	Buritis	14
+srag	Death	São Francisco do Guaporé	14
+srag	Death	São Miguel do Guaporé	14
+srag	Death	Colorado do Oeste	14
+srag	Death	Nova Mamoré	14
+srag	Death	Rio Branco	13
+srag	Death	Aracaju	13
+srag	Death	Itabaianinha	4
+srag	Death	Nossa Senhora da Glória	11
+srag	Death	Nossa Senhora do Socorro	7
+srag	Death	Lagarto	7
+srag	Death	Estância	7
+srag	Death	Simão Dias	4
+srag	Death	Propriá	10
+srag	Death	Carmópolis	10
+srag	Death	São Cristóvão	10
+srag	Death	Canindé de São Francisco	4
+srag	Death	Capela	4
+srag	Death	Itaporanga d'Ajuda	11
+srag	Death	Umbaúba	11
+srag	Death	Tobias Barreto	11
+srag	Death	Boquim	11
+srag	Death	Carira	11
+srag	Death	Campo do Brito	11
+srag	Death	Laranjeiras	11
+srag	Death	Barra dos Coqueiros	11
+srag	Death	Salgado	11
+srag	Death	Poço Verde	11
+srag	Death	Nossa Senhora das Dores	11
+srag	Death	Poço Redondo	11
+srag	Death	Boa Vista	3
+srag	Death	Macapá	5
+srag	Death	Laranjal do Jari	6
+srag	Death	Santana	6
+srag	Death	Oiapoque	6
+srag	Death	Nova Andradina	5
+srag	Death	Campo Grande	13
+srag	Death	Corumbá	3
+srag	Death	Naviraí	7
+srag	Death	Ponta Porã	7
+srag	Death	Sidrolândia	10
+srag	Death	Miranda	10
+srag	Death	Maracaju	7
+srag	Death	Amambai	7
+srag	Death	Dourados	13
+srag	Death	Três Lagoas	13
+srag	Death	São Gabriel do Oeste	10
+srag	Death	Ribas do Rio Pardo	10
+srag	Death	Eldorado	10
+srag	Death	Chapadão do Sul	7
+srag	Death	Aquidauana	7
+srag	Death	Itaporã	10
+srag	Death	Brasilândia	10
+srag	Death	Paranaíba	3
+srag	Death	Bataguassu	10
+srag	Death	Coxim	7
+srag	Death	Ivinhema	10
+srag	Death	Iguatemi	10
+srag	Death	Guia Lopes da Laguna	10
+srag	Death	Rio Brilhante	3
+srag	Death	Costa Rica	3
+srag	Death	Fátima do Sul	3
+srag	Death	Cassilândia	3
+srag	Death	Ladário	3
+srag	Death	Terenos	3
+srag	Death	Aparecida do Taboado	3
+srag	Death	Sonora	3
+srag	Death	Rio Verde de Mato Grosso	5
+srag	Death	Angélica	5
+srag	Death	Bela Vista	5
+srag	Death	Glória de Dourados	5
+srag	Death	Porto Murtinho	5
+srag	Death	Anastácio	5
+srag	Death	Itaquiraí	5
+srag	Death	Mundo Novo	5
+srag	Death	Camapuã	5
+srag	Death	Caarapó	5
+srag	Death	Deodápolis	5
+srag	Death	Água Clara	5
+srag	Death	Nova Alvorada do Sul	5
+srag	Death	Batayporã	5
+mobility	residential	São Paulo	12
+mobility	residential	Franco da Rocha	12
+mobility	residential	Leme	11
+mobility	residential	Bragança Paulista	11
+mobility	residential	Sertãozinho	0
+mobility	residential	São Bernardo do Campo	12
+mobility	residential	São Caetano do Sul	12
+mobility	residential	Santo André	12
+mobility	residential	Santos	12
+mobility	residential	Barueri	12
+mobility	residential	Guarulhos	12
+mobility	residential	Jundiaí	12
+mobility	residential	Capão Bonito	16
+mobility	residential	Caraguatatuba	11
+mobility	residential	Osasco	12
+mobility	residential	Itapevi	12
+mobility	residential	Bauru	11
+mobility	residential	Ribeirão Preto	11
+mobility	residential	Campinas	12
+mobility	residential	Mairiporã	12
+mobility	residential	Santana de Parnaíba	12
+mobility	residential	Marília	11
+mobility	residential	Ribeirão Pires	12
+mobility	residential	Viradouro	11
+mobility	residential	Sorocaba	11
+mobility	residential	Cotia	12
+mobility	residential	Francisco Morato	12
+mobility	residential	Limeira	11
+mobility	residential	Cabreúva	11
+mobility	residential	Arujá	11
+mobility	residential	Jaú	0
+mobility	residential	Itapecerica da Serra	12
+mobility	residential	Mogi das Cruzes	12
+mobility	residential	Praia Grande	3
+mobility	residential	Suzano	11
+mobility	residential	São Miguel Arcanjo	3
+mobility	residential	Guarujá	11
+mobility	residential	Caieiras	12
+mobility	residential	São Carlos	11
+mobility	residential	Andradina	0
+mobility	residential	Mogi Guaçu	0
+mobility	residential	Mauá	12
+mobility	residential	Tupã	11
+mobility	residential	Presidente Epitácio	0
+mobility	residential	Dracena	11
+mobility	residential	Hortolândia	11
+mobility	residential	Guararema	11
+mobility	residential	Presidente Prudente	0
+mobility	residential	Piracicaba	11
+mobility	residential	Americana	11
+mobility	residential	Araras	0
+mobility	residential	Diadema	12
+mobility	residential	Catanduva	0
+mobility	residential	Lençóis Paulista	0
+mobility	residential	Jacareí	11
+mobility	residential	Itaquaquecetuba	11
+mobility	residential	Jarinu	11
+mobility	residential	Avaré	0
+mobility	residential	Cajuru	3
+mobility	residential	Nova Odessa	11
+mobility	residential	Olímpia	11
+mobility	residential	Guaíra	0
+mobility	residential	Barretos	0
+mobility	residential	Itu	11
+mobility	residential	Sumaré	11
+mobility	residential	Araçatuba	11
+mobility	residential	Serrana	0
+mobility	residential	Campo Limpo Paulista	11
+mobility	residential	Carapicuíba	11
+mobility	residential	Ibaté	11
+mobility	residential	Taboão da Serra	12
+mobility	residential	Franca	11
+mobility	residential	São José do Rio Preto	11
+mobility	residential	Santa Fé do Sul	0
+mobility	residential	Cubatão	11
+mobility	residential	Paulínia	11
+mobility	residential	Orlândia	11
+mobility	residential	Botucatu	11
+mobility	residential	Itapetininga	0
+mobility	residential	Américo Brasiliense	16
+mobility	residential	Vinhedo	11
+mobility	residential	Rio Claro	2
+mobility	residential	Ilha Solteira	14
+mobility	residential	Santa Bárbara d'Oeste	0
+mobility	residential	Taubaté	11
+mobility	residential	Matão	0
+mobility	residential	São Vicente	11
+mobility	residential	Conchal	16
+mobility	residential	Ipuã	2
+mobility	residential	Pariquera-Açu	5
+mobility	residential	Itapira	14
+mobility	residential	Boituva	0
+mobility	residential	Pirassununga	0
+mobility	residential	Salto de Pirapora	0
+mobility	residential	Buritama	9
+mobility	residential	Ituverava	0
+mobility	residential	Jales	0
+mobility	residential	Amparo	0
+mobility	residential	Bertioga	12
+mobility	residential	São Sebastião da Grama	0
+mobility	residential	Valinhos	12
+mobility	residential	Monte Alto	0
+mobility	residential	Ferraz de Vasconcelos	11
+mobility	residential	Fernandópolis	11
+mobility	residential	Adamantina	0
+mobility	residential	Lins	0
+mobility	residential	Araçariguama	14
+mobility	residential	Votuporanga	16
+mobility	residential	Itararé	11
+mobility	residential	Cafelândia	3
+mobility	residential	Salto	11
+mobility	residential	Guaratinguetá	11
+mobility	residential	Jandira	11
+mobility	residential	Jaguariúna	11
+mobility	residential	São João da Boa Vista	0
+mobility	residential	Conchas	15
+mobility	residential	Pedreira	11
+mobility	residential	Porto Ferreira	0
+mobility	residential	Regente Feijó	3
+mobility	residential	Indaiatuba	11
+mobility	residential	Tanabi	0
+mobility	residential	Itapeva	11
+mobility	residential	Penápolis	0
+mobility	residential	Embu-Guaçu	11
+mobility	residential	Itaí	0
+mobility	residential	Promissão	0
+mobility	residential	Itatiba	11
+mobility	residential	Santa Cruz do Rio Pardo	0
+mobility	residential	Pederneiras	0
+mobility	residential	Batatais	0
+mobility	residential	Cruzeiro	0
+mobility	residential	Pindamonhangaba	0
+mobility	residential	Aparecida	11
+mobility	residential	Jaboticabal	11
+mobility	residential	Várzea Paulista	11
+mobility	residential	Poá	11
+mobility	residential	Assis	11
+mobility	residential	Itupeva	11
+mobility	residential	Paraguaçu Paulista	0
+mobility	residential	Porto Feliz	0
+mobility	residential	São Pedro	11
+mobility	residential	Junqueirópolis	0
+mobility	residential	Ubatuba	11
+mobility	residential	Ilhabela	12
+mobility	residential	Atibaia	11
+mobility	residential	Barra Bonita	0
+mobility	residential	Álvares Machado	0
+mobility	residential	Ibitinga	0
+mobility	residential	Louveira	0
+mobility	residential	Artur Nogueira	0
+mobility	residential	Agudos	0
+mobility	residential	Vargem Grande do Sul	0
+mobility	residential	Ourinhos	0
+mobility	residential	Taquarituba	0
+mobility	residential	Tatuí	0
+mobility	residential	São Manuel	0
+mobility	residential	Paranapanema	15
+mobility	residential	Castilho	15
+mobility	residential	Sales Oliveira	15
+mobility	residential	Socorro	0
+mobility	residential	Ibiúna	0
+mobility	residential	Bebedouro	0
+mobility	residential	Guapiara	15
+mobility	residential	Lorena	15
+mobility	residential	Mineiros do Tietê	15
+mobility	residential	Santa Isabel	11
+mobility	residential	Caçapava	11
+mobility	residential	Casa Branca	0
+mobility	residential	Tietê	0
+mobility	residential	Serra Negra	0
+mobility	residential	Espírito Santo do Pinhal	0
+mobility	residential	São José do Rio Pardo	0
+mobility	residential	Rio das Pedras	0
+mobility	residential	Mococa	0
+mobility	residential	Martinópolis	0
+mobility	residential	Teodoro Sampaio	15
+mobility	residential	Bariri	0
+mobility	residential	Charqueada	0
+mobility	residential	Borborema	2
+mobility	residential	Votorantim	11
+mobility	residential	Arealva	0
+mobility	residential	Osvaldo Cruz	0
+mobility	residential	Campos do Jordão	11
+mobility	residential	Brotas	11
+mobility	residential	Cajamar	11
+mobility	residential	Cosmópolis	0
+mobility	residential	São Roque	11
+mobility	residential	Torrinha	0
+mobility	residential	Mairinque	0
+mobility	residential	Aguaí	0
+mobility	residential	Garça	0
+mobility	residential	Santa Cruz das Palmeiras	3
+mobility	residential	Tambaú	15
+mobility	residential	Itirapina	2
+mobility	residential	Taguaí	2
+mobility	residential	Mirandópolis	2
+mobility	residential	Caconde	2
+mobility	residential	Guariba	15
+mobility	residential	Taquaritinga	14
+mobility	residential	Macatuba	2
+mobility	residential	Cachoeira Paulista	14
+mobility	residential	Registro	11
+mobility	residential	Araraquara	11
+mobility	residential	Itanhaém	11
+mobility	residential	Alumínio	15
+mobility	residential	Tupi Paulista	2
+mobility	residential	Itápolis	3
+mobility	residential	Novo Horizonte	0
+mobility	residential	Piratininga	2
+mobility	residential	Igarapava	2
+mobility	residential	Cândido Mota	3
+mobility	residential	Guará	2
+mobility	residential	Flórida Paulista	2
+mobility	residential	Pontal	2
+mobility	residential	Itapuí	2
+mobility	residential	São Sebastião	11
+mobility	residential	São Joaquim da Barra	0
+mobility	residential	Valparaíso	2
+mobility	residential	Apiaí	2
+mobility	residential	Divinolândia	2
+mobility	residential	Rancharia	3
+mobility	residential	Panorama	2
+mobility	residential	Piraju	14
+mobility	residential	Peruíbe	11
+mobility	residential	Morro Agudo	3
+mobility	residential	Presidente Venceslau	3
+mobility	residential	Tabatinga	3
+mobility	residential	Pitangueiras	3
+mobility	residential	Piracaia	3
+mobility	residential	Rosana	10
+mobility	residential	Maracaí	9
+mobility	residential	Cerquilho	10
+mobility	residential	Lucélia	10
+mobility	residential	Cravinhos	10
+mobility	residential	Dois Córregos	1
+mobility	residential	Guararapes	14
+mobility	residential	Iacanga	7
+mobility	residential	Queluz	7
+mobility	residential	Ipaussu	5
+mobility	residential	Cerqueira César	5
+mobility	residential	Palmital	7
+mobility	residential	Descalvado	14
+mobility	residential	Salesópolis	10
+mobility	residential	Auriflama	10
+mobility	residential	Monte Mor	10
+mobility	residential	Pirapora do Bom Jesus	10
+mobility	residential	Ribeirão Bonito	10
+mobility	residential	Pilar do Sul	10
+mobility	residential	Tapiratiba	10
+mobility	residential	Presidente Bernardes	10
+mobility	residential	Patrocínio Paulista	10
+mobility	residential	Laranjal Paulista	10
+mobility	residential	Altinópolis	2
+mobility	residential	Cajobi	2
+mobility	residential	Colina	2
+mobility	residential	Barrinha	2
+mobility	residential	Santa Rosa de Viterbo	2
+mobility	residential	Itatinga	2
+mobility	residential	Angatuba	5
+mobility	residential	Cesário Lange	5
+mobility	residential	Piedade	10
+mobility	residential	Bocaina	10
+mobility	residential	Bastos	10
+mobility	residential	Capivari	10
+mobility	residential	Santo Anastácio	10
+mobility	residential	Igaratá	10
+mobility	residential	General Salgado	10
+mobility	residential	Uchoa	10
+mobility	residential	Potirendaba	10
+mobility	residential	Pirajuí	9
+mobility	residential	Itajobi	9
+mobility	residential	Pereira Barreto	9
+mobility	residential	Tabapuã	9
+mobility	residential	Jardinópolis	9
+mobility	residential	Dourado	5
+mobility	residential	José Bonifácio	9
+mobility	residential	Rio Grande da Serra	9
+mobility	residential	Iracemápolis	9
+mobility	residential	Mongaguá	9
+mobility	residential	Ribeirão Branco	9
+mobility	residential	Jaci	9
+mobility	residential	Cajati	9
+mobility	residential	Herculândia	9
+mobility	residential	Sete Barras	9
+mobility	residential	Parapuã	9
+mobility	residential	Bernardino de Campos	9
+mobility	residential	Iguape	9
+mobility	residential	Bady Bassitt	9
+mobility	residential	Ilha Comprida	9
+mobility	residential	Itaporanga	9
+mobility	residential	Pirangi	9
+mobility	residential	Águas de Lindóia	9
+mobility	residential	Paraibuna	9
+mobility	residential	Monte Aprazível	9
+mobility	residential	Bofete	9
+mobility	residential	Cordeirópolis	9
+mobility	residential	Mirassol	9
+mobility	residential	Vargem Grande Paulista	9
+mobility	residential	Itaberá	9
+mobility	residential	Nazaré Paulista	9
+mobility	residential	Pirapozinho	9
+mobility	residential	Nova Aliança	9
+mobility	residential	Nhandeara	9
+mobility	residential	Dumont	9
+mobility	residential	São Simão	9
+mobility	residential	Bom Jesus dos Perdões	9
+mobility	residential	Buri	9
+mobility	residential	Miguelópolis	9
+mobility	residential	Itariri	9
+mobility	residential	Pacaembu	9
+mobility	residential	Ipiguá	9
+mobility	residential	Fartura	9
+mobility	residential	Engenheiro Coelho	9
+mobility	residential	Luís Antônio	9
+mobility	residential	Joanópolis	9
+mobility	residential	Vera Cruz	9
+mobility	residential	Salto Grande	9
+mobility	residential	Santa Adélia	9
+mobility	residential	Águas da Prata	9
+mobility	residential	Boa Esperança do Sul	9
+mobility	residential	Pardinho	9
+mobility	residential	Juquitiba	9
+mobility	residential	Santa Rita do Passa Quatro	9
+mobility	residential	Chavantes	9
+mobility	residential	Urânia	9
+mobility	residential	Nova Europa	9
+mobility	residential	Pradópolis	9
+mobility	residential	Palmares Paulista	9
+mobility	residential	Nova Granada	9
+mobility	residential	Iperó	9
+mobility	residential	Ariranha	9
+mobility	residential	Cedral	9
+mobility	residential	Ouroeste	9
+mobility	residential	Mirante do Paranapanema	9
+mobility	residential	Guareí	9
+mobility	residential	Bálsamo	9
+mobility	residential	Pindorama	9
+mobility	residential	Getulina	9
+mobility	residential	Santa Branca	9
+mobility	residential	Severínia	9
+mobility	residential	Guapiaçu	9
+mobility	residential	Valentim Gentil	9
+mobility	residential	Palestina	9
+mobility	residential	Cardoso	9
+mobility	residential	Estrela d'Oeste	9
+mobility	residential	Rinópolis	9
+mobility	residential	Rincão	9
+mobility	residential	Duartina	9
+mobility	residential	Monte Azul Paulista	9
+mobility	residential	Ibirá	9
+mobility	residential	Porto Alegre	12
+mobility	residential	Passo Fundo	11
+mobility	residential	Santo Ângelo	0
+mobility	residential	Cruzeiro do Sul	14
+mobility	residential	Santa Maria	11
+mobility	residential	Bento Gonçalves	11
+mobility	residential	Teutônia	0
+mobility	residential	Carazinho	0
+mobility	residential	Novo Hamburgo	11
+mobility	residential	Farroupilha	0
+mobility	residential	Camaquã	11
+mobility	residential	Santa Cruz do Sul	11
+mobility	residential	Estrela	0
+mobility	residential	Lajeado	0
+mobility	residential	Osório	11
+mobility	residential	Canoas	12
+mobility	residential	Pelotas	12
+mobility	residential	Marau	0
+mobility	residential	Caxias do Sul	11
+mobility	residential	São Jerônimo	15
+mobility	residential	Cachoeirinha	3
+mobility	residential	Tenente Portela	2
+mobility	residential	Rio Grande	12
+mobility	residential	Parobé	11
+mobility	residential	Sapiranga	11
+mobility	residential	São Sebastião do Caí	3
+mobility	residential	Ijuí	0
+mobility	residential	Três Coroas	0
+mobility	residential	Canela	11
+mobility	residential	Santa Rosa	0
+mobility	residential	Gramado	11
+mobility	residential	Guaíba	12
+mobility	residential	Antônio Prado	15
+mobility	residential	Três Passos	2
+mobility	residential	Esteio	12
+mobility	residential	São Borja	11
+mobility	residential	Gravataí	12
+mobility	residential	Viamão	12
+mobility	residential	São Leopoldo	11
+mobility	residential	Uruguaiana	11
+mobility	residential	Bagé	12
+mobility	residential	Erechim	0
+mobility	residential	Venâncio Aires	15
+mobility	residential	Cachoeira do Sul	0
+mobility	residential	Ivoti	0
+mobility	residential	Tramandaí	11
+mobility	residential	Vacaria	0
+mobility	residential	Santiago	11
+mobility	residential	Estância Velha	11
+mobility	residential	Torres	11
+mobility	residential	Garibaldi	0
+mobility	residential	Rio Pardo	3
+mobility	residential	Alegrete	16
+mobility	residential	Tapera	15
+mobility	residential	Getúlio Vargas	15
+mobility	residential	Montenegro	11
+mobility	residential	Taquari	3
+mobility	residential	Santo Augusto	2
+mobility	residential	Encantado	2
+mobility	residential	São Gabriel	14
+mobility	residential	Caçapava do Sul	14
+mobility	residential	Capão da Canoa	14
+mobility	residential	Rosário do Sul	14
+mobility	residential	Sapucaia do Sul	11
+mobility	residential	Alvorada	12
+mobility	residential	Paraí	16
+mobility	residential	Sarandi	16
+mobility	residential	Nonoai	15
+mobility	residential	São Luiz Gonzaga	3
+mobility	residential	Candelária	10
+mobility	residential	Triunfo	7
+mobility	residential	Arroio do Meio	5
+mobility	residential	Dom Pedrito	14
+mobility	residential	Cruz Alta	14
+mobility	residential	Sananduva	7
+mobility	residential	Soledade	7
+mobility	residential	Campo Bom	14
+mobility	residential	Espumoso	5
+mobility	residential	Igrejinha	14
+mobility	residential	Bom Retiro do Sul	10
+mobility	residential	Santo Antônio da Patrulha	14
+mobility	residential	Nova Prata	14
+mobility	residential	Palmeira das Missões	14
+mobility	residential	São José do Norte	5
+mobility	residential	Charqueadas	14
+mobility	residential	Taquara	14
+mobility	residential	Horizontina	14
+mobility	residential	Giruá	7
+mobility	residential	São Marcos	7
+mobility	residential	Seberi	10
+mobility	residential	Guaporé	10
+mobility	residential	Três de Maio	7
+mobility	residential	Tapejara	7
+mobility	residential	Frederico Westphalen	14
+mobility	residential	Ibirubá	7
+mobility	residential	Encruzilhada do Sul	5
+mobility	residential	Carlos Barbosa	10
+mobility	residential	Veranópolis	7
+mobility	residential	Canguçu	7
+mobility	residential	Dois Irmãos	14
+mobility	residential	Flores da Cunha	14
+mobility	residential	Serafina Corrêa	10
+mobility	residential	Tupanciretã	5
+mobility	residential	Lagoa Vermelha	7
+mobility	residential	Arroio Grande	7
+mobility	residential	Nova Petrópolis	7
+mobility	residential	Casca	5
+mobility	residential	Panambi	7
+mobility	residential	Rolante	7
+mobility	residential	Santa Vitória do Palmar	14
+mobility	residential	Santo Cristo	14
+mobility	residential	Portão	14
+mobility	residential	São Lourenço do Sul	14
+mobility	residential	Imbé	14
+mobility	residential	Tuparendi	14
+mobility	residential	Salto do Jacuí	14
+mobility	residential	Barra do Ribeiro	14
+mobility	residential	Chapada	5
+mobility	residential	Salvador do Sul	5
+mobility	residential	Mostardas	5
+mobility	residential	Cerro Largo	5
+mobility	residential	São Pedro do Sul	5
+mobility	residential	Não-Me-Toque	5
+mobility	residential	Palmares do Sul	5
+mobility	residential	Bom Princípio	5
+mobility	residential	São Sepé	5
+mobility	residential	Sobradinho	5
+mobility	residential	Itaqui	5
+mobility	residential	Constantina	5
+mobility	residential	São Francisco de Paula	5
+mobility	residential	Agudo	5
+mobility	residential	Feliz	5
+mobility	residential	Roca Sales	5
+mobility	residential	Arroio do Sal	5
+mobility	residential	Jaguarão	5
+mobility	residential	Piratini	5
+mobility	residential	Cidreira	5
+mobility	residential	Pinheiro Machado	5
+mobility	residential	São Francisco de Assis	5
+mobility	residential	Quaraí	5
+mobility	residential	Arroio do Tigre	5
+mobility	residential	Balneário Pinhal	5
+mobility	residential	Crissiumal	5
+mobility	residential	Tapes	5
+mobility	residential	Nova Santa Rita	5
+mobility	residential	Barão	5
+mobility	residential	Eldorado do Sul	5
+mobility	residential	Nova Bassano	5
+mobility	residential	Júlio de Castilhos	5
+mobility	residential	Terra de Areia	5
+mobility	residential	Restinga Sêca	5
+mobility	residential	Araricá	5
+mobility	residential	Nova Hartz	5
+mobility	residential	Capão do Leão	5
+mobility	residential	Morro Reuter	5
+mobility	residential	Entre-Ijuís	5
+mobility	residential	Butiá	5
+mobility	residential	Três Cachoeiras	5
+mobility	residential	Manaus	11
+mobility	residential	Manacapuru	14
+mobility	residential	Humaitá	14
+mobility	residential	Presidente Figueiredo	7
+mobility	residential	São Gabriel da Cachoeira	7
+mobility	residential	Tefé	7
+mobility	residential	Coari	7
+mobility	residential	Parintins	7
+mobility	residential	Iranduba	7
+mobility	residential	Maués	7
+mobility	residential	Manicoré	7
+mobility	residential	Boca do Acre	7
+mobility	residential	Rio Preto da Eva	7
+mobility	residential	Itacoatiara	7
+mobility	residential	Recife	12
+mobility	residential	Garanhuns	11
+mobility	residential	Salgueiro	16
+mobility	residential	Condado	14
+mobility	residential	São Lourenço da Mata	12
+mobility	residential	Jaboatão dos Guararapes	12
+mobility	residential	Palmares	14
+mobility	residential	Vitória de Santo Antão	16
+mobility	residential	Petrolina	11
+mobility	residential	Cabo de Santo Agostinho	11
+mobility	residential	Olinda	12
+mobility	residential	Igarassu	12
+mobility	residential	Caruaru	11
+mobility	residential	Araripina	0
+mobility	residential	Barreiros	0
+mobility	residential	Ouricuri	6
+mobility	residential	Arcoverde	16
+mobility	residential	Itapissuma	14
+mobility	residential	Gravatá	16
+mobility	residential	Pesqueira	16
+mobility	residential	Paulista	11
+mobility	residential	Ipojuca	11
+mobility	residential	Afogados da Ingazeira	3
+mobility	residential	Bom Conselho	3
+mobility	residential	Limoeiro	16
+mobility	residential	Feira Nova	7
+mobility	residential	Serra Talhada	16
+mobility	residential	Moreno	16
+mobility	residential	Bezerros	16
+mobility	residential	Água Preta	14
+mobility	residential	Glória do Goitá	7
+mobility	residential	Águas Belas	7
+mobility	residential	Santa Cruz do Capibaribe	14
+mobility	residential	Tabira	14
+mobility	residential	Paudalho	14
+mobility	residential	Carpina	16
+mobility	residential	João Alfredo	7
+mobility	residential	Exu	7
+mobility	residential	Camaragibe	16
+mobility	residential	Bonito	14
+mobility	residential	Brejo da Madre de Deus	7
+mobility	residential	Timbaúba	7
+mobility	residential	São José do Egito	7
+mobility	residential	Taquaritinga do Norte	7
+mobility	residential	Custódia	7
+mobility	residential	Petrolândia	7
+mobility	residential	Aliança	7
+mobility	residential	Agrestina	7
+mobility	residential	São José do Belmonte	7
+mobility	residential	Cupira	7
+mobility	residential	Escada	7
+mobility	residential	Nazaré da Mata	7
+mobility	residential	Itambé	7
+mobility	residential	Buíque	7
+mobility	residential	Lajedo	7
+mobility	residential	São Bento do Una	7
+mobility	residential	Toritama	7
+mobility	residential	Bodocó	7
+mobility	residential	Floresta	7
+mobility	residential	Ipubi	7
+mobility	residential	Pombos	7
+mobility	residential	Surubim	10
+mobility	residential	Belo Jardim	10
+mobility	residential	Tamandaré	7
+mobility	residential	Lagoa dos Gatos	7
+mobility	residential	Abreu e Lima	7
+mobility	residential	São Caitano	7
+mobility	residential	São José da Coroa Grande	7
+mobility	residential	Trindade	16
+mobility	residential	Vicência	14
+mobility	residential	Bom Jardim	14
+mobility	residential	Passira	14
+mobility	residential	Lagoa do Carro	7
+mobility	residential	Orobó	7
+mobility	residential	Ribeirão	7
+mobility	residential	Araçoiaba	7
+mobility	residential	Sanharó	7
+mobility	residential	Betânia	7
+mobility	residential	Camocim de São Félix	7
+mobility	residential	Cabrobó	7
+mobility	residential	Rio Formoso	7
+mobility	residential	Canhotinho	7
+mobility	residential	Santa Maria da Boa Vista	7
+mobility	residential	Altinho	7
+mobility	residential	Chã Grande	7
+mobility	residential	Catende	7
+mobility	residential	Sirinhaém	7
+mobility	residential	Vertentes	7
+mobility	residential	Macaparana	7
+mobility	residential	Riacho das Almas	7
+mobility	residential	São Luís	11
+mobility	residential	Imperatriz	16
+mobility	residential	São José de Ribamar	16
+mobility	residential	Barreirinhas	16
+mobility	residential	Chapadinha	3
+mobility	residential	Vitorino Freire	3
+mobility	residential	Caxias	16
+mobility	residential	Porto Franco	3
+mobility	residential	Pinheiro	14
+mobility	residential	Pedreiras	14
+mobility	residential	Timon	16
+mobility	residential	Balsas	16
+mobility	residential	Itapecuru Mirim	16
+mobility	residential	Colinas	16
+mobility	residential	Açailândia	16
+mobility	residential	São João dos Patos	16
+mobility	residential	Lago da Pedra	16
+mobility	residential	São Raimundo das Mangabeiras	16
+mobility	residential	Zé Doca	16
+mobility	residential	Barra do Corda	16
+mobility	residential	Presidente Dutra	16
+mobility	residential	Santa Inês	16
+mobility	residential	Coroatá	16
+mobility	residential	Codó	16
+mobility	residential	Vitória do Mearim	16
+mobility	residential	Bacabal	16
+mobility	residential	Viana	16
+mobility	residential	Grajaú	16
+mobility	residential	Fortaleza	12
+mobility	residential	Maranguape	12
+mobility	residential	Sobral	12
+mobility	residential	Caucaia	12
+mobility	residential	Limoeiro do Norte	11
+mobility	residential	Acaraú	14
+mobility	residential	Aracati	16
+mobility	residential	São Gonçalo do Amarante	14
+mobility	residential	Quixeramobim	16
+mobility	residential	Itapipoca	16
+mobility	residential	Juazeiro do Norte	16
+mobility	residential	Tianguá	0
+mobility	residential	Boa Viagem	1
+mobility	residential	Barbalha	0
+mobility	residential	Iguatu	0
+mobility	residential	Crato	11
+mobility	residential	Ipueiras	11
+mobility	residential	Maracanaú	11
+mobility	residential	Pacatuba	11
+mobility	residential	Cascavel	0
+mobility	residential	Camocim	3
+mobility	residential	Jaguaruana	2
+mobility	residential	Várzea Alegre	2
+mobility	residential	Crateús	16
+mobility	residential	Mombaça	7
+mobility	residential	Tauá	7
+mobility	residential	Beberibe	7
+mobility	residential	Russas	10
+mobility	residential	Mauriti	8
+mobility	residential	Brejo Santo	7
+mobility	residential	Canindé	10
+mobility	residential	Icó	7
+mobility	residential	Ibiapina	7
+mobility	residential	Icapuí	7
+mobility	residential	Cedro	5
+mobility	residential	Assaré	5
+mobility	residential	Quixeré	5
+mobility	residential	Pentecoste	5
+mobility	residential	Jardim	7
+mobility	residential	Redenção	10
+mobility	residential	Acopiara	5
+mobility	residential	Cruz	5
+mobility	residential	Jaguaribe	5
+mobility	residential	Pereiro	5
+mobility	residential	Santa Quitéria	5
+mobility	residential	Marco	5
+mobility	residential	Barreira	5
+mobility	residential	Itarema	5
+mobility	residential	Massapê	5
+mobility	residential	Tabuleiro do Norte	5
+mobility	residential	Granja	5
+mobility	residential	Jijoca de Jericoacoara	5
+mobility	residential	Barro	5
+mobility	residential	Bela Cruz	5
+mobility	residential	Irauçuba	5
+mobility	residential	São Benedito	5
+mobility	residential	Morada Nova	5
+mobility	residential	Missão Velha	5
+mobility	residential	Iracema	5
+mobility	residential	Varjota	5
+mobility	residential	Aurora	5
+mobility	residential	Guaraciaba do Norte	5
+mobility	residential	Viçosa do Ceará	5
+mobility	residential	Guaiúba	5
+mobility	residential	Amontada	5
+mobility	residential	Ubajara	5
+mobility	residential	Senador Pompeu	5
+mobility	residential	Nova Russas	5
+mobility	residential	Uruburetama	5
+mobility	residential	Santana do Acaraú	5
+mobility	residential	Monsenhor Tabosa	5
+mobility	residential	Lavras da Mangabeira	5
+mobility	residential	Novo Oriente	5
+mobility	residential	Itaitinga	5
+mobility	residential	Campos Sales	5
+mobility	residential	Quixadá	5
+mobility	residential	Jucás	5
+mobility	residential	Horizonte	5
+mobility	residential	Reriutaba	5
+mobility	residential	Fortim	5
+mobility	residential	Frecheirinha	5
+mobility	residential	Paraipaba	5
+mobility	residential	Trairi	5
+mobility	residential	Aquiraz	5
+mobility	residential	Forquilha	5
+mobility	residential	Independência	5
+mobility	residential	Morrinhos	10
+mobility	residential	Eusébio	10
+mobility	residential	Tamboril	10
+mobility	residential	Braço do Norte	10
+mobility	residential	Jaraguá do Sul	0
+mobility	residential	São José	11
+mobility	residential	Joinville	11
+mobility	residential	Florianópolis	12
+mobility	residential	Tubarão	11
+mobility	residential	Blumenau	11
+mobility	residential	Balneário Camboriú	11
+mobility	residential	São Bento do Sul	15
+mobility	residential	Lages	0
+mobility	residential	Joaçaba	0
+mobility	residential	Araranguá	0
+mobility	residential	Brusque	15
+mobility	residential	Morro da Fumaça	15
+mobility	residential	Chapecó	0
+mobility	residential	Rio dos Cedros	0
+mobility	residential	Curitibanos	15
+mobility	residential	Capinzal	15
+mobility	residential	Itajaí	0
+mobility	residential	Itaiópolis	15
+mobility	residential	Biguaçu	0
+mobility	residential	Ituporanga	2
+mobility	residential	Timbó	15
+mobility	residential	Içara	15
+mobility	residential	Imbituba	0
+mobility	residential	Laguna	0
+mobility	residential	Pomerode	0
+mobility	residential	Ibirama	10
+mobility	residential	Jaguaruna	10
+mobility	residential	Criciúma	0
+mobility	residential	Canoinhas	15
+mobility	residential	Concórdia	15
+mobility	residential	Itapema	11
+mobility	residential	Videira	0
+mobility	residential	Três Barras	15
+mobility	residential	São Francisco do Sul	0
+mobility	residential	Turvo	15
+mobility	residential	Porto União	15
+mobility	residential	Fraiburgo	15
+mobility	residential	Rio do Sul	15
+mobility	residential	Gaspar	15
+mobility	residential	Caçador	15
+mobility	residential	Indaial	15
+mobility	residential	Agrolândia	15
+mobility	residential	Xanxerê	15
+mobility	residential	Xaxim	15
+mobility	residential	Mafra	15
+mobility	residential	Nova Trento	15
+mobility	residential	São João Batista	15
+mobility	residential	Navegantes	15
+mobility	residential	Presidente Getúlio	15
+mobility	residential	Papanduva	15
+mobility	residential	Palhoça	15
+mobility	residential	Iporã do Oeste	15
+mobility	residential	Orleans	15
+mobility	residential	Canelinha	15
+mobility	residential	São Miguel do Oeste	15
+mobility	residential	Maravilha	15
+mobility	residential	Armazém	15
+mobility	residential	Santo Amaro da Imperatriz	15
+mobility	residential	Campo Alegre	15
+mobility	residential	Massaranduba	15
+mobility	residential	Camboriú	15
+mobility	residential	Urussanga	10
+mobility	residential	São Lourenço do Oeste	10
+mobility	residential	Taió	10
+mobility	residential	Tijucas	10
+mobility	residential	São Joaquim	10
+mobility	residential	Sombrio	10
+mobility	residential	Guaramirim	10
+mobility	residential	Coronel Freitas	10
+mobility	residential	Rio Negrinho	10
+mobility	residential	Campos Novos	10
+mobility	residential	Jacinto Machado	10
+mobility	residential	Dionísio Cerqueira	10
+mobility	residential	Palmitos	10
+mobility	residential	Corupá	10
+mobility	residential	Guaraciaba	10
+mobility	residential	Itapoá	10
+mobility	residential	Luzerna	10
+mobility	residential	Penha	10
+mobility	residential	Trombudo Central	10
+mobility	residential	Luiz Alves	10
+mobility	residential	Cunha Porã	10
+mobility	residential	Santa Cecília	10
+mobility	residential	Barra Velha	10
+mobility	residential	Quilombo	10
+mobility	residential	Irani	10
+mobility	residential	Araquari	10
+mobility	residential	Itapiranga	10
+mobility	residential	Otacílio Costa	10
+mobility	residential	Pinhalzinho	10
+mobility	residential	São José do Cedro	10
+mobility	residential	Urubici	10
+mobility	residential	Faxinal dos Guedes	10
+mobility	residential	Itá	10
+mobility	residential	Pouso Redondo	10
+mobility	residential	Balneário Barra do Sul	10
+mobility	residential	Abelardo Luz	10
+mobility	residential	Bombinhas	10
+mobility	residential	Campo Erê	10
+mobility	residential	Garuva	10
+mobility	residential	Herval d'Oeste	10
+mobility	residential	Rio de Janeiro	12
+mobility	residential	Cabo Frio	11
+mobility	residential	Petrópolis	11
+mobility	residential	Resende	11
+mobility	residential	Angra dos Reis	11
+mobility	residential	Barra do Piraí	11
+mobility	residential	Niterói	12
+mobility	residential	Quissamã	13
+mobility	residential	Itaboraí	11
+mobility	residential	Macaé	12
+mobility	residential	Campos dos Goytacazes	12
+mobility	residential	Vassouras	12
+mobility	residential	Teresópolis	11
+mobility	residential	São Gonçalo	11
+mobility	residential	Duque de Caxias	11
+mobility	residential	Volta Redonda	11
+mobility	residential	Rio das Ostras	12
+mobility	residential	Itaguaí	0
+mobility	residential	Rio Bonito	11
+mobility	residential	Valença	11
+mobility	residential	Nova Friburgo	11
+mobility	residential	Nilópolis	11
+mobility	residential	Barra Mansa	11
+mobility	residential	Belford Roxo	11
+mobility	residential	Itaperuna	0
+mobility	residential	Saquarema	11
+mobility	residential	Maricá	11
+mobility	residential	Piraí	14
+mobility	residential	Araruama	11
+mobility	residential	Nova Iguaçu	11
+mobility	residential	Paraíba do Sul	11
+mobility	residential	Miguel Pereira	14
+mobility	residential	Magé	14
+mobility	residential	Mesquita	14
+mobility	residential	Itaocara	7
+mobility	residential	São João da Barra	14
+mobility	residential	Conceição de Macabu	10
+mobility	residential	Pinheiral	7
+mobility	residential	Quatis	7
+mobility	residential	Tanguá	7
+mobility	residential	Cachoeiras de Macacu	3
+mobility	residential	Japeri	16
+mobility	residential	Porto Real	16
+mobility	residential	Casimiro de Abreu	16
+mobility	residential	Bom Jesus do Itabapoana	14
+mobility	residential	Três Rios	16
+mobility	residential	Porciúncula	16
+mobility	residential	São Francisco de Itabapoana	7
+mobility	residential	Guapimirim	3
+mobility	residential	Iguaba Grande	14
+mobility	residential	Armação dos Búzios	14
+mobility	residential	Italva	14
+mobility	residential	Sumidouro	14
+mobility	residential	Sapucaia	7
+mobility	residential	Areal	7
+mobility	residential	Engenheiro Paulo de Frontin	7
+mobility	residential	Mangaratiba	7
+mobility	residential	Paracambi	7
+mobility	residential	Mendes	7
+mobility	residential	Paty do Alferes	7
+mobility	residential	Cambuci	7
+mobility	residential	Carapebus	7
+mobility	residential	Aperibé	7
+mobility	residential	Itatiaia	7
+mobility	residential	Carmo	7
+mobility	residential	Santo Antônio de Pádua	7
+mobility	residential	Comendador Levy Gasparian	7
+mobility	residential	Cantagalo	7
+mobility	residential	São Pedro da Aldeia	7
+mobility	residential	Silva Jardim	7
+mobility	residential	Seropédica	7
+mobility	residential	Queimados	7
+mobility	residential	Curitiba	12
+mobility	residential	Guaraniaçu	15
+mobility	residential	Paraíso do Norte	15
+mobility	residential	Paranavaí	3
+mobility	residential	Londrina	11
+mobility	residential	Maringá	11
+mobility	residential	Campina Grande do Sul	11
+mobility	residential	Telêmaco Borba	0
+mobility	residential	Campo Largo	11
+mobility	residential	Foz do Iguaçu	11
+mobility	residential	Palmas	0
+mobility	residential	Itaperuçu	3
+mobility	residential	Ivaiporã	15
+mobility	residential	Toledo	0
+mobility	residential	Santa Izabel do Oeste	0
+mobility	residential	Francisco Beltrão	15
+mobility	residential	Arapongas	15
+mobility	residential	Cianorte	15
+mobility	residential	Umuarama	0
+mobility	residential	Pato Branco	0
+mobility	residential	Apucarana	0
+mobility	residential	Ponta Grossa	11
+mobility	residential	Cornélio Procópio	0
+mobility	residential	Araucária	0
+mobility	residential	Campo Mourão	0
+mobility	residential	Cruzeiro do Oeste	0
+mobility	residential	São Mateus do Sul	0
+mobility	residential	Guarapuava	0
+mobility	residential	Santa Helena	15
+mobility	residential	Chopinzinho	15
+mobility	residential	Medianeira	15
+mobility	residential	Tibagi	15
+mobility	residential	Santo Antônio da Platina	15
+mobility	residential	São José dos Pinhais	0
+mobility	residential	Rolândia	0
+mobility	residential	Jacarezinho	0
+mobility	residential	Palmeira	15
+mobility	residential	Paranaguá	11
+mobility	residential	Jaguariaíva	3
+mobility	residential	Nova Esperança	3
+mobility	residential	Ibiporã	3
+mobility	residential	Assaí	3
+mobility	residential	Colorado	2
+mobility	residential	Nova Santa Rosa	2
+mobility	residential	Quedas do Iguaçu	2
+mobility	residential	Rio Branco do Sul	2
+mobility	residential	Terra Boa	2
+mobility	residential	Cambé	3
+mobility	residential	Irati	15
+mobility	residential	Nova Aurora	15
+mobility	residential	Mangueirinha	15
+mobility	residential	Santa Mariana	15
+mobility	residential	Joaquim Távora	15
+mobility	residential	União da Vitória	15
+mobility	residential	Dois Vizinhos	15
+mobility	residential	Piraquara	15
+mobility	residential	Marechal Cândido Rondon	15
+mobility	residential	Capitão Leônidas Marques	15
+mobility	residential	Ampére	15
+mobility	residential	Jardim Alegre	2
+mobility	residential	Bandeirantes	14
+mobility	residential	Palotina	4
+mobility	residential	Matelândia	4
+mobility	residential	Pinhais	4
+mobility	residential	Ubiratã	4
+mobility	residential	Imbituva	4
+mobility	residential	Astorga	4
+mobility	residential	Corbélia	4
+mobility	residential	Goioerê	4
+mobility	residential	Assis Chateaubriand	15
+mobility	residential	Wenceslau Braz	4
+mobility	residential	Bituruna	4
+mobility	residential	Céu Azul	4
+mobility	residential	Três Barras do Paraná	4
+mobility	residential	Araruna	5
+mobility	residential	Sengés	5
+mobility	residential	Santo Antônio do Sudoeste	5
+mobility	residential	Paiçandu	5
+mobility	residential	São Miguel do Iguaçu	4
+mobility	residential	Capanema	4
+mobility	residential	Loanda	4
+mobility	residential	Manoel Ribas	4
+mobility	residential	Itaipulândia	4
+mobility	residential	Siqueira Campos	4
+mobility	residential	Ribeirão do Pinhal	4
+mobility	residential	Castro	4
+mobility	residential	Engenheiro Beltrão	4
+mobility	residential	Andirá	4
+mobility	residential	Fazenda Rio Grande	4
+mobility	residential	Ribeirão Claro	4
+mobility	residential	Piên	4
+mobility	residential	Rebouças	4
+mobility	residential	Colombo	4
+mobility	residential	Santa Tereza do Oeste	4
+mobility	residential	Douradina	4
+mobility	residential	Planalto	4
+mobility	residential	Florestópolis	4
+mobility	residential	Cidade Gaúcha	4
+mobility	residential	Santa Isabel do Ivaí	4
+mobility	residential	Piraí do Sul	4
+mobility	residential	Mamborê	4
+mobility	residential	Terra Rica	4
+mobility	residential	Laranjeiras do Sul	4
+mobility	residential	Jaguapitã	4
+mobility	residential	Clevelândia	4
+mobility	residential	São Jorge d'Oeste	4
+mobility	residential	Lapa	4
+mobility	residential	Coronel Vivida	4
+mobility	residential	Santa Terezinha de Itaipu	4
+mobility	residential	Candói	4
+mobility	residential	Curiúva	4
+mobility	residential	Salto do Lontra	4
+mobility	residential	Altônia	4
+mobility	residential	Porecatu	4
+mobility	residential	Carambeí	4
+mobility	residential	Ibaiti	4
+mobility	residential	Quitandinha	4
+mobility	residential	Missal	4
+mobility	residential	Uraí	4
+mobility	residential	Terra Roxa	4
+mobility	residential	Prudentópolis	4
+mobility	residential	Pitanga	4
+mobility	residential	Arapoti	4
+mobility	residential	Jandaia do Sul	4
+mobility	residential	Realeza	4
+mobility	residential	Paracatu	3
+mobility	residential	Belo Horizonte	12
+mobility	residential	Uberlândia	11
+mobility	residential	Extrema	0
+mobility	residential	Juiz de Fora	12
+mobility	residential	Uberaba	11
+mobility	residential	Leopoldina	12
+mobility	residential	Betim	11
+mobility	residential	Araguari	0
+mobility	residential	Patrocínio	0
+mobility	residential	Cataguases	11
+mobility	residential	Caratinga	0
+mobility	residential	Coronel Fabriciano	0
+mobility	residential	Muriaé	0
+mobility	residential	Ponte Nova	11
+mobility	residential	Manhuaçu	0
+mobility	residential	Sete Lagoas	11
+mobility	residential	Divinópolis	11
+mobility	residential	Ubá	0
+mobility	residential	Ipatinga	0
+mobility	residential	Teófilo Otoni	11
+mobility	residential	Barão de Cocais	11
+mobility	residential	Pouso Alegre	0
+mobility	residential	Montes Claros	11
+mobility	residential	Governador Valadares	11
+mobility	residential	Canápolis	0
+mobility	residential	Lagoa da Prata	0
+mobility	residential	Barbacena	11
+mobility	residential	Poços de Caldas	11
+mobility	residential	Ribeirão das Neves	11
+mobility	residential	Contagem	11
+mobility	residential	Frutal	11
+mobility	residential	Nova Lima	12
+mobility	residential	João Monlevade	11
+mobility	residential	Formiga	11
+mobility	residential	Eugenópolis	3
+mobility	residential	Curvelo	11
+mobility	residential	Ibirité	11
+mobility	residential	São Lourenço	11
+mobility	residential	Itanhandu	3
+mobility	residential	Visconde do Rio Branco	16
+mobility	residential	Jaboticatubas	10
+mobility	residential	Unaí	16
+mobility	residential	Araxá	16
+mobility	residential	São Joaquim de Bicas	16
+mobility	residential	Ituiutaba	16
+mobility	residential	Pirapora	16
+mobility	residential	Patos de Minas	16
+mobility	residential	Mateus Leme	16
+mobility	residential	João Pinheiro	16
+mobility	residential	Itabira	16
+mobility	residential	Três Pontas	16
+mobility	residential	Bom Sucesso	16
+mobility	residential	Além Paraíba	14
+mobility	residential	Itajubá	16
+mobility	residential	Carangola	14
+mobility	residential	Mariana	16
+mobility	residential	Três Corações	11
+mobility	residential	Pedra Azul	15
+mobility	residential	Lagoa Santa	11
+mobility	residential	Santa Luzia	11
+mobility	residential	Itaobim	2
+mobility	residential	Ervália	2
+mobility	residential	Guaranésia	2
+mobility	residential	Guaxupé	0
+mobility	residential	Ouro Fino	14
+mobility	residential	Itamogi	14
+mobility	residential	Passos	16
+mobility	residential	Conceição das Alagoas	10
+mobility	residential	Ouro Branco	10
+mobility	residential	São Sebastião do Paraíso	16
+mobility	residential	Oliveira	16
+mobility	residential	Brumadinho	16
+mobility	residential	Malacacheta	16
+mobility	residential	Campestre	16
+mobility	residential	Araporã	10
+mobility	residential	Alfenas	0
+mobility	residential	Andradas	0
+mobility	residential	Timóteo	11
+mobility	residential	Araçuaí	0
+mobility	residential	Piumhi	16
+mobility	residential	Varginha	0
+mobility	residential	Almenara	3
+mobility	residential	Janaúba	0
+mobility	residential	Monte Carmelo	0
+mobility	residential	Santa Juliana	3
+mobility	residential	Conselheiro Pena	3
+mobility	residential	Pará de Minas	0
+mobility	residential	Sabará	0
+mobility	residential	Santa Bárbara	3
+mobility	residential	Santa Rita do Sapucaí	3
+mobility	residential	Conselheiro Lafaiete	11
+mobility	residential	Lavras	11
+mobility	residential	Januária	11
+mobility	residential	Itabirito	11
+mobility	residential	Itambacuri	16
+mobility	residential	Nanuque	3
+mobility	residential	Viçosa	14
+mobility	residential	Aimorés	15
+mobility	residential	Prata	14
+mobility	residential	Capinópolis	2
+mobility	residential	Sarzedo	14
+mobility	residential	São João del Rei	11
+mobility	residential	Boa Esperança	14
+mobility	residential	Congonhas	11
+mobility	residential	Monte Alegre de Minas	14
+mobility	residential	Itaguara	14
+mobility	residential	Capelinha	14
+mobility	residential	Santo Antônio do Monte	14
+mobility	residential	Monte Santo de Minas	7
+mobility	residential	Novo Cruzeiro	8
+mobility	residential	Cruzília	8
+mobility	residential	Vespasiano	8
+mobility	residential	São Gotardo	8
+mobility	residential	Nova Ponte	8
+mobility	residential	Francisco Sá	8
+mobility	residential	Poço Fundo	8
+mobility	residential	Divino	8
+mobility	residential	São José da Lapa	8
+mobility	residential	Esmeraldas	8
+mobility	residential	Espinosa	8
+mobility	residential	Cambuquira	8
+mobility	residential	Minas Novas	8
+mobility	residential	Candeias	16
+mobility	residential	Campina Verde	14
+mobility	residential	Mutum	14
+mobility	residential	Nova Serrana	8
+mobility	residential	Nepomuceno	8
+mobility	residential	Baependi	8
+mobility	residential	Pedro Leopoldo	8
+mobility	residential	Paraguaçu	8
+mobility	residential	Lambari	8
+mobility	residential	Várzea da Palma	8
+mobility	residential	Guanhães	8
+mobility	residential	Pirapetinga	8
+mobility	residential	Padre Paraíso	8
+mobility	residential	Rio Acima	8
+mobility	residential	Lima Duarte	8
+mobility	residential	Santos Dumont	8
+mobility	residential	Sacramento	8
+mobility	residential	Igarapé	8
+mobility	residential	Turmalina	8
+mobility	residential	Prados	8
+mobility	residential	Carmópolis de Minas	8
+mobility	residential	Juruaia	8
+mobility	residential	Jaíba	8
+mobility	residential	Abaeté	8
+mobility	residential	Campo Belo	8
+mobility	residential	Tupaciguara	8
+mobility	residential	Inhapim	8
+mobility	residential	Pedralva	8
+mobility	residential	Três Marias	8
+mobility	residential	Paraisópolis	8
+mobility	residential	Entre Rios de Minas	8
+mobility	residential	Camanducaia	8
+mobility	residential	Cambuí	8
+mobility	residential	Medina	1
+mobility	residential	Cássia	1
+mobility	residential	Águas Formosas	1
+mobility	residential	Caeté	8
+mobility	residential	Belo Oriente	1
+mobility	residential	Cristais	1
+mobility	residential	Machado	1
+mobility	residential	Arcos	1
+mobility	residential	Resplendor	1
+mobility	residential	Itaúna	1
+mobility	residential	Fronteira	1
+mobility	residential	Brasília de Minas	1
+mobility	residential	Caetanópolis	1
+mobility	residential	Diamantina	1
+mobility	residential	Alpinópolis	1
+mobility	residential	Juatuba	1
+mobility	residential	Ouro Preto	1
+mobility	residential	Jacutinga	1
+mobility	residential	Guapé	1
+mobility	residential	Cláudio	1
+mobility	residential	Corinto	1
+mobility	residential	Jequitinhonha	1
+mobility	residential	Carmo do Rio Claro	1
+mobility	residential	Campos Altos	1
+mobility	residential	Campanha	1
+mobility	residential	Alvinópolis	1
+mobility	residential	Caxambu	1
+mobility	residential	São Gonçalo do Rio Abaixo	1
+mobility	residential	Serra do Salitre	1
+mobility	residential	Rio Pomba	1
+mobility	residential	São João Nepomuceno	1
+mobility	residential	Botelhos	1
+mobility	residential	Perdizes	1
+mobility	residential	Conceição do Mato Dentro	1
+mobility	residential	Matias Barbosa	1
+mobility	residential	Perdões	1
+mobility	residential	Nova Era	1
+mobility	residential	Matozinhos	1
+mobility	residential	Borda da Mata	1
+mobility	residential	Muzambinho	1
+mobility	residential	Coromandel	1
+mobility	residential	Bocaiúva	1
+mobility	residential	Bicas	1
+mobility	residential	Bom Despacho	1
+mobility	residential	Ibiraci	1
+mobility	residential	Areado	1
+mobility	residential	Passa Quatro	1
+mobility	residential	Carlos Chagas	1
+mobility	residential	Barroso	1
+mobility	residential	Estiva	1
+mobility	residential	Manhumirim	1
+mobility	residential	Serro	1
+mobility	residential	Martinho Campos	1
+mobility	residential	Elói Mendes	1
+mobility	residential	Resende Costa	1
+mobility	residential	São Roque de Minas	1
+mobility	residential	Iturama	1
+mobility	residential	Nova Resende	1
+mobility	residential	Antônio Carlos	1
+mobility	residential	Maria da Fé	1
+mobility	residential	Itaú de Minas	1
+mobility	residential	Monte Azul	1
+mobility	residential	Rio Piracicaba	1
+mobility	residential	Congonhal	1
+mobility	residential	Mantena	1
+mobility	residential	Ipanema	1
+mobility	residential	Capitólio	1
+mobility	residential	Rio Paranaíba	1
+mobility	residential	Monte Sião	1
+mobility	residential	Carmo do Paranaíba	1
+mobility	residential	São João Evangelista	1
+mobility	residential	Itamonte	1
+mobility	residential	Mar de Espanha	1
+mobility	residential	São Domingos do Prata	1
+mobility	residential	Porteirinha	1
+mobility	residential	São Gonçalo do Sapucaí	1
+mobility	residential	Lagoa Formosa	1
+mobility	residential	Santa Maria de Itabira	1
+mobility	residential	Pompéu	1
+mobility	residential	Coração de Jesus	1
+mobility	residential	Dores do Indaiá	1
+mobility	residential	Alterosa	1
+mobility	residential	Vazante	1
+mobility	residential	Salinas	1
+mobility	residential	Raul Soares	1
+mobility	residential	Teixeiras	1
+mobility	residential	Caldas	1
+mobility	residential	Carmo de Minas	1
+mobility	residential	Felixlândia	1
+mobility	residential	Marabá	16
+mobility	residential	Altamira	0
+mobility	residential	Parauapebas	0
+mobility	residential	Belém	12
+mobility	residential	São Miguel do Guamá	14
+mobility	residential	Castanhal	11
+mobility	residential	Santarém	12
+mobility	residential	Ananindeua	12
+mobility	residential	Santo Antônio do Tauá	14
+mobility	residential	Pacajá	14
+mobility	residential	Tucuruí	16
+mobility	residential	Canaã dos Carajás	16
+mobility	residential	Tomé-Açu	14
+mobility	residential	Xinguara	14
+mobility	residential	Igarapé-Miri	14
+mobility	residential	Bragança	14
+mobility	residential	Salinópolis	14
+mobility	residential	Novo Repartimento	17
+mobility	residential	Paragominas	16
+mobility	residential	Ourilândia do Norte	17
+mobility	residential	Igarapé-Açu	17
+mobility	residential	Santa Maria do Pará	17
+mobility	residential	Juruti	17
+mobility	residential	Oriximiná	17
+mobility	residential	Breves	17
+mobility	residential	Mãe do Rio	17
+mobility	residential	Monte Alegre	17
+mobility	residential	Óbidos	17
+mobility	residential	Moju	17
+mobility	residential	Conceição do Araguaia	17
+mobility	residential	Novo Progresso	17
+mobility	residential	Cametá	17
+mobility	residential	Dom Eliseu	17
+mobility	residential	Barcarena	16
+mobility	residential	Goianésia do Pará	16
+mobility	residential	Jacundá	17
+mobility	residential	Tailândia	17
+mobility	residential	Rurópolis	17
+mobility	residential	Vigia	17
+mobility	residential	Alenquer	17
+mobility	residential	Marituba	17
+mobility	residential	Tucumã	17
+mobility	residential	Rondon do Pará	17
+mobility	residential	Anapu	17
+mobility	residential	Ulianópolis	17
+mobility	residential	São Geraldo do Araguaia	17
+mobility	residential	Brasil Novo	17
+mobility	residential	Curionópolis	17
+mobility	residential	Breu Branco	17
+mobility	residential	Itaituba	17
+mobility	residential	Benevides	17
+mobility	residential	Capitão Poço	17
+mobility	residential	Abaetetuba	17
+mobility	residential	Almeirim	17
+mobility	residential	Portel	17
+mobility	residential	Mocajuba	17
+mobility	residential	Itupiranga	17
+mobility	residential	Uruará	17
+mobility	residential	São Félix do Xingu	17
+mobility	residential	Concórdia do Pará	17
+mobility	residential	Terra Santa	17
+mobility	residential	Acará	17
+mobility	residential	São Domingos do Araguaia	17
+mobility	residential	Rio Maria	17
+mobility	residential	Santana do Araguaia	17
+mobility	residential	Salvador	12
+mobility	residential	Vitória da Conquista	11
+mobility	residential	Jequié	11
+mobility	residential	Ilhéus	12
+mobility	residential	Itabuna	12
+mobility	residential	Feira de Santana	11
+mobility	residential	Barreiras	11
+mobility	residential	Camaçari	12
+mobility	residential	Simões Filho	12
+mobility	residential	Teixeira de Freitas	11
+mobility	residential	Irecê	11
+mobility	residential	Juazeiro	0
+mobility	residential	Lauro de Freitas	12
+mobility	residential	Porto Seguro	12
+mobility	residential	Paulo Afonso	12
+mobility	residential	Alagoinhas	12
+mobility	residential	São Felipe	11
+mobility	residential	Mucuri	11
+mobility	residential	Maracás	13
+mobility	residential	Eunápolis	11
+mobility	residential	Carinhanha	11
+mobility	residential	Serrinha	11
+mobility	residential	Riachão do Jacuípe	11
+mobility	residential	Nazaré	13
+mobility	residential	São Desidério	13
+mobility	residential	Santo Antônio de Jesus	11
+mobility	residential	Sento Sé	11
+mobility	residential	Seabra	3
+mobility	residential	Santa Rita de Cássia	3
+mobility	residential	Conceição da Feira	3
+mobility	residential	Senhor do Bonfim	0
+mobility	residential	Castro Alves	0
+mobility	residential	Canavieiras	3
+mobility	residential	São Francisco do Conde	6
+mobility	residential	Mata de São João	6
+mobility	residential	Itaberaba	6
+mobility	residential	Riacho de Santana	6
+mobility	residential	Remanso	6
+mobility	residential	Poções	6
+mobility	residential	Camacan	6
+mobility	residential	Ibicaraí	6
+mobility	residential	Itaparica	6
+mobility	residential	Morro do Chapéu	6
+mobility	residential	Amélia Rodrigues	6
+mobility	residential	Campo Formoso	6
+mobility	residential	Valente	6
+mobility	residential	Pojuca	6
+mobility	residential	Santo Estêvão	6
+mobility	residential	Itamaraju	6
+mobility	residential	João Dourado	6
+mobility	residential	Itacaré	6
+mobility	residential	Gandu	6
+mobility	residential	Dias d'Ávila	6
+mobility	residential	Iaçu	6
+mobility	residential	Guanambi	6
+mobility	residential	Casa Nova	6
+mobility	residential	Prado	6
+mobility	residential	Presidente Tancredo Neves	6
+mobility	residential	Ipiaú	6
+mobility	residential	Itajuípe	6
+mobility	residential	Maragogipe	6
+mobility	residential	Rio Real	6
+mobility	residential	Medeiros Neto	6
+mobility	residential	Belo Campo	6
+mobility	residential	Ituberá	6
+mobility	residential	Condeúba	6
+mobility	residential	São Sebastião do Passé	6
+mobility	residential	Ubatã	6
+mobility	residential	Uauá	6
+mobility	residential	Barra da Estiva	6
+mobility	residential	Inhambupe	6
+mobility	residential	Caetité	6
+mobility	residential	Itatim	6
+mobility	residential	Uruçuca	6
+mobility	residential	São Félix do Coribe	6
+mobility	residential	Conceição do Jacuípe	6
+mobility	residential	Santa Maria da Vitória	6
+mobility	residential	Itanhém	6
+mobility	residential	Amargosa	6
+mobility	residential	Miguel Calmon	6
+mobility	residential	Cachoeira	6
+mobility	residential	Correntina	6
+mobility	residential	Entre Rios	6
+mobility	residential	Itapetinga	6
+mobility	residential	Mutuípe	6
+mobility	residential	Alcobaça	6
+mobility	residential	Irará	6
+mobility	residential	Jacobina	6
+mobility	residential	Cruz das Almas	6
+mobility	residential	Madre de Deus	6
+mobility	residential	Itabela	6
+mobility	residential	Caravelas	6
+mobility	residential	Conceição do Coité	6
+mobility	residential	Una	6
+mobility	residential	Ruy Barbosa	6
+mobility	residential	Laje	6
+mobility	residential	Cândido Sales	6
+mobility	residential	Nova Viçosa	6
+mobility	residential	Capim Grosso	6
+mobility	residential	Iguaí	6
+mobility	residential	Lapão	6
+mobility	residential	Muritiba	6
+mobility	residential	Coração de Maria	6
+mobility	residential	Ibotirama	6
+mobility	residential	Ribeira do Pombal	6
+mobility	residential	Coaraci	6
+mobility	residential	Araci	6
+mobility	residential	Livramento de Nossa Senhora	6
+mobility	residential	Xique-Xique	6
+mobility	residential	Barra do Choça	6
+mobility	residential	Curaçá	6
+mobility	residential	Itiúba	6
+mobility	residential	Bom Jesus da Lapa	6
+mobility	residential	Euclides da Cunha	6
+mobility	residential	Belmonte	6
+mobility	residential	Catu	6
+mobility	residential	Jaguaquara	6
+mobility	residential	Santo Amaro	6
+mobility	residential	Santa Cruz Cabrália	6
+mobility	residential	Cansanção	6
+mobility	residential	Itarantim	6
+mobility	residential	Santa Rita	16
+mobility	residential	João Pessoa	12
+mobility	residential	Campina Grande	11
+mobility	residential	Catolé do Rocha	0
+mobility	residential	Pombal	13
+mobility	residential	Patos	0
+mobility	residential	São Bento	3
+mobility	residential	Serra Branca	3
+mobility	residential	Monteiro	2
+mobility	residential	Cajazeiras	0
+mobility	residential	Alagoa Grande	3
+mobility	residential	Princesa Isabel	3
+mobility	residential	Sousa	3
+mobility	residential	Guarabira	0
+mobility	residential	Sapé	0
+mobility	residential	Cabedelo	0
+mobility	residential	Picuí	0
+mobility	residential	Bayeux	0
+mobility	residential	Pedras de Fogo	0
+mobility	residential	Sumé	3
+mobility	residential	Itabaiana	0
+mobility	residential	Mari	0
+mobility	residential	Mamanguape	3
+mobility	residential	Rio Tinto	3
+mobility	residential	Queimadas	3
+mobility	residential	Solânea	3
+mobility	residential	Alhandra	3
+mobility	residential	Ingá	3
+mobility	residential	Cuité	3
+mobility	residential	Alagoa Nova	3
+mobility	residential	Vitória	12
+mobility	residential	Cariacica	12
+mobility	residential	Serra	11
+mobility	residential	Vila Velha	11
+mobility	residential	Guarapari	11
+mobility	residential	Baixo Guandu	11
+mobility	residential	Aracruz	11
+mobility	residential	Cachoeiro de Itapemirim	11
+mobility	residential	Barra de São Francisco	3
+mobility	residential	Alegre	3
+mobility	residential	Castelo	3
+mobility	residential	Linhares	0
+mobility	residential	Marechal Floriano	0
+mobility	residential	Nova Venécia	0
+mobility	residential	São Gabriel da Palha	3
+mobility	residential	Colatina	0
+mobility	residential	Rio Bananal	0
+mobility	residential	Sooretama	0
+mobility	residential	Santa Teresa	3
+mobility	residential	São Mateus	0
+mobility	residential	Alfredo Chaves	0
+mobility	residential	Jaguaré	0
+mobility	residential	Afonso Cláudio	0
+mobility	residential	Ibatiba	6
+mobility	residential	Guaçuí	6
+mobility	residential	Anchieta	6
+mobility	residential	Domingos Martins	6
+mobility	residential	Vargem Alta	6
+mobility	residential	Itapemirim	6
+mobility	residential	Iúna	6
+mobility	residential	Marataízes	6
+mobility	residential	Piúma	6
+mobility	residential	Presidente Kennedy	6
+mobility	residential	Ecoporanga	6
+mobility	residential	Montanha	6
+mobility	residential	Fundão	6
+mobility	residential	Pinheiros	6
+mobility	residential	Iconha	6
+mobility	residential	São Roque do Canaã	6
+mobility	residential	Santa Leopoldina	6
+mobility	residential	Vila Valério	6
+mobility	residential	Pedro Canário	6
+mobility	residential	Venda Nova do Imigrante	6
+mobility	residential	Santa Maria de Jetibá	6
+mobility	residential	Bom Jesus do Norte	6
+mobility	residential	Pancas	6
+mobility	residential	Marilândia	6
+mobility	residential	Natal	12
+mobility	residential	Mossoró	11
+mobility	residential	Parnamirim	12
+mobility	residential	Caicó	11
+mobility	residential	Guamaré	0
+mobility	residential	Pau dos Ferros	3
+mobility	residential	São Paulo do Potengi	2
+mobility	residential	Extremoz	2
+mobility	residential	Santo Antônio	2
+mobility	residential	Macaíba	16
+mobility	residential	Touros	16
+mobility	residential	Apodi	3
+mobility	residential	Currais Novos	3
+mobility	residential	Nova Cruz	3
+mobility	residential	Areia Branca	3
+mobility	residential	Ceará-Mirim	3
+mobility	residential	Jucurutu	3
+mobility	residential	Santa Cruz	3
+mobility	residential	São Miguel	3
+mobility	residential	São José de Mipibu	3
+mobility	residential	Canguaretama	3
+mobility	residential	Alto do Rodrigues	3
+mobility	residential	João Câmara	2
+mobility	residential	Macau	2
+mobility	residential	Caraúbas	2
+mobility	residential	Jardim de Piranhas	2
+mobility	residential	Goianinha	2
+mobility	residential	Teresina	12
+mobility	residential	Parnaíba	12
+mobility	residential	Campo Maior	13
+mobility	residential	Piripiri	13
+mobility	residential	Floriano	12
+mobility	residential	Picos	12
+mobility	residential	São Raimundo Nonato	12
+mobility	residential	Bom Jesus	12
+mobility	residential	Oeiras	12
+mobility	residential	Goiânia	12
+mobility	residential	Goianésia	0
+mobility	residential	Mineiros	15
+mobility	residential	Aparecida de Goiânia	11
+mobility	residential	Montividiu	11
+mobility	residential	Quirinópolis	11
+mobility	residential	Anápolis	11
+mobility	residential	Caldas Novas	11
+mobility	residential	Itumbiara	0
+mobility	residential	Nerópolis	3
+mobility	residential	Ceres	3
+mobility	residential	Águas Lindas de Goiás	11
+mobility	residential	São Luís de Montes Belos	0
+mobility	residential	Bom Jesus de Goiás	3
+mobility	residential	Rio Verde	0
+mobility	residential	Catalão	11
+mobility	residential	Valparaíso de Goiás	11
+mobility	residential	Santo Antônio de Goiás	11
+mobility	residential	Jaraguá	11
+mobility	residential	Jataí	0
+mobility	residential	Porangatu	0
+mobility	residential	Inhumas	0
+mobility	residential	Formosa	0
+mobility	residential	Pirenópolis	3
+mobility	residential	Planaltina	0
+mobility	residential	Luziânia	11
+mobility	residential	Aragarças	0
+mobility	residential	Senador Canedo	0
+mobility	residential	Hidrolândia	0
+mobility	residential	Santa Helena de Goiás	0
+mobility	residential	Edéia	3
+mobility	residential	Pires do Rio	3
+mobility	residential	Cristalina	3
+mobility	residential	Itapuranga	3
+mobility	residential	Novo Gama	0
+mobility	residential	Acreúna	3
+mobility	residential	Iporá	0
+mobility	residential	Goiás	3
+mobility	residential	Itaberaí	3
+mobility	residential	Niquelândia	3
+mobility	residential	Indiara	3
+mobility	residential	Uruaçu	3
+mobility	residential	Goianira	3
+mobility	residential	Cocalzinho de Goiás	3
+mobility	residential	Alexânia	3
+mobility	residential	Goiatuba	3
+mobility	residential	Buriti Alegre	3
+mobility	residential	Campos Belos	3
+mobility	residential	Bela Vista de Goiás	3
+mobility	residential	Silvânia	2
+mobility	residential	Palmeiras de Goiás	2
+mobility	residential	Goianápolis	2
+mobility	residential	Piracanjuba	2
+mobility	residential	Piranhas	2
+mobility	residential	Caçu	2
+mobility	residential	Rialma	2
+mobility	residential	Guapó	2
+mobility	residential	Cachoeira Alta	2
+mobility	residential	Anicuns	2
+mobility	residential	Itapaci	2
+mobility	residential	Corumbaíba	2
+mobility	residential	Sanclerlândia	2
+mobility	residential	Santo Antônio do Descoberto	2
+mobility	residential	Campinorte	2
+mobility	residential	Rubiataba	2
+mobility	residential	Ipameri	2
+mobility	residential	Caiapônia	2
+mobility	residential	Posse	2
+mobility	residential	Orizona	2
+mobility	residential	Vianópolis	2
+mobility	residential	Jussara	2
+mobility	residential	Cidade Ocidental	2
+mobility	residential	Maceió	11
+mobility	residential	Coruripe	14
+mobility	residential	Arapiraca	0
+mobility	residential	São Miguel dos Campos	3
+mobility	residential	Santana do Ipanema	3
+mobility	residential	Palmeira dos Índios	3
+mobility	residential	Rio Largo	3
+mobility	residential	Chã Preta	3
+mobility	residential	Pilar	3
+mobility	residential	Girau do Ponciano	2
+mobility	residential	Teotônio Vilela	2
+mobility	residential	Delmiro Gouveia	2
+mobility	residential	Porto Calvo	2
+mobility	residential	União dos Palmares	2
+mobility	residential	Marechal Deodoro	2
+mobility	residential	São José da Laje	2
+mobility	residential	Murici	2
+mobility	residential	Maragogi	2
+mobility	residential	Junqueiro	2
+mobility	residential	Penedo	2
+mobility	residential	Pão de Açúcar	2
+mobility	residential	Cuiabá	12
+mobility	residential	Lucas do Rio Verde	11
+mobility	residential	Sorriso	11
+mobility	residential	Campo Novo do Parecis	0
+mobility	residential	Tangará da Serra	0
+mobility	residential	Jaciara	14
+mobility	residential	Nova Mutum	0
+mobility	residential	Primavera do Leste	0
+mobility	residential	Cáceres	11
+mobility	residential	Campo Verde	11
+mobility	residential	Várzea Grande	11
+mobility	residential	Rondonópolis	16
+mobility	residential	Vila Rica	14
+mobility	residential	Água Boa	2
+mobility	residential	Alto Araguaia	2
+mobility	residential	Colíder	2
+mobility	residential	Canarana	2
+mobility	residential	Campos de Júlio	2
+mobility	residential	Juara	2
+mobility	residential	Sinop	2
+mobility	residential	Barra do Garças	16
+mobility	residential	Barra do Bugres	16
+mobility	residential	Juína	16
+mobility	residential	Querência	14
+mobility	residential	Nobres	2
+mobility	residential	Aripuanã	2
+mobility	residential	Diamantino	2
+mobility	residential	Colniza	2
+mobility	residential	Nova Xavantina	2
+mobility	residential	Brasnorte	2
+mobility	residential	Araputanga	2
+mobility	residential	Alta Floresta	2
+mobility	residential	Pontes e Lacerda	2
+mobility	residential	São José dos Quatro Marcos	2
+mobility	residential	São José do Rio Claro	2
+mobility	residential	Confresa	2
+mobility	residential	Peixoto de Azevedo	2
+mobility	residential	Mirassol d'Oeste	2
+mobility	residential	Tapurah	2
+mobility	residential	Augustinópolis	2
+mobility	residential	Araguaína	0
+mobility	residential	Gurupi	16
+mobility	residential	Paraíso do Tocantins	16
+mobility	residential	Guaraí	2
+mobility	residential	Dianópolis	2
+mobility	residential	Miracema do Tocantins	2
+mobility	residential	Porto Nacional	14
+mobility	residential	Tocantinópolis	14
+mobility	residential	Araguatins	2
+mobility	residential	Colinas do Tocantins	2
+mobility	residential	Formoso do Araguaia	2
+mobility	residential	Pedro Afonso	2
+mobility	residential	Porto Velho	12
+mobility	residential	Pimenta Bueno	12
+mobility	residential	Guajará-Mirim	14
+mobility	residential	Ji-Paraná	14
+mobility	residential	Jaru	14
+mobility	residential	Cacoal	14
+mobility	residential	Ariquemes	14
+mobility	residential	Vilhena	14
+mobility	residential	Presidente Médici	14
+mobility	residential	Ouro Preto do Oeste	14
+mobility	residential	Rolim de Moura	14
+mobility	residential	Buritis	14
+mobility	residential	São Francisco do Guaporé	14
+mobility	residential	São Miguel do Guaporé	14
+mobility	residential	Colorado do Oeste	14
+mobility	residential	Nova Mamoré	14
+mobility	residential	Rio Branco	12
+mobility	residential	Aracaju	12
+mobility	residential	Itabaianinha	12
+mobility	residential	Nossa Senhora da Glória	13
+mobility	residential	Nossa Senhora do Socorro	11
+mobility	residential	Lagarto	11
+mobility	residential	Estância	11
+mobility	residential	Simão Dias	3
+mobility	residential	Propriá	13
+mobility	residential	Carmópolis	13
+mobility	residential	São Cristóvão	11
+mobility	residential	Canindé de São Francisco	11
+mobility	residential	Capela	11
+mobility	residential	Itaporanga d'Ajuda	13
+mobility	residential	Umbaúba	13
+mobility	residential	Tobias Barreto	13
+mobility	residential	Boquim	13
+mobility	residential	Carira	13
+mobility	residential	Campo do Brito	13
+mobility	residential	Laranjeiras	13
+mobility	residential	Barra dos Coqueiros	13
+mobility	residential	Salgado	13
+mobility	residential	Poço Verde	13
+mobility	residential	Nossa Senhora das Dores	13
+mobility	residential	Poço Redondo	13
+mobility	residential	Boa Vista	11
+mobility	residential	Macapá	11
+mobility	residential	Laranjal do Jari	14
+mobility	residential	Santana	16
+mobility	residential	Oiapoque	14
+mobility	residential	Nova Andradina	14
+mobility	residential	Campo Grande	11
+mobility	residential	Corumbá	11
+mobility	residential	Naviraí	0
+mobility	residential	Ponta Porã	0
+mobility	residential	Sidrolândia	15
+mobility	residential	Miranda	15
+mobility	residential	Maracaju	15
+mobility	residential	Amambai	15
+mobility	residential	Dourados	0
+mobility	residential	Três Lagoas	16
+mobility	residential	São Gabriel do Oeste	3
+mobility	residential	Ribas do Rio Pardo	2
+mobility	residential	Eldorado	2
+mobility	residential	Chapadão do Sul	0
+mobility	residential	Aquidauana	16
+mobility	residential	Itaporã	2
+mobility	residential	Brasilândia	2
+mobility	residential	Paranaíba	15
+mobility	residential	Bataguassu	15
+mobility	residential	Coxim	3
+mobility	residential	Ivinhema	2
+mobility	residential	Iguatemi	2
+mobility	residential	Guia Lopes da Laguna	2
+mobility	residential	Rio Brilhante	2
+mobility	residential	Costa Rica	2
+mobility	residential	Fátima do Sul	2
+mobility	residential	Cassilândia	2
+mobility	residential	Ladário	2
+mobility	residential	Terenos	2
+mobility	residential	Aparecida do Taboado	2
+mobility	residential	Sonora	2
+mobility	residential	Rio Verde de Mato Grosso	5
+mobility	residential	Angélica	5
+mobility	residential	Bela Vista	5
+mobility	residential	Glória de Dourados	5
+mobility	residential	Porto Murtinho	5
+mobility	residential	Anastácio	5
+mobility	residential	Itaquiraí	5
+mobility	residential	Mundo Novo	5
+mobility	residential	Camapuã	5
+mobility	residential	Caarapó	5
+mobility	residential	Deodápolis	5
+mobility	residential	Água Clara	5
+mobility	residential	Nova Alvorada do Sul	5
+mobility	residential	Batayporã	5

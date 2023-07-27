@@ -22,7 +22,6 @@ def make_input():
                     j='0'+j
                 possible_xs.append(i+'-w'+j)
         
-        outs=['Cases','Deaths']
         existing_xs = set(ts['period'].unique())
         newcols = {}
         for p in possible_xs:
@@ -31,7 +30,7 @@ def make_input():
         
         # each line is a city, goal is clustering cities using cases, and after using mobi residential, and calculate clusters overlapping in the two scenarios
         cities = list(ts['city'].unique())
-        outcomes = ['Cases','Deaths', 'mobility']
+        outcomes = ['Cases','Death', 'mobility']
         
         xs = {}
         for o in outcomes:
@@ -46,9 +45,9 @@ def make_input():
                 col='residential'
                 if( o!='mobility' ):
                     cond = " (ts['city']==c) & (ts['outcome']==o)"
-                    col='agg_per_1000'
+                    col='agg_per_1000_log10'
                 aux = newcols
-                f = ts[ eval(cond) & (ts['type_period']=='week') ][ ['period', 'agg_per_1000', 'residential'] ]
+                f = ts[ eval(cond) & (ts['type_period']=='week') ][ ['period', 'agg_per_1000', 'agg_per_1000_log10', 'residential'] ]
                 y = f[col].fillna(0).values
                 i=0
                 for k in f['period'].values:
@@ -154,7 +153,7 @@ def test_elbow_method(xs, cutoff):
                     best_k = k
                     break
                     
-            print(ide, k, antine, ine, ant, ratio)
+            #print(ide, k, antine, ine, ant, ratio)
             ant=ratio
             antine=ine
             
@@ -192,7 +191,10 @@ def test_elbow_method(xs, cutoff):
     return res
     
 def run_simulation():
-    g = open("results_clustering_scenarios_outcome_from_mobility.tsv", "w")
+    ts = pd.read_csv('../filtered_data/time_series_mobility_cases.tsv.gz', sep='\t', compression='gzip')
+    cities = list(ts['city'].unique())
+    
+    g = open("results_clustering_kmeans.tsv", "w")
     g.write("type_scenario\tvariable_column_x\tcity\tpredicted_cluster\n")
     g.close()
     
@@ -215,7 +217,7 @@ def run_simulation():
         y = r['y']
         i=0
         for j in y:
-            with open("results_clustering_scenarios_outcome_from_mobility.tsv", "a") as g:
+            with open("results_clustering_kmeans.tsv", "a") as g:
                 g.write(f"{typ}\t{col}\t{cities[i]}\t{j}\n")
             i+=1
 
@@ -233,22 +235,35 @@ def get_closest_cluster_by_neighbor(sett, set_group):
     return best_k, ma, els
     
 def get_metrics_intra_cluster(dat, els):
-    outcomes = ['Cases','Deaths', 'mobility']
+    outcomes = ['Cases', 'Death', 'mobility']
     means = {}
     for e in els:
-        for o in outcomes:
+        for o in dat[e].keys():
             if(not o in means):
                 means[o]=[]
             means[o].append( dat[e][o] )
     
     strm=[]
     for o in outcomes:
-        temp = means[o]
-        means[o] = sum(temp)/len(temp)
-        strm.append( str( means[o] ) )
+        if(not o in means):
+            strm.append( '0' )
+        else:
+            temp = means[o]
+            means[o] = sum(temp)/len(temp)
+            strm.append( str( means[o] ) )
     strm = '\t'.join(strm)
     return means, strm
-        
+
+def get_summary_metrics_cluster(dtcol, dat, ide):
+    g = open(f"results_summary_clusters_{ide}.tsv", "w")
+    g.write("dimension\tcluster\tcluster_elements\tmeans_cases\tmeans_deaths\tmeans_mobility\n")
+    g.close()
+    for d in dtcol.keys():
+        for cl in dtcol[d]:
+            els = ','.join( dtcol[d][cl] )
+            m, sm = get_metrics_intra_cluster(dat, dtcol[d][cl])
+            with open(f"results_summary_clusters_{ide}.tsv", "a") as g:
+                g.write(f"{d}\t{cl}\t{els}\t{sm}\n")
         
 def check_intersection_dimensions():
     ts = pd.read_csv('../filtered_data/time_series_mobility_cases.tsv.gz', sep='\t', compression='gzip')
@@ -264,8 +279,8 @@ def check_intersection_dimensions():
             dat[c][k] = sum(xs[k][i])/len(xs[k][i])
             i+=1        
            
-    outs=['Cases','Deaths']
-    df = pd.read_csv("results_clustering_scenarios_outcome_from_mobility.tsv", sep='\t')
+    outs=['Cases','Death']
+    df = pd.read_csv("results_clustering_kmeans.tsv", sep='\t')
     dtct={}
     dtcol={}
     for i in df.index:
@@ -284,7 +299,9 @@ def check_intersection_dimensions():
             dtct[ct]={}
         dtct[ct][col]=cl
     
-    g = open("results_analysis_clustering_scenarios.tsv", "w")
+    get_summary_metrics_cluster(dtcol, dat, 'kmeans')
+    
+    g = open("results_analysis_clustering_kmeans.tsv", "w")
     g.write("outcome\tmaximum_intersection\tpercentage_intersection\toutcome_cluster\toutcome_cluster_elements\tomeans_cases\tomeans_deaths\tomeans_mobility\tresidential_cluster\tresidential_cluster_elements\trmeans_cases\trmeans_deaths\trmeans_mobility\n")
     g.close()
     
@@ -303,7 +320,68 @@ def check_intersection_dimensions():
             gmeans, sgm = get_metrics_intra_cluster(dat, els)
             
             sels = ','.join( list(els) )
-            with open("results_analysis_clustering_scenarios.tsv", "a") as g:
+            with open("results_analysis_clustering_kmeans.tsv", "a") as g:
+                g.write(f"{o}\t{ma}\t{ma/len(cl)}\t{best_k}\t{sels}\t{sgm}\t{c}\t{scl}\t{srm}\n")
+        
+        
+def check_intersection_dimensions_network():
+    ts = pd.read_csv('../filtered_data/time_series_mobility_cases.tsv.gz', sep='\t', compression='gzip')
+    cities = list(ts['city'].unique())
+    with open('x_clustering.json', 'r') as g:
+        xs = json.load(g)
+    dat={}
+    for c in cities:
+        dat[c]={}
+    for k in xs.keys():
+        i=0
+        for c in cities:
+            dat[c][k] = sum(xs[k][i])/len(xs[k][i])
+            i+=1        
+          
+    outs=['Cases','Death']
+    df = pd.read_csv("results_clustering_network.tsv", sep='\t')
+    dtct={}
+    dtcol={}
+    for i in df.index:
+        col = df.loc[i, 'identifier']
+        cls = df.loc[i, 'id_cluster']
+        cl = int( cls.split('-')[1] )
+        cities = df.loc[i, 'cities'].split(',')
+        
+        if(not col in dtcol):
+            dtcol[col]={}
+        if(not cls in dtcol[col]):
+            dtcol[col][cls]=set()
+            
+        for ct in cities:
+            dtcol[col][cls].add(ct)
+            
+            if(not ct in dtct):
+                dtct[ct]={}
+            dtct[ct][col]=cl
+    
+    get_summary_metrics_cluster(dtcol, dat, 'network')
+    
+    g = open("results_analysis_clustering_network.tsv", "w")
+    g.write("outcome\tmaximum_intersection\tpercentage_intersection\toutcome_cluster\toutcome_cluster_elements\tomeans_cases\tomeans_deaths\tomeans_mobility\tresidential_cluster\tresidential_cluster_elements\trmeans_cases\trmeans_deaths\trmeans_mobility\n")
+    g.close()
+    
+    cltsr = dtcol['mobility']
+    matches={}
+    for o in outs:
+        matches[o]={}
+        clts = dtcol[o]
+        for c in cltsr.keys():
+            cl = cltsr[c]
+            rmeans, srm = get_metrics_intra_cluster(dat, cl)
+            
+            scl=','.join( list(cl) )
+            best_k, ma, els = get_closest_cluster_by_neighbor(cl, clts)
+            matches[o][c] = { 'best_cl': best_k, 'number_elements': ma, 'elements': els }
+            gmeans, sgm = get_metrics_intra_cluster(dat, els)
+            
+            sels = ','.join( list(els) )
+            with open("results_analysis_clustering_network.tsv", "a") as g:
                 g.write(f"{o}\t{ma}\t{ma/len(cl)}\t{best_k}\t{sels}\t{sgm}\t{c}\t{scl}\t{srm}\n")
             
 
@@ -315,3 +393,5 @@ if(option=='2'):
     run_simulation_network()
 if(option=='3'):
     check_intersection_dimensions()  
+if(option=='4'):
+    check_intersection_dimensions_network()  

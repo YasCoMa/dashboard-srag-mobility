@@ -1,500 +1,486 @@
 identifier	id_cluster	number_elements	cities
-Cases	c-1	57	São José do Rio Preto,Recife,Belo Horizonte,Presidente Prudente,Niterói,Cascavel,Florianópolis,Maringá,Teresina,São Caetano do Sul,Novo Hamburgo,Serra,Londrina,Caxias do Sul,Aracaju,Pindamonhangaba,Pariquera-Açu,Manaus,Jundiaí,Campo Grande,Indaiatuba,Piracicaba,Belém,Salvador,Rio de Janeiro,Botucatu,Guarulhos,Osasco,Volta Redonda,Fortaleza,Juiz de Fora,Santos,Santo André,Uberlândia,Taubaté,Criciúma,Goiânia,Curitiba,Jacareí,São Paulo,Mogi das Cruzes,Ribeirão Preto,Bento Gonçalves,Blumenau,Itapira,Natal,Cuiabá,Barueri,João Pessoa,Joinville,Itajaí,Porto Alegre,Balneário Camboriú,Campinas,Mauá,São Bernardo do Campo,Sorocaba
-Cases	c-2	2	Guarujá,Duque de Caxias
-Cases	c-3	2	Castilho,Sales Oliveira
-Cases	c-4	2	Guará,Flórida Paulista
-Cases	c-5	2	Apiaí,Divinolândia
-Cases	c-6	3	Angatuba,Piedade,Cesário Lange
-Cases	c-7	2	Itajobi,Pereira Barreto
-Cases	c-8	3	Ribeirão Branco,Jaci,Cajati
-Cases	c-9	2	Parapuã,Sete Barras
-Cases	c-10	2	Iguape,Bernardino de Campos
-Cases	c-11	2	Itaporanga,Pirangi
-Cases	c-12	4	Paraibuna,Cordeirópolis,Bofete,Monte Aprazível
-Cases	c-13	2	Nazaré Paulista,Pirapozinho
-Cases	c-14	2	São Simão,Bom Jesus dos Perdões
-Cases	c-15	9	Fartura,Engenheiro Coelho,Buri,Ipiguá,Pacaembu,Luís Antônio,Joanópolis,Itariri,Miguelópolis
-Cases	c-16	21	Ouroeste,Nova Europa,Águas da Prata,Getulina,Palmares Paulista,Severínia,Nova Granada,Guapiaçu,Pradópolis,Santa Adélia,Boa Esperança do Sul,Cedral,Pindorama,Bálsamo,Mirante do Paranapanema,Pardinho,Iperó,Ariranha,Juquitiba,Santa Branca,Guareí
-Cases	c-17	3	Urânia,Chavantes,Santa Rita do Passa Quatro
-Cases	c-18	9	Rinópolis,Monte Azul Paulista,Estrela d'Oeste,Rincão,Cardoso,Ibirá,Valentim Gentil,Palestina,Duartina
-Cases	c-19	2	Salto do Jacuí,Barra do Ribeiro
-Cases	c-20	3	São Pedro do Sul,Mostardas,Cerro Largo
+Cases	c-1	3	Recife,Salvador,São Paulo
+Cases	c-2	20	Criciúma,Campinas,São Caetano do Sul,Fortaleza,Juiz de Fora,Goiânia,Uberlândia,Curitiba,Guarulhos,Balneário Camboriú,Florianópolis,Ribeirão Preto,São José do Rio Preto,Joinville,Maringá,Belo Horizonte,Sorocaba,Rio de Janeiro,Londrina,Porto Alegre
+Cases	c-3	2	Barueri,Santo André
+Cases	c-4	2	Osasco,Caxias do Sul
+Cases	c-5	2	Castilho,Sales Oliveira
+Cases	c-6	2	Flórida Paulista,Guará
+Cases	c-7	2	Divinolândia,Apiaí
+Cases	c-8	2	Jaci,Cajati
+Cases	c-9	2	Sete Barras,Parapuã
+Cases	c-10	2	Bernardino de Campos,Iguape
+Cases	c-11	4	Cordeirópolis,Paraibuna,Monte Aprazível,Bofete
+Cases	c-12	2	Nazaré Paulista,Pirapozinho
+Cases	c-13	2	Bom Jesus dos Perdões,São Simão
+Cases	c-14	8	Fartura,Itariri,Engenheiro Coelho,Buri,Luís Antônio,Pacaembu,Ipiguá,Miguelópolis
+Cases	c-15	10	Nova Granada,Boa Esperança do Sul,Juquitiba,Santa Adélia,Iperó,Pardinho,Pradópolis,Nova Europa,Águas da Prata,Palmares Paulista
+Cases	c-16	3	Urânia,Santa Rita do Passa Quatro,Chavantes
+Cases	c-17	11	Guapiaçu,Pindorama,Bálsamo,Santa Branca,Ariranha,Getulina,Severínia,Ouroeste,Mirante do Paranapanema,Cedral,Guareí
+Cases	c-18	9	Monte Azul Paulista,Ibirá,Duartina,Palestina,Rincão,Estrela d'Oeste,Cardoso,Valentim Gentil,Rinópolis
+Cases	c-19	2	Barra do Ribeiro,Salto do Jacuí
+Cases	c-20	2	Cerro Largo,Mostardas
 Cases	c-21	2	Palmares do Sul,Não-Me-Toque
-Cases	c-22	2	Agudo,São Francisco de Paula
+Cases	c-22	2	São Francisco de Paula,Agudo
 Cases	c-23	2	Feliz,Roca Sales
 Cases	c-24	2	Jaguarão,Arroio do Sal
-Cases	c-25	10	Arroio do Tigre,Piratini,Nova Santa Rita,Pinheiro Machado,São Francisco de Assis,Balneário Pinhal,Cidreira,Tapes,Quaraí,Crissiumal
-Cases	c-26	2	Eldorado do Sul,Barão
-Cases	c-27	2	Júlio de Castilhos,Nova Bassano
-Cases	c-28	3	Araricá,Nova Hartz,Restinga Sêca
-Cases	c-29	4	Morro Reuter,Butiá,Entre-Ijuís,Capão do Leão
-Cases	c-30	2	Presidente Figueiredo,São Gabriel da Cachoeira
-Cases	c-31	2	Maués,Iranduba
-Cases	c-32	4	Manicoré,Boca do Acre,Rio Preto da Eva,Itacoatiara
-Cases	c-33	2	Taquaritinga do Norte,São José do Egito
-Cases	c-34	5	Custódia,Agrestina,Aliança,Petrolândia,São José do Belmonte
-Cases	c-35	2	Escada,Cupira
-Cases	c-36	7	Pombos,Bodocó,Ipubi,São Bento do Una,Floresta,Surubim,Toritama
-Cases	c-37	2	São Caitano,São José da Coroa Grande
-Cases	c-38	2	Orobó,Lagoa do Carro
-Cases	c-39	3	Betânia,Camocim de São Félix,Sanharó
-Cases	c-40	3	Rio Formoso,Canhotinho,Cabrobó
-Cases	c-41	8	Vertentes,Sirinhaém,Santa Maria da Boa Vista,Chã Grande,Macaparana,Riacho das Almas,Altinho,Catende
-Cases	c-42	2	Chapadinha,Vitorino Freire
-Cases	c-43	2	Itapecuru Mirim,Colinas
-Cases	c-44	6	Presidente Dutra,Zé Doca,São Raimundo das Mangabeiras,Coroatá,Santa Inês,Lago da Pedra
-Cases	c-45	2	Codó,Barra do Corda
-Cases	c-46	3	Bacabal,Vitória do Mearim,Grajaú
-Cases	c-47	2	Cedro,Assaré
-Cases	c-48	3	Quixeré,Pentecoste,Jardim
-Cases	c-49	3	Jaguaribe,Cruz,Pereiro
-Cases	c-50	4	Santa Quitéria,Barreira,Marco,Itarema
-Cases	c-51	4	Massapê,Tabuleiro do Norte,Granja,Jijoca de Jericoacoara
-Cases	c-52	4	Irauçuba,Bela Cruz,Morada Nova,São Benedito
-Cases	c-53	3	Iracema,Varjota,Missão Velha
-Cases	c-54	6	Senador Pompeu,Ubajara,Amontada,Viçosa do Ceará,Guaraciaba do Norte,Guaiúba
-Cases	c-55	7	Santana do Acaraú,Nova Russas,Novo Oriente,Itaitinga,Uruburetama,Monsenhor Tabosa,Lavras da Mangabeira
-Cases	c-56	2	Quixadá,Campos Sales
-Cases	c-57	2	Horizonte,Jucás
-Cases	c-58	2	Independência,Forquilha
-Cases	c-59	2	Campo Alegre,Massaranduba
-Cases	c-60	5	Luzerna,Itapoá,Guaraciaba,Palmitos,Corupá
-Cases	c-61	5	Barra Velha,Luiz Alves,Santa Cecília,Cunha Porã,Trombudo Central
-Cases	c-62	14	Otacílio Costa,Irani,Pinhalzinho,Itá,Bombinhas,São José do Cedro,Pouso Redondo,Faxinal dos Guedes,Quilombo,Urubici,Balneário Barra do Sul,Abelardo Luz,Itapiranga,Araquari
-Cases	c-63	3	Herval d'Oeste,Campo Erê,Garuva
-Cases	c-64	3	Areal,Engenheiro Paulo de Frontin,Mangaratiba
-Cases	c-65	3	Itatiaia,Aperibé,Carapebus
-Cases	c-66	2	Santo Antônio de Pádua,Carmo
-Cases	c-67	3	Comendador Levy Gasparian,São Pedro da Aldeia,Cantagalo
-Cases	c-68	3	Seropédica,Silva Jardim,Queimados
-Cases	c-69	2	Joaquim Távora,Santa Mariana
-Cases	c-70	2	Matelândia,Pinhais
-Cases	c-71	4	Araruna,Paiçandu,Santo Antônio do Sudoeste,Sengés
-Cases	c-72	2	Andirá,Fazenda Rio Grande
-Cases	c-73	2	Rebouças,Colombo
-Cases	c-74	2	Douradina,Santa Tereza do Oeste
-Cases	c-75	12	Mamborê,Florestópolis,Jaguapitã,Santa Isabel do Ivaí,Cidade Gaúcha,Clevelândia,Piraí do Sul,Planalto,Lapa,Terra Rica,São Jorge d'Oeste,Laranjeiras do Sul
-Cases	c-76	6	Candói,Salto do Lontra,Altônia,Curiúva,Porecatu,Santa Terezinha de Itaipu
-Cases	c-77	5	Quitandinha,Carambeí,Ibaiti,Missal,Uraí
-Cases	c-78	2	Terra Roxa,Prudentópolis
-Cases	c-79	4	Arapoti,Realeza,Jandaia do Sul,Pitanga
-Cases	c-80	2	Ervália,Guaranésia
-Cases	c-81	2	Santa Juliana,Conselheiro Pena
-Cases	c-82	2	Francisco Sá,Nova Ponte
-Cases	c-83	2	Poço Fundo,Divino
-Cases	c-84	2	Lambari,Paraguaçu
-Cases	c-85	3	Padre Paraíso,Rio Acima,Lima Duarte
-Cases	c-86	2	Turmalina,Prados
-Cases	c-87	3	Juruaia,Jaíba,Carmópolis de Minas
-Cases	c-88	2	Campo Belo,Abaeté
-Cases	c-89	3	Três Marias,Pedralva,Inhapim
-Cases	c-90	4	Cássia,Águas Formosas,Caeté,Medina
-Cases	c-91	2	Machado,Cristais
-Cases	c-92	2	Itaúna,Resplendor
-Cases	c-93	4	Fronteira,Diamantina,Caetanópolis,Brasília de Minas
-Cases	c-94	3	Campos Altos,Campanha,Alvinópolis
-Cases	c-95	4	Caxambu,São Gonçalo do Rio Abaixo,Serra do Salitre,Rio Pomba
-Cases	c-96	3	São João Nepomuceno,Botelhos,Perdizes
-Cases	c-97	3	Matias Barbosa,Perdões,Conceição do Mato Dentro
-Cases	c-98	2	Nova Era,Matozinhos
-Cases	c-99	2	Borda da Mata,Muzambinho
-Cases	c-100	3	Bicas,Bom Despacho,Bocaiúva
-Cases	c-101	2	Areado,Passa Quatro
-Cases	c-102	2	Carlos Chagas,Barroso
-Cases	c-103	2	Manhumirim,Estiva
-Cases	c-104	2	Martinho Campos,Elói Mendes
-Cases	c-105	2	Resende Costa,São Roque de Minas
-Cases	c-106	27	Monte Azul,São João Evangelista,Itamonte,Salinas,Santa Maria de Itabira,Maria da Fé,Coração de Jesus,Rio Paranaíba,Mantena,Monte Sião,Pompéu,Alterosa,São Gonçalo do Sapucaí,Congonhal,Porteirinha,Lagoa Formosa,Capitólio,Rio Piracicaba,Dores do Indaiá,Carmo do Paranaíba,Nova Resende,Mar de Espanha,Itaú de Minas,Ipanema,São Domingos do Prata,Antônio Carlos,Vazante
-Cases	c-107	5	Carmo de Minas,Teixeiras,Raul Soares,Felixlândia,Caldas
-Cases	c-108	2	Santa Maria do Pará,Igarapé-Açu
-Cases	c-109	4	Conceição do Araguaia,Moju,Óbidos,Novo Progresso
-Cases	c-110	3	Alenquer,Vigia,Rurópolis
-Cases	c-111	2	Rondon do Pará,Anapu
-Cases	c-112	2	São Geraldo do Araguaia,Ulianópolis
-Cases	c-113	4	Breu Branco,Brasil Novo,Curionópolis,Itaituba
-Cases	c-114	2	Portel,Almeirim
-Cases	c-115	3	Mocajuba,Itupiranga,Uruará
-Cases	c-116	4	São Félix do Xingu,Acará,Concórdia do Pará,Terra Santa
-Cases	c-117	3	Rio Maria,Santana do Araguaia,São Domingos do Araguaia
-Cases	c-118	2	Ibicaraí,Camacan
-Cases	c-119	2	Itacaré,Gandu
-Cases	c-120	2	Itajuípe,Maragogipe
-Cases	c-121	2	Belo Campo,Medeiros Neto
-Cases	c-122	3	Barra da Estiva,Ubatã,Uauá
-Cases	c-123	6	Itanhém,Itatim,Santa Maria da Vitória,Conceição do Jacuípe,São Félix do Coribe,Uruçuca
-Cases	c-124	6	Itapetinga,Correntina,Miguel Calmon,Entre Rios,Amargosa,Cachoeira
-Cases	c-125	3	Mutuípe,Alcobaça,Irará
-Cases	c-126	3	Caravelas,Madre de Deus,Itabela
-Cases	c-127	2	Laje,Cândido Sales
-Cases	c-128	4	Capim Grosso,Lapão,Iguaí,Muritiba
-Cases	c-129	3	Ibotirama,Ribeira do Pombal,Coaraci
-Cases	c-130	7	Araci,Bom Jesus da Lapa,Livramento de Nossa Senhora,Itiúba,Barra do Choça,Curaçá,Xique-Xique
-Cases	c-131	2	Belmonte,Euclides da Cunha
-Cases	c-132	3	Santa Cruz Cabrália,Itarantim,Cansanção
-Cases	c-133	5	Alhandra,Ingá,Solânea,Alagoa Nova,Cuité
-Cases	c-134	2	Anchieta,Guaçuí
-Cases	c-135	19	São Roque do Canaã,Ecoporanga,Itapemirim,Bom Jesus do Norte,Pedro Canário,Marataízes,Iconha,Santa Leopoldina,Vila Valério,Venda Nova do Imigrante,Presidente Kennedy,Vargem Alta,Piúma,Domingos Martins,Montanha,Fundão,Iúna,Santa Maria de Jetibá,Pinheiros
-Cases	c-136	2	Pancas,Marilândia
-Cases	c-137	2	São Paulo do Potengi,Extremoz
-Cases	c-138	5	Caraúbas,Goianinha,Jardim de Piranhas,Macau,João Câmara
-Cases	c-139	2	Piracanjuba,Piranhas
-Cases	c-140	4	Guapó,Rialma,Caçu,Cachoeira Alta
-Cases	c-141	11	Cidade Ocidental,Orizona,Ipameri,Jussara,Campinorte,Rubiataba,Caiapônia,Corumbaíba,Vianópolis,Posse,Sanclerlândia
-Cases	c-142	2	Canarana,Campos de Júlio
-Cases	c-143	2	Diamantino,Aripuanã
-Cases	c-144	2	Nova Xavantina,Brasnorte
-Cases	c-145	2	Alta Floresta,Araputanga
-Cases	c-146	5	Confresa,Mirassol d'Oeste,Peixoto de Azevedo,São José do Rio Claro,Tapurah
-Cases	c-147	2	Dianópolis,Guaraí
-Cases	c-148	2	Pedro Afonso,Formoso do Araguaia
-Cases	c-149	3	Nova Mamoré,São Miguel do Guaporé,Colorado do Oeste
-Cases	c-150	2	Capela,Canindé de São Francisco
-Cases	c-151	2	Umbaúba,Itaporanga d'Ajuda
-Cases	c-152	4	Campo do Brito,Barra dos Coqueiros,Laranjeiras,Carira
-Cases	c-153	3	Nossa Senhora das Dores,Poço Redondo,Poço Verde
-Cases	c-154	4	Terenos,Cassilândia,Ladário,Aparecida do Taboado
-Cases	c-155	14	Bela Vista,Itaquiraí,Caarapó,Porto Murtinho,Anastácio,Batayporã,Mundo Novo,Rio Verde de Mato Grosso,Nova Alvorada do Sul,Deodápolis,Água Clara,Glória de Dourados,Angélica,Camapuã
-Deaths	c-1	57	São José do Rio Preto,Recife,Belo Horizonte,Presidente Prudente,Niterói,Cascavel,Florianópolis,Maringá,Teresina,São Caetano do Sul,Novo Hamburgo,Serra,Londrina,Caxias do Sul,Aracaju,Pindamonhangaba,Pariquera-Açu,Manaus,Jundiaí,Campo Grande,Indaiatuba,Piracicaba,Belém,Salvador,Rio de Janeiro,Botucatu,Guarulhos,Osasco,Volta Redonda,Fortaleza,Juiz de Fora,Santos,Santo André,Uberlândia,Taubaté,Criciúma,Goiânia,Curitiba,Jacareí,São Paulo,Mogi das Cruzes,Ribeirão Preto,Bento Gonçalves,Blumenau,Itapira,Natal,Cuiabá,Barueri,João Pessoa,Joinville,Itajaí,Porto Alegre,Balneário Camboriú,Campinas,Mauá,São Bernardo do Campo,Sorocaba
-Deaths	c-2	2	Guarujá,Duque de Caxias
-Deaths	c-3	2	Castilho,Sales Oliveira
-Deaths	c-4	2	Guará,Flórida Paulista
-Deaths	c-5	2	Apiaí,Divinolândia
-Deaths	c-6	3	Angatuba,Piedade,Cesário Lange
-Deaths	c-7	2	Itajobi,Pereira Barreto
-Deaths	c-8	3	Ribeirão Branco,Jaci,Cajati
-Deaths	c-9	2	Parapuã,Sete Barras
-Deaths	c-10	2	Iguape,Bernardino de Campos
-Deaths	c-11	2	Itaporanga,Pirangi
-Deaths	c-12	4	Paraibuna,Cordeirópolis,Bofete,Monte Aprazível
-Deaths	c-13	2	Nazaré Paulista,Pirapozinho
-Deaths	c-14	2	São Simão,Bom Jesus dos Perdões
-Deaths	c-15	9	Fartura,Engenheiro Coelho,Buri,Ipiguá,Pacaembu,Luís Antônio,Joanópolis,Itariri,Miguelópolis
-Deaths	c-16	21	Ouroeste,Nova Europa,Águas da Prata,Getulina,Palmares Paulista,Severínia,Nova Granada,Guapiaçu,Pradópolis,Santa Adélia,Boa Esperança do Sul,Cedral,Pindorama,Bálsamo,Mirante do Paranapanema,Pardinho,Iperó,Ariranha,Juquitiba,Santa Branca,Guareí
-Deaths	c-17	3	Urânia,Chavantes,Santa Rita do Passa Quatro
-Deaths	c-18	9	Rinópolis,Monte Azul Paulista,Estrela d'Oeste,Rincão,Cardoso,Ibirá,Valentim Gentil,Palestina,Duartina
-Deaths	c-19	2	Salto do Jacuí,Barra do Ribeiro
-Deaths	c-20	3	São Pedro do Sul,Mostardas,Cerro Largo
-Deaths	c-21	2	Palmares do Sul,Não-Me-Toque
-Deaths	c-22	2	Agudo,São Francisco de Paula
-Deaths	c-23	2	Feliz,Roca Sales
-Deaths	c-24	2	Jaguarão,Arroio do Sal
-Deaths	c-25	10	Arroio do Tigre,Piratini,Nova Santa Rita,Pinheiro Machado,São Francisco de Assis,Balneário Pinhal,Cidreira,Tapes,Quaraí,Crissiumal
-Deaths	c-26	2	Eldorado do Sul,Barão
-Deaths	c-27	2	Júlio de Castilhos,Nova Bassano
-Deaths	c-28	3	Araricá,Nova Hartz,Restinga Sêca
-Deaths	c-29	4	Morro Reuter,Butiá,Entre-Ijuís,Capão do Leão
-Deaths	c-30	2	Presidente Figueiredo,São Gabriel da Cachoeira
-Deaths	c-31	2	Maués,Iranduba
-Deaths	c-32	4	Manicoré,Boca do Acre,Rio Preto da Eva,Itacoatiara
-Deaths	c-33	2	Taquaritinga do Norte,São José do Egito
-Deaths	c-34	5	Custódia,Agrestina,Aliança,Petrolândia,São José do Belmonte
-Deaths	c-35	2	Escada,Cupira
-Deaths	c-36	7	Pombos,Bodocó,Ipubi,São Bento do Una,Floresta,Surubim,Toritama
-Deaths	c-37	2	São Caitano,São José da Coroa Grande
-Deaths	c-38	2	Orobó,Lagoa do Carro
-Deaths	c-39	3	Betânia,Camocim de São Félix,Sanharó
-Deaths	c-40	3	Rio Formoso,Canhotinho,Cabrobó
-Deaths	c-41	8	Vertentes,Sirinhaém,Santa Maria da Boa Vista,Chã Grande,Macaparana,Riacho das Almas,Altinho,Catende
-Deaths	c-42	2	Chapadinha,Vitorino Freire
-Deaths	c-43	2	Itapecuru Mirim,Colinas
-Deaths	c-44	6	Presidente Dutra,Zé Doca,São Raimundo das Mangabeiras,Coroatá,Santa Inês,Lago da Pedra
-Deaths	c-45	2	Codó,Barra do Corda
-Deaths	c-46	3	Bacabal,Vitória do Mearim,Grajaú
-Deaths	c-47	2	Cedro,Assaré
-Deaths	c-48	3	Quixeré,Pentecoste,Jardim
-Deaths	c-49	3	Jaguaribe,Cruz,Pereiro
-Deaths	c-50	4	Santa Quitéria,Barreira,Marco,Itarema
-Deaths	c-51	4	Massapê,Tabuleiro do Norte,Granja,Jijoca de Jericoacoara
-Deaths	c-52	4	Irauçuba,Bela Cruz,Morada Nova,São Benedito
-Deaths	c-53	3	Iracema,Varjota,Missão Velha
-Deaths	c-54	6	Senador Pompeu,Ubajara,Amontada,Viçosa do Ceará,Guaraciaba do Norte,Guaiúba
-Deaths	c-55	7	Santana do Acaraú,Nova Russas,Novo Oriente,Itaitinga,Uruburetama,Monsenhor Tabosa,Lavras da Mangabeira
-Deaths	c-56	2	Quixadá,Campos Sales
-Deaths	c-57	2	Horizonte,Jucás
-Deaths	c-58	2	Independência,Forquilha
-Deaths	c-59	2	Campo Alegre,Massaranduba
-Deaths	c-60	5	Luzerna,Itapoá,Guaraciaba,Palmitos,Corupá
-Deaths	c-61	5	Barra Velha,Luiz Alves,Santa Cecília,Cunha Porã,Trombudo Central
-Deaths	c-62	14	Otacílio Costa,Irani,Pinhalzinho,Itá,Bombinhas,São José do Cedro,Pouso Redondo,Faxinal dos Guedes,Quilombo,Urubici,Balneário Barra do Sul,Abelardo Luz,Itapiranga,Araquari
-Deaths	c-63	3	Herval d'Oeste,Campo Erê,Garuva
-Deaths	c-64	3	Areal,Engenheiro Paulo de Frontin,Mangaratiba
-Deaths	c-65	3	Itatiaia,Aperibé,Carapebus
-Deaths	c-66	2	Santo Antônio de Pádua,Carmo
-Deaths	c-67	3	Comendador Levy Gasparian,São Pedro da Aldeia,Cantagalo
-Deaths	c-68	3	Seropédica,Silva Jardim,Queimados
-Deaths	c-69	2	Joaquim Távora,Santa Mariana
-Deaths	c-70	2	Matelândia,Pinhais
-Deaths	c-71	4	Araruna,Paiçandu,Santo Antônio do Sudoeste,Sengés
-Deaths	c-72	2	Andirá,Fazenda Rio Grande
-Deaths	c-73	2	Rebouças,Colombo
-Deaths	c-74	2	Douradina,Santa Tereza do Oeste
-Deaths	c-75	12	Mamborê,Florestópolis,Jaguapitã,Santa Isabel do Ivaí,Cidade Gaúcha,Clevelândia,Piraí do Sul,Planalto,Lapa,Terra Rica,São Jorge d'Oeste,Laranjeiras do Sul
-Deaths	c-76	6	Candói,Salto do Lontra,Altônia,Curiúva,Porecatu,Santa Terezinha de Itaipu
-Deaths	c-77	5	Quitandinha,Carambeí,Ibaiti,Missal,Uraí
-Deaths	c-78	2	Terra Roxa,Prudentópolis
-Deaths	c-79	4	Arapoti,Realeza,Jandaia do Sul,Pitanga
-Deaths	c-80	2	Ervália,Guaranésia
-Deaths	c-81	2	Santa Juliana,Conselheiro Pena
-Deaths	c-82	2	Francisco Sá,Nova Ponte
-Deaths	c-83	2	Poço Fundo,Divino
-Deaths	c-84	2	Lambari,Paraguaçu
-Deaths	c-85	3	Padre Paraíso,Rio Acima,Lima Duarte
-Deaths	c-86	2	Turmalina,Prados
-Deaths	c-87	3	Juruaia,Jaíba,Carmópolis de Minas
-Deaths	c-88	2	Campo Belo,Abaeté
-Deaths	c-89	3	Três Marias,Pedralva,Inhapim
-Deaths	c-90	4	Cássia,Águas Formosas,Caeté,Medina
-Deaths	c-91	2	Machado,Cristais
-Deaths	c-92	2	Itaúna,Resplendor
-Deaths	c-93	4	Fronteira,Diamantina,Caetanópolis,Brasília de Minas
-Deaths	c-94	3	Campos Altos,Campanha,Alvinópolis
-Deaths	c-95	4	Caxambu,São Gonçalo do Rio Abaixo,Serra do Salitre,Rio Pomba
-Deaths	c-96	3	São João Nepomuceno,Botelhos,Perdizes
-Deaths	c-97	3	Matias Barbosa,Perdões,Conceição do Mato Dentro
-Deaths	c-98	2	Nova Era,Matozinhos
-Deaths	c-99	2	Borda da Mata,Muzambinho
-Deaths	c-100	3	Bicas,Bom Despacho,Bocaiúva
-Deaths	c-101	2	Areado,Passa Quatro
-Deaths	c-102	2	Carlos Chagas,Barroso
-Deaths	c-103	2	Manhumirim,Estiva
-Deaths	c-104	2	Martinho Campos,Elói Mendes
-Deaths	c-105	2	Resende Costa,São Roque de Minas
-Deaths	c-106	27	Monte Azul,São João Evangelista,Itamonte,Salinas,Santa Maria de Itabira,Maria da Fé,Coração de Jesus,Rio Paranaíba,Mantena,Monte Sião,Pompéu,Alterosa,São Gonçalo do Sapucaí,Congonhal,Porteirinha,Lagoa Formosa,Capitólio,Rio Piracicaba,Dores do Indaiá,Carmo do Paranaíba,Nova Resende,Mar de Espanha,Itaú de Minas,Ipanema,São Domingos do Prata,Antônio Carlos,Vazante
-Deaths	c-107	5	Carmo de Minas,Teixeiras,Raul Soares,Felixlândia,Caldas
-Deaths	c-108	2	Santa Maria do Pará,Igarapé-Açu
-Deaths	c-109	4	Conceição do Araguaia,Moju,Óbidos,Novo Progresso
-Deaths	c-110	3	Alenquer,Vigia,Rurópolis
-Deaths	c-111	2	Rondon do Pará,Anapu
-Deaths	c-112	2	São Geraldo do Araguaia,Ulianópolis
-Deaths	c-113	4	Breu Branco,Brasil Novo,Curionópolis,Itaituba
-Deaths	c-114	2	Portel,Almeirim
-Deaths	c-115	3	Mocajuba,Itupiranga,Uruará
-Deaths	c-116	4	São Félix do Xingu,Acará,Concórdia do Pará,Terra Santa
-Deaths	c-117	3	Rio Maria,Santana do Araguaia,São Domingos do Araguaia
-Deaths	c-118	2	Ibicaraí,Camacan
-Deaths	c-119	2	Itacaré,Gandu
-Deaths	c-120	2	Itajuípe,Maragogipe
-Deaths	c-121	2	Belo Campo,Medeiros Neto
-Deaths	c-122	3	Barra da Estiva,Ubatã,Uauá
-Deaths	c-123	6	Itanhém,Itatim,Santa Maria da Vitória,Conceição do Jacuípe,São Félix do Coribe,Uruçuca
-Deaths	c-124	6	Itapetinga,Correntina,Miguel Calmon,Entre Rios,Amargosa,Cachoeira
-Deaths	c-125	3	Mutuípe,Alcobaça,Irará
-Deaths	c-126	3	Caravelas,Madre de Deus,Itabela
-Deaths	c-127	2	Laje,Cândido Sales
-Deaths	c-128	4	Capim Grosso,Lapão,Iguaí,Muritiba
-Deaths	c-129	3	Ibotirama,Ribeira do Pombal,Coaraci
-Deaths	c-130	7	Araci,Bom Jesus da Lapa,Livramento de Nossa Senhora,Itiúba,Barra do Choça,Curaçá,Xique-Xique
-Deaths	c-131	2	Belmonte,Euclides da Cunha
-Deaths	c-132	3	Santa Cruz Cabrália,Itarantim,Cansanção
-Deaths	c-133	5	Alhandra,Ingá,Solânea,Alagoa Nova,Cuité
-Deaths	c-134	2	Anchieta,Guaçuí
-Deaths	c-135	19	São Roque do Canaã,Ecoporanga,Itapemirim,Bom Jesus do Norte,Pedro Canário,Marataízes,Iconha,Santa Leopoldina,Vila Valério,Venda Nova do Imigrante,Presidente Kennedy,Vargem Alta,Piúma,Domingos Martins,Montanha,Fundão,Iúna,Santa Maria de Jetibá,Pinheiros
-Deaths	c-136	2	Pancas,Marilândia
-Deaths	c-137	2	São Paulo do Potengi,Extremoz
-Deaths	c-138	5	Caraúbas,Goianinha,Jardim de Piranhas,Macau,João Câmara
-Deaths	c-139	2	Piracanjuba,Piranhas
-Deaths	c-140	4	Guapó,Rialma,Caçu,Cachoeira Alta
-Deaths	c-141	11	Cidade Ocidental,Orizona,Ipameri,Jussara,Campinorte,Rubiataba,Caiapônia,Corumbaíba,Vianópolis,Posse,Sanclerlândia
-Deaths	c-142	2	Canarana,Campos de Júlio
-Deaths	c-143	2	Diamantino,Aripuanã
-Deaths	c-144	2	Nova Xavantina,Brasnorte
-Deaths	c-145	2	Alta Floresta,Araputanga
-Deaths	c-146	5	Confresa,Mirassol d'Oeste,Peixoto de Azevedo,São José do Rio Claro,Tapurah
-Deaths	c-147	2	Dianópolis,Guaraí
-Deaths	c-148	2	Pedro Afonso,Formoso do Araguaia
-Deaths	c-149	3	Nova Mamoré,São Miguel do Guaporé,Colorado do Oeste
-Deaths	c-150	2	Capela,Canindé de São Francisco
-Deaths	c-151	2	Umbaúba,Itaporanga d'Ajuda
-Deaths	c-152	4	Campo do Brito,Barra dos Coqueiros,Laranjeiras,Carira
-Deaths	c-153	3	Nossa Senhora das Dores,Poço Redondo,Poço Verde
-Deaths	c-154	4	Terenos,Cassilândia,Ladário,Aparecida do Taboado
-Deaths	c-155	14	Bela Vista,Itaquiraí,Caarapó,Porto Murtinho,Anastácio,Batayporã,Mundo Novo,Rio Verde de Mato Grosso,Nova Alvorada do Sul,Deodápolis,Água Clara,Glória de Dourados,Angélica,Camapuã
-mobility	c-1	10	Osasco,Santos,Santo André,Barueri,Jundiaí,Mairiporã,São Paulo,Campinas,São Bernardo do Campo,Santana de Parnaíba
-mobility	c-2	3	Mauá,Caieiras,Mogi das Cruzes
-mobility	c-3	3	Salto,Piracicaba,Americana
+Cases	c-25	2	Piratini,Cidreira
+Cases	c-26	8	Tapes,Quaraí,Pinheiro Machado,São Francisco de Assis,Balneário Pinhal,Arroio do Tigre,Crissiumal,Nova Santa Rita
+Cases	c-27	2	Eldorado do Sul,Barão
+Cases	c-28	2	Júlio de Castilhos,Nova Bassano
+Cases	c-29	3	Araricá,Restinga Sêca,Nova Hartz
+Cases	c-30	4	Capão do Leão,Butiá,Morro Reuter,Entre-Ijuís
+Cases	c-31	2	Presidente Figueiredo,São Gabriel da Cachoeira
+Cases	c-32	2	Iranduba,Maués
+Cases	c-33	4	Rio Preto da Eva,Itacoatiara,Manicoré,Boca do Acre
+Cases	c-34	2	São José do Egito,Taquaritinga do Norte
+Cases	c-35	5	Aliança,Agrestina,Petrolândia,São José do Belmonte,Custódia
+Cases	c-36	2	Toritama,São Bento do Una
+Cases	c-37	5	Pombos,Ipubi,Floresta,Bodocó,Surubim
+Cases	c-38	2	São Caitano,São José da Coroa Grande
+Cases	c-39	3	Sanharó,Betânia,Camocim de São Félix
+Cases	c-40	3	Canhotinho,Rio Formoso,Cabrobó
+Cases	c-41	7	Chã Grande,Macaparana,Catende,Santa Maria da Boa Vista,Sirinhaém,Altinho,Vertentes
+Cases	c-42	2	Colinas,Itapecuru Mirim
+Cases	c-43	6	São Raimundo das Mangabeiras,Lago da Pedra,Presidente Dutra,Zé Doca,Santa Inês,Coroatá
+Cases	c-44	2	Barra do Corda,Codó
+Cases	c-45	2	Grajaú,Vitória do Mearim
+Cases	c-46	2	Jaguaribe,Pereiro
+Cases	c-47	3	Marco,Santa Quitéria,Barreira
+Cases	c-48	4	Granja,Tabuleiro do Norte,Jijoca de Jericoacoara,Massapê
+Cases	c-49	3	Bela Cruz,São Benedito,Irauçuba
+Cases	c-50	3	Iracema,Varjota,Missão Velha
+Cases	c-51	6	Ubajara,Amontada,Guaraciaba do Norte,Guaiúba,Senador Pompeu,Viçosa do Ceará
+Cases	c-52	7	Nova Russas,Itaitinga,Novo Oriente,Lavras da Mangabeira,Monsenhor Tabosa,Uruburetama,Santana do Acaraú
+Cases	c-53	2	Quixadá,Campos Sales
+Cases	c-54	2	Horizonte,Jucás
+Cases	c-55	2	Forquilha,Independência
+Cases	c-56	2	Campo Alegre,Massaranduba
+Cases	c-57	2	Palmitos,Corupá
+Cases	c-58	2	Luzerna,Guaraciaba
+Cases	c-59	3	Luiz Alves,Trombudo Central,Cunha Porã
+Cases	c-60	2	Barra Velha,Santa Cecília
+Cases	c-61	14	São José do Cedro,Bombinhas,Faxinal dos Guedes,Urubici,Irani,Abelardo Luz,Balneário Barra do Sul,Otacílio Costa,Itapiranga,Pinhalzinho,Pouso Redondo,Itá,Araquari,Quilombo
+Cases	c-62	3	Campo Erê,Herval d'Oeste,Garuva
+Cases	c-63	3	Engenheiro Paulo de Frontin,Areal,Mangaratiba
+Cases	c-64	3	Carapebus,Itatiaia,Aperibé
+Cases	c-65	2	Carmo,Santo Antônio de Pádua
+Cases	c-66	2	Cantagalo,Comendador Levy Gasparian
+Cases	c-67	3	Silva Jardim,Seropédica,Queimados
+Cases	c-68	2	Joaquim Távora,Santa Mariana
+Cases	c-69	4	Paiçandu,Santo Antônio do Sudoeste,Sengés,Araruna
+Cases	c-70	2	Rebouças,Colombo
+Cases	c-71	2	Santa Tereza do Oeste,Douradina
+Cases	c-72	10	Santa Isabel do Ivaí,Laranjeiras do Sul,Jaguapitã,Florestópolis,Clevelândia,Mamborê,Cidade Gaúcha,Terra Rica,Piraí do Sul,Planalto
+Cases	c-73	6	Santa Terezinha de Itaipu,Salto do Lontra,Curiúva,Candói,Porecatu,Altônia
+Cases	c-74	5	Carambeí,Uraí,Ibaiti,Quitandinha,Missal
+Cases	c-75	2	Terra Roxa,Prudentópolis
+Cases	c-76	4	Pitanga,Arapoti,Jandaia do Sul,Realeza
+Cases	c-77	2	Guaranésia,Ervália
+Cases	c-78	2	Santa Juliana,Conselheiro Pena
+Cases	c-79	2	Francisco Sá,Nova Ponte
+Cases	c-80	2	Poço Fundo,Divino
+Cases	c-81	2	Paraguaçu,Lambari
+Cases	c-82	2	Rio Acima,Lima Duarte
+Cases	c-83	2	Prados,Turmalina
+Cases	c-84	2	Jaíba,Juruaia
+Cases	c-85	2	Abaeté,Campo Belo
+Cases	c-86	3	Inhapim,Três Marias,Pedralva
+Cases	c-87	2	Medina,Cássia
+Cases	c-88	2	Machado,Cristais
+Cases	c-89	2	Resplendor,Itaúna
+Cases	c-90	4	Diamantina,Caetanópolis,Brasília de Minas,Fronteira
+Cases	c-91	2	Alvinópolis,Campanha
+Cases	c-92	2	Rio Pomba,Serra do Salitre
+Cases	c-93	3	São João Nepomuceno,Botelhos,Perdizes
+Cases	c-94	3	Conceição do Mato Dentro,Matias Barbosa,Perdões
+Cases	c-95	2	Matozinhos,Nova Era
+Cases	c-96	2	Muzambinho,Borda da Mata
+Cases	c-97	3	Bicas,Bocaiúva,Bom Despacho
+Cases	c-98	2	Passa Quatro,Areado
+Cases	c-99	2	Barroso,Carlos Chagas
+Cases	c-100	2	Manhumirim,Estiva
+Cases	c-101	2	Elói Mendes,Martinho Campos
+Cases	c-102	2	Resende Costa,São Roque de Minas
+Cases	c-103	27	Antônio Carlos,Ipanema,Itaú de Minas,Monte Sião,São Domingos do Prata,Vazante,São Gonçalo do Sapucaí,Nova Resende,Monte Azul,Santa Maria de Itabira,São João Evangelista,Porteirinha,Carmo do Paranaíba,Lagoa Formosa,Pompéu,Rio Piracicaba,Mantena,Coração de Jesus,Maria da Fé,Mar de Espanha,Salinas,Itamonte,Congonhal,Dores do Indaiá,Alterosa,Rio Paranaíba,Capitólio
+Cases	c-104	5	Caldas,Carmo de Minas,Felixlândia,Raul Soares,Teixeiras
+Cases	c-105	2	Igarapé-Açu,Santa Maria do Pará
+Cases	c-106	3	Óbidos,Novo Progresso,Moju
+Cases	c-107	3	Rurópolis,Vigia,Alenquer
+Cases	c-108	2	Anapu,Rondon do Pará
+Cases	c-109	2	Ulianópolis,São Geraldo do Araguaia
+Cases	c-110	3	Breu Branco,Brasil Novo,Curionópolis
+Cases	c-111	2	Almeirim,Portel
+Cases	c-112	3	Uruará,Itupiranga,Mocajuba
+Cases	c-113	3	São Félix do Xingu,Concórdia do Pará,Terra Santa
+Cases	c-114	3	Rio Maria,São Domingos do Araguaia,Santana do Araguaia
+Cases	c-115	2	Itacaré,Gandu
+Cases	c-116	2	Itajuípe,Maragogipe
+Cases	c-117	2	Medeiros Neto,Belo Campo
+Cases	c-118	2	Uauá,Barra da Estiva
+Cases	c-119	5	Uruçuca,São Félix do Coribe,Itatim,Santa Maria da Vitória,Itanhém
+Cases	c-120	3	Cachoeira,Amargosa,Miguel Calmon
+Cases	c-121	3	Itapetinga,Correntina,Entre Rios
+Cases	c-122	2	Alcobaça,Mutuípe
+Cases	c-123	2	Itabela,Caravelas
+Cases	c-124	2	Cândido Sales,Laje
+Cases	c-125	4	Lapão,Iguaí,Capim Grosso,Muritiba
+Cases	c-126	3	Ibotirama,Ribeira do Pombal,Coaraci
+Cases	c-127	7	Araci,Curaçá,Itiúba,Livramento de Nossa Senhora,Bom Jesus da Lapa,Xique-Xique,Barra do Choça
+Cases	c-128	2	Euclides da Cunha,Belmonte
+Cases	c-129	2	Cansanção,Itarantim
+Cases	c-130	2	Alhandra,Solânea
+Cases	c-131	2	Alagoa Nova,Cuité
+Cases	c-132	2	Guaçuí,Anchieta
+Cases	c-133	19	Domingos Martins,Presidente Kennedy,Iconha,Marataízes,Venda Nova do Imigrante,Montanha,Pedro Canário,Vila Valério,Vargem Alta,Bom Jesus do Norte,São Roque do Canaã,Piúma,Ecoporanga,Pinheiros,Iúna,Fundão,Santa Leopoldina,Santa Maria de Jetibá,Itapemirim
+Cases	c-134	2	Pancas,Marilândia
+Cases	c-135	2	Extremoz,São Paulo do Potengi
+Cases	c-136	5	Caraúbas,Jardim de Piranhas,Macau,João Câmara,Goianinha
+Cases	c-137	2	Piranhas,Piracanjuba
+Cases	c-138	4	Guapó,Rialma,Cachoeira Alta,Caçu
+Cases	c-139	4	Sanclerlândia,Campinorte,Corumbaíba,Rubiataba
+Cases	c-140	6	Posse,Orizona,Jussara,Cidade Ocidental,Vianópolis,Caiapônia
+Cases	c-141	2	Diamantino,Aripuanã
+Cases	c-142	2	Nova Xavantina,Brasnorte
+Cases	c-143	4	Peixoto de Azevedo,Mirassol d'Oeste,Confresa,Tapurah
+Cases	c-144	2	Guaraí,Dianópolis
+Cases	c-145	3	Nova Mamoré,Colorado do Oeste,São Miguel do Guaporé
+Cases	c-146	4	Campo do Brito,Carira,Barra dos Coqueiros,Laranjeiras
+Cases	c-147	2	Nossa Senhora das Dores,Poço Verde
+Cases	c-148	4	Ladário,Terenos,Cassilândia,Aparecida do Taboado
+Cases	c-149	14	Batayporã,Caarapó,Mundo Novo,Itaquiraí,Glória de Dourados,Bela Vista,Nova Alvorada do Sul,Rio Verde de Mato Grosso,Porto Murtinho,Anastácio,Deodápolis,Camapuã,Angélica,Água Clara
+Death	c-1	3	Recife,Salvador,São Paulo
+Death	c-2	19	Criciúma,Campinas,São Caetano do Sul,Fortaleza,Juiz de Fora,Goiânia,Uberlândia,Curitiba,Balneário Camboriú,Florianópolis,Ribeirão Preto,São José do Rio Preto,Joinville,Maringá,Belo Horizonte,Sorocaba,Rio de Janeiro,Londrina,Porto Alegre
+Death	c-3	2	Osasco,Caxias do Sul
+Death	c-4	2	Castilho,Sales Oliveira
+Death	c-5	2	Divinolândia,Apiaí
+Death	c-6	2	Jaci,Cajati
+Death	c-7	2	Sete Barras,Parapuã
+Death	c-8	2	Bernardino de Campos,Iguape
+Death	c-9	4	Cordeirópolis,Paraibuna,Monte Aprazível,Bofete
+Death	c-10	2	Nazaré Paulista,Pirapozinho
+Death	c-11	2	Bom Jesus dos Perdões,São Simão
+Death	c-12	8	Fartura,Itariri,Engenheiro Coelho,Buri,Luís Antônio,Pacaembu,Ipiguá,Miguelópolis
+Death	c-13	10	Nova Granada,Boa Esperança do Sul,Juquitiba,Santa Adélia,Iperó,Pardinho,Pradópolis,Nova Europa,Águas da Prata,Palmares Paulista
+Death	c-14	3	Urânia,Santa Rita do Passa Quatro,Chavantes
+Death	c-15	11	Guapiaçu,Pindorama,Bálsamo,Santa Branca,Ariranha,Getulina,Severínia,Ouroeste,Mirante do Paranapanema,Cedral,Guareí
+Death	c-16	9	Monte Azul Paulista,Ibirá,Duartina,Palestina,Rincão,Estrela d'Oeste,Cardoso,Valentim Gentil,Rinópolis
+Death	c-17	2	Barra do Ribeiro,Salto do Jacuí
+Death	c-18	2	Cerro Largo,Mostardas
+Death	c-19	2	Palmares do Sul,Não-Me-Toque
+Death	c-20	2	São Francisco de Paula,Agudo
+Death	c-21	2	Feliz,Roca Sales
+Death	c-22	2	Jaguarão,Arroio do Sal
+Death	c-23	2	Piratini,Cidreira
+Death	c-24	8	Tapes,Quaraí,Pinheiro Machado,São Francisco de Assis,Balneário Pinhal,Arroio do Tigre,Crissiumal,Nova Santa Rita
+Death	c-25	2	Eldorado do Sul,Barão
+Death	c-26	2	Júlio de Castilhos,Nova Bassano
+Death	c-27	3	Araricá,Restinga Sêca,Nova Hartz
+Death	c-28	4	Capão do Leão,Butiá,Morro Reuter,Entre-Ijuís
+Death	c-29	2	Presidente Figueiredo,São Gabriel da Cachoeira
+Death	c-30	2	Iranduba,Maués
+Death	c-31	4	Rio Preto da Eva,Itacoatiara,Manicoré,Boca do Acre
+Death	c-32	2	São José do Egito,Taquaritinga do Norte
+Death	c-33	5	Aliança,Agrestina,Petrolândia,São José do Belmonte,Custódia
+Death	c-34	2	Toritama,São Bento do Una
+Death	c-35	5	Pombos,Ipubi,Floresta,Bodocó,Surubim
+Death	c-36	2	São Caitano,São José da Coroa Grande
+Death	c-37	3	Sanharó,Betânia,Camocim de São Félix
+Death	c-38	3	Canhotinho,Rio Formoso,Cabrobó
+Death	c-39	7	Chã Grande,Macaparana,Catende,Santa Maria da Boa Vista,Sirinhaém,Altinho,Vertentes
+Death	c-40	2	Colinas,Itapecuru Mirim
+Death	c-41	6	São Raimundo das Mangabeiras,Lago da Pedra,Presidente Dutra,Zé Doca,Santa Inês,Coroatá
+Death	c-42	2	Barra do Corda,Codó
+Death	c-43	2	Grajaú,Vitória do Mearim
+Death	c-44	2	Jaguaribe,Pereiro
+Death	c-45	3	Marco,Santa Quitéria,Barreira
+Death	c-46	4	Granja,Tabuleiro do Norte,Jijoca de Jericoacoara,Massapê
+Death	c-47	3	Bela Cruz,São Benedito,Irauçuba
+Death	c-48	3	Iracema,Varjota,Missão Velha
+Death	c-49	6	Ubajara,Amontada,Guaraciaba do Norte,Guaiúba,Senador Pompeu,Viçosa do Ceará
+Death	c-50	7	Nova Russas,Itaitinga,Novo Oriente,Lavras da Mangabeira,Monsenhor Tabosa,Uruburetama,Santana do Acaraú
+Death	c-51	2	Quixadá,Campos Sales
+Death	c-52	2	Horizonte,Jucás
+Death	c-53	2	Forquilha,Independência
+Death	c-54	2	Campo Alegre,Massaranduba
+Death	c-55	2	Palmitos,Corupá
+Death	c-56	2	Luzerna,Guaraciaba
+Death	c-57	3	Luiz Alves,Trombudo Central,Cunha Porã
+Death	c-58	2	Barra Velha,Santa Cecília
+Death	c-59	14	São José do Cedro,Bombinhas,Faxinal dos Guedes,Urubici,Irani,Abelardo Luz,Balneário Barra do Sul,Otacílio Costa,Itapiranga,Pinhalzinho,Pouso Redondo,Itá,Araquari,Quilombo
+Death	c-60	3	Campo Erê,Herval d'Oeste,Garuva
+Death	c-61	3	Engenheiro Paulo de Frontin,Areal,Mangaratiba
+Death	c-62	3	Carapebus,Itatiaia,Aperibé
+Death	c-63	2	Carmo,Santo Antônio de Pádua
+Death	c-64	2	Cantagalo,Comendador Levy Gasparian
+Death	c-65	3	Silva Jardim,Seropédica,Queimados
+Death	c-66	2	Joaquim Távora,Santa Mariana
+Death	c-67	4	Paiçandu,Santo Antônio do Sudoeste,Sengés,Araruna
+Death	c-68	2	Rebouças,Colombo
+Death	c-69	2	Santa Tereza do Oeste,Douradina
+Death	c-70	10	Santa Isabel do Ivaí,Laranjeiras do Sul,Jaguapitã,Florestópolis,Clevelândia,Mamborê,Cidade Gaúcha,Terra Rica,Piraí do Sul,Planalto
+Death	c-71	6	Santa Terezinha de Itaipu,Salto do Lontra,Curiúva,Candói,Porecatu,Altônia
+Death	c-72	5	Carambeí,Uraí,Ibaiti,Quitandinha,Missal
+Death	c-73	2	Terra Roxa,Prudentópolis
+Death	c-74	4	Pitanga,Arapoti,Jandaia do Sul,Realeza
+Death	c-75	2	Guaranésia,Ervália
+Death	c-76	2	Santa Juliana,Conselheiro Pena
+Death	c-77	2	Francisco Sá,Nova Ponte
+Death	c-78	2	Poço Fundo,Divino
+Death	c-79	2	Paraguaçu,Lambari
+Death	c-80	2	Rio Acima,Lima Duarte
+Death	c-81	2	Prados,Turmalina
+Death	c-82	2	Jaíba,Juruaia
+Death	c-83	2	Abaeté,Campo Belo
+Death	c-84	3	Inhapim,Três Marias,Pedralva
+Death	c-85	2	Medina,Cássia
+Death	c-86	2	Machado,Cristais
+Death	c-87	2	Resplendor,Itaúna
+Death	c-88	4	Diamantina,Caetanópolis,Brasília de Minas,Fronteira
+Death	c-89	2	Alvinópolis,Campanha
+Death	c-90	2	Rio Pomba,Serra do Salitre
+Death	c-91	3	São João Nepomuceno,Botelhos,Perdizes
+Death	c-92	3	Conceição do Mato Dentro,Matias Barbosa,Perdões
+Death	c-93	2	Matozinhos,Nova Era
+Death	c-94	2	Muzambinho,Borda da Mata
+Death	c-95	3	Bicas,Bocaiúva,Bom Despacho
+Death	c-96	2	Passa Quatro,Areado
+Death	c-97	2	Barroso,Carlos Chagas
+Death	c-98	2	Manhumirim,Estiva
+Death	c-99	2	Elói Mendes,Martinho Campos
+Death	c-100	2	Resende Costa,São Roque de Minas
+Death	c-101	27	Antônio Carlos,Ipanema,Itaú de Minas,Monte Sião,São Domingos do Prata,Vazante,São Gonçalo do Sapucaí,Nova Resende,Monte Azul,Santa Maria de Itabira,São João Evangelista,Porteirinha,Carmo do Paranaíba,Lagoa Formosa,Pompéu,Rio Piracicaba,Mantena,Coração de Jesus,Maria da Fé,Mar de Espanha,Salinas,Itamonte,Congonhal,Dores do Indaiá,Alterosa,Rio Paranaíba,Capitólio
+Death	c-102	5	Caldas,Carmo de Minas,Felixlândia,Raul Soares,Teixeiras
+Death	c-103	2	Igarapé-Açu,Santa Maria do Pará
+Death	c-104	3	Óbidos,Novo Progresso,Moju
+Death	c-105	3	Rurópolis,Vigia,Alenquer
+Death	c-106	2	Anapu,Rondon do Pará
+Death	c-107	2	Ulianópolis,São Geraldo do Araguaia
+Death	c-108	3	Breu Branco,Brasil Novo,Curionópolis
+Death	c-109	2	Almeirim,Portel
+Death	c-110	3	Uruará,Itupiranga,Mocajuba
+Death	c-111	3	São Félix do Xingu,Concórdia do Pará,Terra Santa
+Death	c-112	3	Rio Maria,São Domingos do Araguaia,Santana do Araguaia
+Death	c-113	2	Itacaré,Gandu
+Death	c-114	2	Itajuípe,Maragogipe
+Death	c-115	2	Medeiros Neto,Belo Campo
+Death	c-116	2	Uauá,Barra da Estiva
+Death	c-117	5	Uruçuca,São Félix do Coribe,Itatim,Santa Maria da Vitória,Itanhém
+Death	c-118	3	Cachoeira,Amargosa,Miguel Calmon
+Death	c-119	3	Itapetinga,Correntina,Entre Rios
+Death	c-120	2	Alcobaça,Mutuípe
+Death	c-121	2	Itabela,Caravelas
+Death	c-122	2	Cândido Sales,Laje
+Death	c-123	4	Lapão,Iguaí,Capim Grosso,Muritiba
+Death	c-124	3	Ibotirama,Ribeira do Pombal,Coaraci
+Death	c-125	7	Araci,Curaçá,Itiúba,Livramento de Nossa Senhora,Bom Jesus da Lapa,Xique-Xique,Barra do Choça
+Death	c-126	2	Euclides da Cunha,Belmonte
+Death	c-127	2	Cansanção,Itarantim
+Death	c-128	2	Alhandra,Solânea
+Death	c-129	2	Alagoa Nova,Cuité
+Death	c-130	2	Guaçuí,Anchieta
+Death	c-131	19	Domingos Martins,Presidente Kennedy,Iconha,Marataízes,Venda Nova do Imigrante,Montanha,Pedro Canário,Vila Valério,Vargem Alta,Bom Jesus do Norte,São Roque do Canaã,Piúma,Ecoporanga,Pinheiros,Iúna,Fundão,Santa Leopoldina,Santa Maria de Jetibá,Itapemirim
+Death	c-132	2	Pancas,Marilândia
+Death	c-133	2	Extremoz,São Paulo do Potengi
+Death	c-134	5	Caraúbas,Jardim de Piranhas,Macau,João Câmara,Goianinha
+Death	c-135	2	Piranhas,Piracanjuba
+Death	c-136	4	Guapó,Rialma,Cachoeira Alta,Caçu
+Death	c-137	4	Sanclerlândia,Campinorte,Corumbaíba,Rubiataba
+Death	c-138	6	Posse,Orizona,Jussara,Cidade Ocidental,Vianópolis,Caiapônia
+Death	c-139	2	Diamantino,Aripuanã
+Death	c-140	2	Nova Xavantina,Brasnorte
+Death	c-141	4	Peixoto de Azevedo,Mirassol d'Oeste,Confresa,Tapurah
+Death	c-142	2	Guaraí,Dianópolis
+Death	c-143	3	Nova Mamoré,Colorado do Oeste,São Miguel do Guaporé
+Death	c-144	4	Campo do Brito,Carira,Barra dos Coqueiros,Laranjeiras
+Death	c-145	2	Nossa Senhora das Dores,Poço Verde
+Death	c-146	4	Ladário,Terenos,Cassilândia,Aparecida do Taboado
+Death	c-147	14	Batayporã,Caarapó,Mundo Novo,Itaquiraí,Glória de Dourados,Bela Vista,Nova Alvorada do Sul,Rio Verde de Mato Grosso,Porto Murtinho,Anastácio,Deodápolis,Camapuã,Angélica,Água Clara
+mobility	c-1	10	Jundiaí,São Bernardo do Campo,Santo André,Santana de Parnaíba,São Paulo,Campinas,Barueri,Mairiporã,Santos,Osasco
+mobility	c-2	3	Caieiras,Mogi das Cruzes,Mauá
+mobility	c-3	3	Americana,Piracicaba,Salto
 mobility	c-4	3	Jacareí,Jarinu,Itaquaquecetuba
-mobility	c-5	2	Poá,Várzea Paulista
-mobility	c-6	2	Tatuí,São Manuel
+mobility	c-5	2	Várzea Paulista,Poá
+mobility	c-6	2	São Manuel,Tatuí
 mobility	c-7	2	Castilho,Sales Oliveira
-mobility	c-8	2	Guará,Flórida Paulista
-mobility	c-9	2	Apiaí,Divinolândia
+mobility	c-8	2	Flórida Paulista,Guará
+mobility	c-9	2	Divinolândia,Apiaí
 mobility	c-10	2	Pilar do Sul,Tapiratiba
 mobility	c-11	2	Angatuba,Cesário Lange
 mobility	c-12	2	Iracemápolis,Rio Grande da Serra
-mobility	c-13	3	Ribeirão Branco,Jaci,Cajati
-mobility	c-14	2	Parapuã,Sete Barras
-mobility	c-15	2	Iguape,Bernardino de Campos
+mobility	c-13	3	Cajati,Jaci,Ribeirão Branco
+mobility	c-14	2	Sete Barras,Parapuã
+mobility	c-15	2	Bernardino de Campos,Iguape
 mobility	c-16	2	Itaporanga,Pirangi
-mobility	c-17	4	Paraibuna,Águas de Lindóia,Bofete,Monte Aprazível
-mobility	c-18	9	Fartura,Engenheiro Coelho,Buri,Ipiguá,Pacaembu,Luís Antônio,Joanópolis,Itariri,Miguelópolis
+mobility	c-17	4	Águas de Lindóia,Paraibuna,Monte Aprazível,Bofete
+mobility	c-18	9	Fartura,Itariri,Engenheiro Coelho,Buri,Joanópolis,Luís Antônio,Pacaembu,Ipiguá,Miguelópolis
 mobility	c-19	2	Vera Cruz,Salto Grande
-mobility	c-20	4	Boa Esperança do Sul,Pardinho,Águas da Prata,Santa Adélia
-mobility	c-21	4	Santa Rita do Passa Quatro,Juquitiba,Chavantes,Urânia
-mobility	c-22	4	Palmares Paulista,Pradópolis,Nova Europa,Nova Granada
-mobility	c-23	10	Ouroeste,Cedral,Pindorama,Ariranha,Bálsamo,Getulina,Mirante do Paranapanema,Santa Branca,Severínia,Guareí
-mobility	c-24	10	Rinópolis,Monte Azul Paulista,Estrela d'Oeste,Rincão,Cardoso,Guapiaçu,Ibirá,Valentim Gentil,Palestina,Duartina
+mobility	c-20	4	Santa Adélia,Águas da Prata,Pardinho,Boa Esperança do Sul
+mobility	c-21	4	Urânia,Santa Rita do Passa Quatro,Chavantes,Juquitiba
+mobility	c-22	4	Pradópolis,Nova Granada,Palmares Paulista,Nova Europa
+mobility	c-23	10	Pindorama,Bálsamo,Santa Branca,Ariranha,Getulina,Severínia,Ouroeste,Mirante do Paranapanema,Cedral,Guareí
+mobility	c-24	10	Monte Azul Paulista,Guapiaçu,Ibirá,Palestina,Estrela d'Oeste,Rincão,Valentim Gentil,Cardoso,Duartina,Rinópolis
 mobility	c-25	2	Panambi,Rolante
-mobility	c-26	2	Salto do Jacuí,Barra do Ribeiro
-mobility	c-27	3	São Pedro do Sul,Mostardas,Cerro Largo
+mobility	c-26	2	Barra do Ribeiro,Salto do Jacuí
+mobility	c-27	3	São Pedro do Sul,Cerro Largo,Mostardas
 mobility	c-28	2	Palmares do Sul,Não-Me-Toque
-mobility	c-29	2	Agudo,São Francisco de Paula
+mobility	c-29	2	São Francisco de Paula,Agudo
 mobility	c-30	2	Feliz,Roca Sales
-mobility	c-31	9	Arroio do Tigre,Piratini,Pinheiro Machado,São Francisco de Assis,Balneário Pinhal,Cidreira,Tapes,Quaraí,Crissiumal
-mobility	c-32	2	Nova Santa Rita,Barão
+mobility	c-31	9	Piratini,Tapes,Quaraí,Pinheiro Machado,São Francisco de Assis,Cidreira,Balneário Pinhal,Arroio do Tigre,Crissiumal
+mobility	c-32	2	Barão,Nova Santa Rita
 mobility	c-33	2	Júlio de Castilhos,Nova Bassano
 mobility	c-34	2	Araricá,Restinga Sêca
-mobility	c-35	5	Nova Hartz,Butiá,Entre-Ijuís,Morro Reuter,Capão do Leão
+mobility	c-35	5	Capão do Leão,Entre-Ijuís,Butiá,Morro Reuter,Nova Hartz
 mobility	c-36	2	Presidente Figueiredo,São Gabriel da Cachoeira
-mobility	c-37	3	Maués,Iranduba,Parintins
-mobility	c-38	3	Manicoré,Boca do Acre,Rio Preto da Eva
+mobility	c-37	3	Iranduba,Parintins,Maués
+mobility	c-38	3	Rio Preto da Eva,Manicoré,Boca do Acre
 mobility	c-39	2	Ipojuca,Paulista
-mobility	c-40	2	Taquaritinga do Norte,São José do Egito
-mobility	c-41	5	Custódia,Agrestina,Aliança,Petrolândia,São José do Belmonte
-mobility	c-42	6	Pombos,Bodocó,Ipubi,São Bento do Una,Floresta,Toritama
+mobility	c-40	2	São José do Egito,Taquaritinga do Norte
+mobility	c-41	5	Aliança,Agrestina,Petrolândia,São José do Belmonte,Custódia
+mobility	c-42	6	São Bento do Una,Pombos,Ipubi,Floresta,Bodocó,Toritama
 mobility	c-43	2	São Caitano,São José da Coroa Grande
-mobility	c-44	2	Orobó,Lagoa do Carro
-mobility	c-45	3	Betânia,Camocim de São Félix,Sanharó
-mobility	c-46	3	Rio Formoso,Canhotinho,Cabrobó
-mobility	c-47	8	Vertentes,Sirinhaém,Santa Maria da Boa Vista,Chã Grande,Macaparana,Riacho das Almas,Altinho,Catende
-mobility	c-48	2	Imperatriz,São José de Ribamar
-mobility	c-49	2	Chapadinha,Vitorino Freire
-mobility	c-50	2	Pedreiras,Pinheiro
-mobility	c-51	2	Itapecuru Mirim,Colinas
-mobility	c-52	7	Presidente Dutra,Codó,Zé Doca,São Raimundo das Mangabeiras,Barra do Corda,Coroatá,Lago da Pedra
-mobility	c-53	4	Viana,Bacabal,Vitória do Mearim,Grajaú
+mobility	c-44	2	Lagoa do Carro,Orobó
+mobility	c-45	3	Sanharó,Betânia,Camocim de São Félix
+mobility	c-46	3	Canhotinho,Rio Formoso,Cabrobó
+mobility	c-47	8	Chã Grande,Macaparana,Catende,Riacho das Almas,Santa Maria da Boa Vista,Sirinhaém,Altinho,Vertentes
+mobility	c-48	2	São José de Ribamar,Imperatriz
+mobility	c-49	2	Vitorino Freire,Chapadinha
+mobility	c-50	2	Pinheiro,Pedreiras
+mobility	c-51	2	Colinas,Itapecuru Mirim
+mobility	c-52	7	São Raimundo das Mangabeiras,Barra do Corda,Lago da Pedra,Presidente Dutra,Zé Doca,Codó,Coroatá
+mobility	c-53	4	Grajaú,Bacabal,Viana,Vitória do Mearim
 mobility	c-54	2	Crato,Ipueiras
 mobility	c-55	2	Pacatuba,Maracanaú
 mobility	c-56	2	Cedro,Assaré
 mobility	c-57	2	Quixeré,Pentecoste
 mobility	c-58	3	Jaguaribe,Cruz,Pereiro
-mobility	c-59	4	Santa Quitéria,Barreira,Marco,Itarema
-mobility	c-60	4	Massapê,Tabuleiro do Norte,Granja,Jijoca de Jericoacoara
-mobility	c-61	3	Bela Cruz,Irauçuba,São Benedito
-mobility	c-62	4	Iracema,Varjota,Missão Velha,Morada Nova
-mobility	c-63	6	Senador Pompeu,Ubajara,Amontada,Viçosa do Ceará,Guaraciaba do Norte,Guaiúba
-mobility	c-64	6	Santana do Acaraú,Nova Russas,Novo Oriente,Monsenhor Tabosa,Uruburetama,Lavras da Mangabeira
+mobility	c-59	4	Itarema,Marco,Santa Quitéria,Barreira
+mobility	c-60	4	Granja,Tabuleiro do Norte,Jijoca de Jericoacoara,Massapê
+mobility	c-61	3	Bela Cruz,São Benedito,Irauçuba
+mobility	c-62	4	Morada Nova,Iracema,Varjota,Missão Velha
+mobility	c-63	6	Ubajara,Amontada,Guaraciaba do Norte,Guaiúba,Senador Pompeu,Viçosa do Ceará
+mobility	c-64	6	Nova Russas,Novo Oriente,Lavras da Mangabeira,Monsenhor Tabosa,Uruburetama,Santana do Acaraú
 mobility	c-65	2	Itaitinga,Campos Sales
 mobility	c-66	2	Jucás,Quixadá
-mobility	c-67	3	Aquiraz,Forquilha,Independência
-mobility	c-68	3	Eusébio,Morrinhos,Tamboril
-mobility	c-69	2	Chapecó,Rio dos Cedros
-mobility	c-70	2	Porto União,Fraiburgo
-mobility	c-71	2	Gaspar,Rio do Sul
-mobility	c-72	2	Indaial,Agrolândia
-mobility	c-73	2	Palhoça,Iporã do Oeste
+mobility	c-67	3	Forquilha,Aquiraz,Independência
+mobility	c-68	3	Morrinhos,Tamboril,Eusébio
+mobility	c-69	2	Rio dos Cedros,Chapecó
+mobility	c-70	2	Fraiburgo,Porto União
+mobility	c-71	2	Rio do Sul,Gaspar
+mobility	c-72	2	Agrolândia,Indaial
+mobility	c-73	2	Iporã do Oeste,Palhoça
 mobility	c-74	2	Campo Alegre,Massaranduba
 mobility	c-75	3	Coronel Freitas,Guaramirim,Rio Negrinho
-mobility	c-76	2	Campos Novos,Jacinto Machado
-mobility	c-77	5	Luzerna,Itapoá,Guaraciaba,Palmitos,Corupá
-mobility	c-78	5	Luiz Alves,Santa Cecília,Cunha Porã,Penha,Trombudo Central
-mobility	c-79	18	Otacílio Costa,Irani,Pinhalzinho,Itá,Bombinhas,Herval d'Oeste,Campo Erê,Barra Velha,São José do Cedro,Pouso Redondo,Faxinal dos Guedes,Quilombo,Urubici,Balneário Barra do Sul,Abelardo Luz,Garuva,Itapiranga,Araquari
-mobility	c-80	3	Barra Mansa,Volta Redonda,Barra do Piraí
-mobility	c-81	2	São Gonçalo,Nilópolis
-mobility	c-82	6	Nova Iguaçu,Duque de Caxias,Araruama,Paraíba do Sul,Itaguaí,Belford Roxo
-mobility	c-83	2	Areal,Engenheiro Paulo de Frontin
+mobility	c-76	2	Jacinto Machado,Campos Novos
+mobility	c-77	5	Luzerna,Guaraciaba,Itapoá,Corupá,Palmitos
+mobility	c-78	5	Trombudo Central,Cunha Porã,Santa Cecília,Penha,Luiz Alves
+mobility	c-79	18	São José do Cedro,Faxinal dos Guedes,Bombinhas,Urubici,Irani,Balneário Barra do Sul,Abelardo Luz,Otacílio Costa,Itapiranga,Campo Erê,Herval d'Oeste,Barra Velha,Pinhalzinho,Pouso Redondo,Garuva,Itá,Araquari,Quilombo
+mobility	c-80	3	Volta Redonda,Barra Mansa,Barra do Piraí
+mobility	c-81	2	Nilópolis,São Gonçalo
+mobility	c-82	6	Araruama,Belford Roxo,Itaguaí,Duque de Caxias,Nova Iguaçu,Paraíba do Sul
+mobility	c-83	2	Engenheiro Paulo de Frontin,Areal
 mobility	c-84	2	Paty do Alferes,Mendes
-mobility	c-85	2	Aperibé,Carapebus
-mobility	c-86	2	Itatiaia,Carmo
-mobility	c-87	3	Comendador Levy Gasparian,Santo Antônio de Pádua,Cantagalo
-mobility	c-88	3	Seropédica,Silva Jardim,Queimados
+mobility	c-85	2	Carapebus,Aperibé
+mobility	c-86	2	Carmo,Itatiaia
+mobility	c-87	3	Comendador Levy Gasparian,Cantagalo,Santo Antônio de Pádua
+mobility	c-88	3	Silva Jardim,Seropédica,Queimados
 mobility	c-89	2	Pato Branco,Apucarana
 mobility	c-90	2	São Mateus do Sul,Cruzeiro do Oeste
 mobility	c-91	2	Joaquim Távora,Santa Mariana
 mobility	c-92	2	Piraquara,Dois Vizinhos
-mobility	c-93	3	Araruna,Sengés,Santo Antônio do Sudoeste
+mobility	c-93	3	Santo Antônio do Sudoeste,Sengés,Araruna
 mobility	c-94	2	Ribeirão Claro,Fazenda Rio Grande
 mobility	c-95	2	Rebouças,Colombo
-mobility	c-96	2	Douradina,Santa Tereza do Oeste
-mobility	c-97	12	Mamborê,Florestópolis,Jaguapitã,Santa Isabel do Ivaí,Cidade Gaúcha,Clevelândia,Piraí do Sul,Planalto,Lapa,Terra Rica,São Jorge d'Oeste,Laranjeiras do Sul
-mobility	c-98	7	Candói,Coronel Vivida,Salto do Lontra,Altônia,Curiúva,Porecatu,Santa Terezinha de Itaipu
-mobility	c-99	5	Quitandinha,Carambeí,Ibaiti,Missal,Uraí
-mobility	c-100	5	Prudentópolis,Jandaia do Sul,Arapoti,Realeza,Pitanga
+mobility	c-96	2	Santa Tereza do Oeste,Douradina
+mobility	c-97	12	Santa Isabel do Ivaí,Laranjeiras do Sul,Lapa,Jaguapitã,Florestópolis,Clevelândia,Mamborê,Cidade Gaúcha,Terra Rica,Piraí do Sul,Planalto,São Jorge d'Oeste
+mobility	c-98	7	Santa Terezinha de Itaipu,Salto do Lontra,Coronel Vivida,Curiúva,Candói,Porecatu,Altônia
+mobility	c-99	5	Carambeí,Uraí,Ibaiti,Quitandinha,Missal
+mobility	c-100	5	Jandaia do Sul,Arapoti,Pitanga,Realeza,Prudentópolis
 mobility	c-101	2	Betim,Ibirité
-mobility	c-102	2	Ervália,Guaranésia
+mobility	c-102	2	Guaranésia,Ervália
 mobility	c-103	2	Santa Juliana,Conselheiro Pena
 mobility	c-104	2	Francisco Sá,Nova Ponte
 mobility	c-105	2	Poço Fundo,Divino
-mobility	c-106	2	Lambari,Paraguaçu
-mobility	c-107	2	Pirapetinga,Guanhães
-mobility	c-108	3	Padre Paraíso,Rio Acima,Lima Duarte
-mobility	c-109	2	Turmalina,Prados
-mobility	c-110	3	Juruaia,Jaíba,Carmópolis de Minas
-mobility	c-111	3	Três Marias,Pedralva,Inhapim
-mobility	c-112	2	Camanducaia,Cambuí
-mobility	c-113	3	Cássia,Águas Formosas,Medina
+mobility	c-106	2	Paraguaçu,Lambari
+mobility	c-107	2	Guanhães,Pirapetinga
+mobility	c-108	3	Rio Acima,Lima Duarte,Padre Paraíso
+mobility	c-109	2	Prados,Turmalina
+mobility	c-110	3	Carmópolis de Minas,Jaíba,Juruaia
+mobility	c-111	3	Inhapim,Três Marias,Pedralva
+mobility	c-112	2	Cambuí,Camanducaia
+mobility	c-113	3	Águas Formosas,Medina,Cássia
 mobility	c-114	2	Machado,Arcos
-mobility	c-115	3	Fronteira,Caetanópolis,Brasília de Minas
-mobility	c-116	3	Campos Altos,Campanha,Alvinópolis
-mobility	c-117	4	Caxambu,São Gonçalo do Rio Abaixo,Serra do Salitre,Rio Pomba
+mobility	c-115	3	Caetanópolis,Brasília de Minas,Fronteira
+mobility	c-116	3	Campos Altos,Alvinópolis,Campanha
+mobility	c-117	4	Caxambu,São Gonçalo do Rio Abaixo,Rio Pomba,Serra do Salitre
 mobility	c-118	3	São João Nepomuceno,Botelhos,Perdizes
-mobility	c-119	3	Matias Barbosa,Perdões,Conceição do Mato Dentro
-mobility	c-120	3	Borda da Mata,Muzambinho,Matozinhos
-mobility	c-121	3	Coromandel,Bicas,Bocaiúva
+mobility	c-119	3	Conceição do Mato Dentro,Matias Barbosa,Perdões
+mobility	c-120	3	Matozinhos,Muzambinho,Borda da Mata
+mobility	c-121	3	Bicas,Bocaiúva,Coromandel
 mobility	c-122	2	Ibiraci,Bom Despacho
-mobility	c-123	2	Areado,Passa Quatro
-mobility	c-124	2	Carlos Chagas,Barroso
+mobility	c-123	2	Passa Quatro,Areado
+mobility	c-124	2	Barroso,Carlos Chagas
 mobility	c-125	2	Manhumirim,Estiva
 mobility	c-126	2	Resende Costa,São Roque de Minas
-mobility	c-127	27	Monte Azul,São João Evangelista,Itamonte,Santa Maria de Itabira,Maria da Fé,Coração de Jesus,Rio Paranaíba,Iturama,Mantena,Monte Sião,Pompéu,Alterosa,São Gonçalo do Sapucaí,Congonhal,Porteirinha,Lagoa Formosa,Capitólio,Rio Piracicaba,Dores do Indaiá,Carmo do Paranaíba,Nova Resende,Mar de Espanha,Itaú de Minas,Ipanema,São Domingos do Prata,Antônio Carlos,Vazante
-mobility	c-128	6	Carmo de Minas,Teixeiras,Salinas,Raul Soares,Felixlândia,Caldas
-mobility	c-129	2	Santa Maria do Pará,Igarapé-Açu
-mobility	c-130	4	Conceição do Araguaia,Moju,Óbidos,Novo Progresso
-mobility	c-131	3	Alenquer,Vigia,Rurópolis
-mobility	c-132	2	Rondon do Pará,Anapu
-mobility	c-133	2	São Geraldo do Araguaia,Ulianópolis
-mobility	c-134	3	Brasil Novo,Curionópolis,Breu Branco
+mobility	c-127	27	Antônio Carlos,Ipanema,Itaú de Minas,Monte Sião,São Domingos do Prata,Vazante,São Gonçalo do Sapucaí,Nova Resende,Monte Azul,Santa Maria de Itabira,São João Evangelista,Porteirinha,Carmo do Paranaíba,Iturama,Lagoa Formosa,Pompéu,Rio Piracicaba,Mantena,Coração de Jesus,Maria da Fé,Mar de Espanha,Itamonte,Congonhal,Dores do Indaiá,Alterosa,Rio Paranaíba,Capitólio
+mobility	c-128	6	Salinas,Caldas,Carmo de Minas,Felixlândia,Raul Soares,Teixeiras
+mobility	c-129	2	Igarapé-Açu,Santa Maria do Pará
+mobility	c-130	4	Óbidos,Novo Progresso,Conceição do Araguaia,Moju
+mobility	c-131	3	Rurópolis,Vigia,Alenquer
+mobility	c-132	2	Anapu,Rondon do Pará
+mobility	c-133	2	Ulianópolis,São Geraldo do Araguaia
+mobility	c-134	3	Breu Branco,Brasil Novo,Curionópolis
 mobility	c-135	2	Capitão Poço,Benevides
-mobility	c-136	3	Abaetetuba,Almeirim,Portel
-mobility	c-137	3	Mocajuba,Itupiranga,Uruará
-mobility	c-138	4	São Félix do Xingu,Acará,Concórdia do Pará,Terra Santa
-mobility	c-139	3	Rio Maria,Santana do Araguaia,São Domingos do Araguaia
-mobility	c-140	2	Santa Rita de Cássia,Seabra
-mobility	c-141	2	Castro Alves,Senhor do Bonfim
-mobility	c-142	2	Ibicaraí,Camacan
-mobility	c-143	2	Campo Formoso,Valente
+mobility	c-136	3	Abaetetuba,Portel,Almeirim
+mobility	c-137	3	Uruará,Itupiranga,Mocajuba
+mobility	c-138	4	São Félix do Xingu,Concórdia do Pará,Terra Santa,Acará
+mobility	c-139	3	Rio Maria,São Domingos do Araguaia,Santana do Araguaia
+mobility	c-140	2	Seabra,Santa Rita de Cássia
+mobility	c-141	2	Senhor do Bonfim,Castro Alves
+mobility	c-142	2	Camacan,Ibicaraí
+mobility	c-143	2	Valente,Campo Formoso
 mobility	c-144	2	Itacaré,Gandu
 mobility	c-145	2	Itajuípe,Maragogipe
-mobility	c-146	2	Belo Campo,Medeiros Neto
-mobility	c-147	4	Barra da Estiva,Ubatã,Uauá,São Sebastião do Passé
-mobility	c-148	7	Itanhém,Itatim,Santa Maria da Vitória,Conceição do Jacuípe,São Félix do Coribe,Caetité,Uruçuca
-mobility	c-149	3	Amargosa,Cachoeira,Miguel Calmon
-mobility	c-150	2	Entre Rios,Correntina
-mobility	c-151	3	Mutuípe,Alcobaça,Irará
-mobility	c-152	4	Caravelas,Cruz das Almas,Itabela,Madre de Deus
-mobility	c-153	2	Laje,Cândido Sales
-mobility	c-154	5	Capim Grosso,Iguaí,Muritiba,Lapão,Nova Viçosa
+mobility	c-146	2	Medeiros Neto,Belo Campo
+mobility	c-147	4	Ubatã,Uauá,Barra da Estiva,São Sebastião do Passé
+mobility	c-148	7	Conceição do Jacuípe,São Félix do Coribe,Itatim,Caetité,Santa Maria da Vitória,Itanhém,Uruçuca
+mobility	c-149	3	Cachoeira,Amargosa,Miguel Calmon
+mobility	c-150	2	Correntina,Entre Rios
+mobility	c-151	3	Alcobaça,Mutuípe,Irará
+mobility	c-152	4	Itabela,Madre de Deus,Caravelas,Cruz das Almas
+mobility	c-153	2	Cândido Sales,Laje
+mobility	c-154	5	Lapão,Iguaí,Muritiba,Nova Viçosa,Capim Grosso
 mobility	c-155	3	Ibotirama,Ribeira do Pombal,Coaraci
-mobility	c-156	6	Araci,Livramento de Nossa Senhora,Itiúba,Barra do Choça,Curaçá,Xique-Xique
-mobility	c-157	5	Euclides da Cunha,Bom Jesus da Lapa,Jaguaquara,Catu,Belmonte
-mobility	c-158	4	Santa Cruz Cabrália,Santo Amaro,Itarantim,Cansanção
-mobility	c-159	5	Alhandra,Ingá,Solânea,Alagoa Nova,Cuité
-mobility	c-160	3	Serra,Vila Velha,Guarapari
-mobility	c-161	2	Anchieta,Guaçuí
-mobility	c-162	19	São Roque do Canaã,Ecoporanga,Itapemirim,Bom Jesus do Norte,Pedro Canário,Marataízes,Iconha,Santa Leopoldina,Vila Valério,Venda Nova do Imigrante,Presidente Kennedy,Vargem Alta,Piúma,Domingos Martins,Montanha,Fundão,Iúna,Santa Maria de Jetibá,Pinheiros
+mobility	c-156	6	Araci,Curaçá,Itiúba,Livramento de Nossa Senhora,Xique-Xique,Barra do Choça
+mobility	c-157	5	Jaguaquara,Catu,Bom Jesus da Lapa,Euclides da Cunha,Belmonte
+mobility	c-158	4	Cansanção,Itarantim,Santa Cruz Cabrália,Santo Amaro
+mobility	c-159	5	Ingá,Solânea,Alagoa Nova,Alhandra,Cuité
+mobility	c-160	3	Guarapari,Vila Velha,Serra
+mobility	c-161	2	Guaçuí,Anchieta
+mobility	c-162	19	Domingos Martins,Presidente Kennedy,Iconha,Marataízes,Venda Nova do Imigrante,Montanha,Pedro Canário,Vila Valério,Vargem Alta,Bom Jesus do Norte,São Roque do Canaã,Piúma,Ecoporanga,Pinheiros,Iúna,Fundão,Santa Leopoldina,Santa Maria de Jetibá,Itapemirim
 mobility	c-163	2	Pancas,Marilândia
 mobility	c-164	2	Jucurutu,Ceará-Mirim
 mobility	c-165	2	Santa Cruz,São Miguel
-mobility	c-166	5	Caraúbas,Goianinha,Jardim de Piranhas,Macau,João Câmara
-mobility	c-167	2	Parnaíba,Teresina
-mobility	c-168	2	Palmeiras de Goiás,Goianápolis
-mobility	c-169	2	Piracanjuba,Piranhas
-mobility	c-170	4	Guapó,Rialma,Caçu,Cachoeira Alta
-mobility	c-171	10	Orizona,Ipameri,Jussara,Campinorte,Rubiataba,Caiapônia,Corumbaíba,Vianópolis,Posse,Sanclerlândia
-mobility	c-172	2	Marechal Deodoro,São José da Laje
+mobility	c-166	5	Caraúbas,Jardim de Piranhas,Macau,João Câmara,Goianinha
+mobility	c-167	2	Teresina,Parnaíba
+mobility	c-168	2	Goianápolis,Palmeiras de Goiás
+mobility	c-169	2	Piranhas,Piracanjuba
+mobility	c-170	4	Guapó,Rialma,Cachoeira Alta,Caçu
+mobility	c-171	10	Campinorte,Ipameri,Corumbaíba,Posse,Orizona,Jussara,Sanclerlândia,Vianópolis,Rubiataba,Caiapônia
+mobility	c-172	2	São José da Laje,Marechal Deodoro
 mobility	c-173	2	Penedo,Pão de Açúcar
-mobility	c-174	2	Tangará da Serra,Campo Novo do Parecis
-mobility	c-175	2	Canarana,Campos de Júlio
+mobility	c-174	2	Campo Novo do Parecis,Tangará da Serra
+mobility	c-175	2	Campos de Júlio,Canarana
 mobility	c-176	2	Diamantino,Aripuanã
 mobility	c-177	2	Nova Xavantina,Brasnorte
-mobility	c-178	4	Confresa,Tapurah,Peixoto de Azevedo,Mirassol d'Oeste
+mobility	c-178	4	Peixoto de Azevedo,Mirassol d'Oeste,Confresa,Tapurah
 mobility	c-179	2	Paraíso do Tocantins,Gurupi
-mobility	c-180	2	Dianópolis,Guaraí
-mobility	c-181	2	Pedro Afonso,Formoso do Araguaia
-mobility	c-182	3	Nova Mamoré,São Miguel do Guaporé,Colorado do Oeste
-mobility	c-183	2	Capela,Canindé de São Francisco
-mobility	c-184	2	Umbaúba,Itaporanga d'Ajuda
-mobility	c-185	3	Campo do Brito,Laranjeiras,Carira
-mobility	c-186	3	Nossa Senhora das Dores,Poço Redondo,Poço Verde
-mobility	c-187	3	Terenos,Cassilândia,Ladário
+mobility	c-180	2	Guaraí,Dianópolis
+mobility	c-181	2	Formoso do Araguaia,Pedro Afonso
+mobility	c-182	3	Nova Mamoré,Colorado do Oeste,São Miguel do Guaporé
+mobility	c-183	2	Canindé de São Francisco,Capela
+mobility	c-184	2	Itaporanga d'Ajuda,Umbaúba
+mobility	c-185	3	Campo do Brito,Carira,Laranjeiras
+mobility	c-186	3	Poço Redondo,Nossa Senhora das Dores,Poço Verde
+mobility	c-187	3	Ladário,Cassilândia,Terenos
 mobility	c-188	2	Sonora,Aparecida do Taboado
-mobility	c-189	14	Bela Vista,Itaquiraí,Caarapó,Porto Murtinho,Anastácio,Batayporã,Mundo Novo,Rio Verde de Mato Grosso,Nova Alvorada do Sul,Deodápolis,Água Clara,Glória de Dourados,Angélica,Camapuã
+mobility	c-189	14	Batayporã,Caarapó,Mundo Novo,Itaquiraí,Glória de Dourados,Bela Vista,Nova Alvorada do Sul,Rio Verde de Mato Grosso,Porto Murtinho,Anastácio,Deodápolis,Camapuã,Angélica,Água Clara
