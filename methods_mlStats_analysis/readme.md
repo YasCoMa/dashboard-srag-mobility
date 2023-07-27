@@ -29,14 +29,18 @@ This folder contains three algorithms to perform the following analysis:
 * [city-clustering] :
     - Using kmeans and elbow strategies:
         - **Command**: ````python3 clustering_by_outcome_mobi.py 1````
-	    - **Output files**: results_clustering_elbow.tsv and results_clustering_scenarios_outcome_from_mobility.tsv
+	    - **Output files**: results_clustering_elbow.tsv and results_clustering_kmeans.tsv
 	    - **Output folders** (for the grouped points visualization plots): clustering_cases, clustering_deaths and clustering_mobility
 	    
     - Using graph strategy:
         - **Command**: ````python3 clustering_by_outcome_mobi.py 2````
 	    - **Output file**: results_clustering_network.tsv
     
-    - Post processing analysis:
+    - Post processing analysis for kmeans:
         - **Command**: ````python3 clustering_by_outcome_mobi.py 3````
-	    - **Output file**: results_analysis_clustering_scenarios.tsv
+	    - **Output files**: results_summary_clusters_kmeans.tsv and results_analysis_clustering_kmeans.tsv
+    
+    - Post processing analysis for graph:
+        - **Command**: ````python3 clustering_by_outcome_mobi.py 3````
+	    - **Output files**: results_summary_clusters_network.tsv and results_analysis_clustering_network.tsv
 	
