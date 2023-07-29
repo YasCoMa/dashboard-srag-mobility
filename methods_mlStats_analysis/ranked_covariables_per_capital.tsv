@@ -1,0 +1,157 @@
+city	outcome	method	covariables	min_rmse	regions
+Rio Branco	Death	rmse_residual_glm	residential,workplaces	0.278629036278798	Norte
+Rio Branco	Death	rmse_residual_ols	residential,parks	0.2689377366424201	Norte
+Rio Branco	Cure	rmse_residual_glm	residential,parks	0.9347118111485464	Norte
+Rio Branco	Cure	rmse_residual_ols	residential,transit_stations	0.4281165611700286	Norte
+Rio Branco	Cases	rmse_residual_glm	residential,parks	0.9990876800228854	Norte
+Rio Branco	Cases	rmse_residual_ols	residential,parks	0.4594431512367318	Norte
+Macapá	Death	rmse_residual_glm	residential,grocery_and_pharmacy	0.7320160009311303	Norte
+Macapá	Death	rmse_residual_ols	residential,parks	0.3063689295206033	Norte
+Macapá	Cure	rmse_residual_glm	residential,grocery_and_pharmacy	0.7376538627438313	Norte
+Macapá	Cure	rmse_residual_ols	residential,grocery_and_pharmacy	0.3531238842959993	Norte
+Macapá	Cases	rmse_residual_glm	residential,grocery_and_pharmacy	0.7227201874136565	Norte
+Macapá	Cases	rmse_residual_ols	residential,grocery_and_pharmacy	0.3684654553545008	Norte
+Fortaleza	Death	rmse_residual_glm	residential,transit_stations	0.4258622744286892	Nordeste
+Fortaleza	Death	rmse_residual_ols	residential,parks	0.4431936817635725	Nordeste
+Fortaleza	Cure	rmse_residual_glm	residential,workplaces	0.6701963638432724	Nordeste
+Fortaleza	Cure	rmse_residual_ols	residential,grocery_and_pharmacy	0.3897878517995284	Nordeste
+Fortaleza	Cases	rmse_residual_glm	residential,workplaces	0.6656561632569657	Nordeste
+Fortaleza	Cases	rmse_residual_ols	residential,grocery_and_pharmacy	0.3998569787667325	Nordeste
+Aracaju	Death	rmse_residual_glm	residential	0.5359177818687239	Nordeste
+Aracaju	Death	rmse_residual_ols	residential,transit_stations	0.5338524439703497	Nordeste
+Aracaju	Cure	rmse_residual_glm	residential	0.5552959141058705	Nordeste
+Aracaju	Cure	rmse_residual_ols	residential,transit_stations	0.5233460745752522	Nordeste
+Aracaju	Cases	rmse_residual_glm	residential	0.5596129439735675	Nordeste
+Aracaju	Cases	rmse_residual_ols	residential,transit_stations	0.5724519754570419	Nordeste
+Vitória	Death	rmse_residual_glm	residential,grocery_and_pharmacy	0.4917142868365776	Sudeste
+Vitória	Death	rmse_residual_ols	residential,parks	0.3689640306283067	Sudeste
+Vitória	Cure	rmse_residual_glm	residential,grocery_and_pharmacy	0.3814928730082824	Sudeste
+Vitória	Cure	rmse_residual_ols	residential,parks	0.3407800195656835	Sudeste
+Vitória	Cases	rmse_residual_glm	residential,grocery_and_pharmacy	0.3868196457917469	Sudeste
+Vitória	Cases	rmse_residual_ols	residential,parks	0.3257476727840607	Sudeste
+João Pessoa	Death	rmse_residual_glm	residential,workplaces	0.4605382278567343	Nordeste
+João Pessoa	Death	rmse_residual_ols	residential,parks	0.3157935471071642	Nordeste
+João Pessoa	Cure	rmse_residual_glm	residential,workplaces	0.6080033451678569	Nordeste
+João Pessoa	Cure	rmse_residual_ols	residential,parks	0.3905851846860335	Nordeste
+João Pessoa	Cases	rmse_residual_glm	residential,workplaces	0.5021492474869995	Nordeste
+João Pessoa	Cases	rmse_residual_ols	residential,parks	0.3719317963545351	Nordeste
+Maceió	Death	rmse_residual_glm	residential,grocery_and_pharmacy	0.6427767960706618	Nordeste
+Maceió	Death	rmse_residual_ols	residential,retail_and_recreation	0.5137232889331291	Nordeste
+Maceió	Cure	rmse_residual_glm	residential,grocery_and_pharmacy	0.6461068182597606	Nordeste
+Maceió	Cure	rmse_residual_ols	residential,retail_and_recreation	0.5275512230923961	Nordeste
+Maceió	Cases	rmse_residual_glm	residential,grocery_and_pharmacy	0.5964671811739801	Nordeste
+Maceió	Cases	rmse_residual_ols	residential,retail_and_recreation	0.5178701774769061	Nordeste
+Cuiabá	Death	rmse_residual_glm	residential,retail_and_recreation	0.5008064992449203	Centro-Oeste
+Cuiabá	Death	rmse_residual_ols	residential,workplaces	0.4711823026495746	Centro-Oeste
+Cuiabá	Cure	rmse_residual_glm	residential,workplaces	1.8434242006366264	Centro-Oeste
+Cuiabá	Cure	rmse_residual_ols	residential,parks	0.4228723635367364	Centro-Oeste
+Cuiabá	Cases	rmse_residual_glm	residential,workplaces	1.6293288775317971	Centro-Oeste
+Cuiabá	Cases	rmse_residual_ols	residential,workplaces	0.4423304357597617	Centro-Oeste
+São Luís	Death	rmse_residual_glm	residential,grocery_and_pharmacy	0.4309057600586572	Nordeste
+São Luís	Death	rmse_residual_ols	residential,grocery_and_pharmacy	0.4350161359630593	Nordeste
+São Luís	Cure	rmse_residual_glm	residential,grocery_and_pharmacy	0.4839104822756811	Nordeste
+São Luís	Cure	rmse_residual_ols	residential,parks	0.474979063301364	Nordeste
+São Luís	Cases	rmse_residual_glm	residential,workplaces	0.511496132973992	Nordeste
+São Luís	Cases	rmse_residual_ols	residential,workplaces	0.5184031305046983	Nordeste
+Porto Alegre	Death	rmse_residual_glm	residential,grocery_and_pharmacy	0.5706984445546044	Sul
+Porto Alegre	Death	rmse_residual_ols	residential,transit_stations	0.4586067817111433	Sul
+Porto Alegre	Cure	rmse_residual_glm	residential,grocery_and_pharmacy	0.4483314386069277	Sul
+Porto Alegre	Cure	rmse_residual_ols	residential,transit_stations	0.3893759492240479	Sul
+Porto Alegre	Cases	rmse_residual_glm	residential,grocery_and_pharmacy	0.4416203235108093	Sul
+Porto Alegre	Cases	rmse_residual_ols	residential,transit_stations	0.3997879932603422	Sul
+Manaus	Death	rmse_residual_glm	residential,transit_stations	0.4709986133221729	Norte
+Manaus	Death	rmse_residual_ols	residential,workplaces	0.3748949681060989	Norte
+Manaus	Cure	rmse_residual_glm	residential,transit_stations	0.4138304689436322	Norte
+Manaus	Cure	rmse_residual_ols	residential,transit_stations	0.3457807697297866	Norte
+Manaus	Cases	rmse_residual_glm	residential,transit_stations	0.3941073864977191	Norte
+Manaus	Cases	rmse_residual_ols	residential,workplaces	0.3498216152344436	Norte
+Porto Velho	Death	rmse_residual_glm	residential,workplaces	0.412613717040923	Norte
+Porto Velho	Death	rmse_residual_ols	residential,workplaces	0.4025844171343819	Norte
+Porto Velho	Cure	rmse_residual_glm	residential,workplaces	0.4193503821117299	Norte
+Porto Velho	Cure	rmse_residual_ols	residential,workplaces	0.4232769442673615	Norte
+Porto Velho	Cases	rmse_residual_glm	residential,workplaces	0.4152000518404756	Norte
+Porto Velho	Cases	rmse_residual_ols	residential,workplaces	0.4045072089759259	Norte
+Belém	Death	rmse_residual_glm	residential,parks	0.4614190870660772	Norte
+Belém	Death	rmse_residual_ols	residential,parks	0.4773805373225794	Norte
+Belém	Cure	rmse_residual_glm	residential,transit_stations	0.6653014044140827	Norte
+Belém	Cure	rmse_residual_ols	residential,parks	0.4205093137074615	Norte
+Belém	Cases	rmse_residual_glm	residential,parks	0.6618880363738378	Norte
+Belém	Cases	rmse_residual_ols	residential,parks	0.5045020092061271	Norte
+Florianópolis	Death	rmse_residual_glm	residential,transit_stations	0.6382595514321624	Sul
+Florianópolis	Death	rmse_residual_ols	residential,retail_and_recreation	0.4431880784913359	Sul
+Florianópolis	Cure	rmse_residual_glm	residential,grocery_and_pharmacy	1.3696349796871028	Sul
+Florianópolis	Cure	rmse_residual_ols	residential,retail_and_recreation	0.4265153454636996	Sul
+Florianópolis	Cases	rmse_residual_glm	residential,grocery_and_pharmacy	1.216344762690255	Sul
+Florianópolis	Cases	rmse_residual_ols	residential,retail_and_recreation	0.4398409305530686	Sul
+Boa Vista	Death	rmse_residual_glm	residential,transit_stations	0.4458173921765824	Norte
+Boa Vista	Death	rmse_residual_ols	residential,parks	0.3755838537643692	Norte
+Boa Vista	Cure	rmse_residual_glm	residential,retail_and_recreation	0.4724776656298484	Norte
+Boa Vista	Cure	rmse_residual_ols	residential,parks	0.3534544494373393	Norte
+Boa Vista	Cases	rmse_residual_glm	residential,transit_stations	0.4657464939339304	Norte
+Boa Vista	Cases	rmse_residual_ols	residential,parks	0.3776119475839433	Norte
+Belo Horizonte	Death	rmse_residual_glm	residential,grocery_and_pharmacy	0.5653020761397656	Sudeste
+Belo Horizonte	Death	rmse_residual_ols	residential,parks	0.4967494246889767	Sudeste
+Belo Horizonte	Cure	rmse_residual_glm	residential,grocery_and_pharmacy	0.5208206555460659	Sudeste
+Belo Horizonte	Cure	rmse_residual_ols	residential,retail_and_recreation	0.4901394570804295	Sudeste
+Belo Horizonte	Cases	rmse_residual_glm	residential	0.5105482289174066	Sudeste
+Belo Horizonte	Cases	rmse_residual_ols	residential,parks	0.4838592158399359	Sudeste
+Curitiba	Death	rmse_residual_glm	residential,transit_stations	0.6407949866087579	Sul
+Curitiba	Death	rmse_residual_ols	residential,workplaces	0.5084405343040492	Sul
+Curitiba	Cure	rmse_residual_glm	residential,transit_stations	0.6384210352106278	Sul
+Curitiba	Cure	rmse_residual_ols	residential,workplaces	0.5240534252174869	Sul
+Curitiba	Cases	rmse_residual_glm	residential,transit_stations	0.5424248649671879	Sul
+Curitiba	Cases	rmse_residual_ols	residential,workplaces	0.5150624288782025	Sul
+São Paulo	Death	rmse_residual_glm	residential,workplaces	1.0437596213475362	Sudeste
+São Paulo	Death	rmse_residual_ols	residential,parks	0.3293975808753707	Sudeste
+São Paulo	Cure	rmse_residual_glm	residential,workplaces	0.9461467411393768	Sudeste
+São Paulo	Cure	rmse_residual_ols	residential,grocery_and_pharmacy	0.4388009610375701	Sudeste
+São Paulo	Cases	rmse_residual_glm	residential,workplaces	0.8859315978110446	Sudeste
+São Paulo	Cases	rmse_residual_ols	residential,grocery_and_pharmacy	0.4477096127125577	Sudeste
+Recife	Death	rmse_residual_glm	residential,workplaces	0.9759456818931814	Nordeste
+Recife	Death	rmse_residual_ols	residential,parks	0.3350170338121671	Nordeste
+Recife	Cure	rmse_residual_glm	residential,parks	0.907461444648544	Nordeste
+Recife	Cure	rmse_residual_ols	residential,parks	0.360328213920578	Nordeste
+Recife	Cases	rmse_residual_glm	residential,retail_and_recreation	1.0614876659586996	Nordeste
+Recife	Cases	rmse_residual_ols	residential,parks	0.313328373373635	Nordeste
+Rio de Janeiro	Death	rmse_residual_glm	residential,workplaces	0.8033638234383567	Sudeste
+Rio de Janeiro	Death	rmse_residual_ols	residential,parks	0.4748658765098035	Sudeste
+Rio de Janeiro	Cure	rmse_residual_glm	residential,workplaces	0.8104734753692185	Sudeste
+Rio de Janeiro	Cure	rmse_residual_ols	residential,parks	0.4661201152565945	Sudeste
+Rio de Janeiro	Cases	rmse_residual_glm	residential,workplaces	0.7746012026012215	Sudeste
+Rio de Janeiro	Cases	rmse_residual_ols	residential,parks	0.4845786180369271	Sudeste
+Campo Grande	Death	rmse_residual_glm	residential,retail_and_recreation	0.5603652074833592	Centro-Oeste
+Campo Grande	Death	rmse_residual_ols	residential,retail_and_recreation	0.56487092046808	Centro-Oeste
+Campo Grande	Cure	rmse_residual_glm	residential,transit_stations	0.9740531843802706	Centro-Oeste
+Campo Grande	Cure	rmse_residual_ols	residential,retail_and_recreation	0.545189613701727	Centro-Oeste
+Campo Grande	Cases	rmse_residual_glm	residential,transit_stations	0.812687343917718	Centro-Oeste
+Campo Grande	Cases	rmse_residual_ols	residential,retail_and_recreation	0.5616435937648623	Centro-Oeste
+Salvador	Death	rmse_residual_glm	residential,grocery_and_pharmacy	0.4953460988572545	Nordeste
+Salvador	Death	rmse_residual_ols	residential,retail_and_recreation	0.461027636123202	Nordeste
+Salvador	Cure	rmse_residual_glm	residential,parks	0.54067550025421	Nordeste
+Salvador	Cure	rmse_residual_ols	residential,parks	0.5194447420293046	Nordeste
+Salvador	Cases	rmse_residual_glm	residential,parks	0.4763699284682764	Nordeste
+Salvador	Cases	rmse_residual_ols	residential,parks	0.4851682289360058	Nordeste
+Palmas	Death	rmse_residual_glm	residential,transit_stations	4.686056071016114	Norte
+Palmas	Death	rmse_residual_ols	residential,workplaces	0.429762572957889	Norte
+Palmas	Cure	rmse_residual_glm	residential,retail_and_recreation	0.953046498337307	Norte
+Palmas	Cure	rmse_residual_ols	residential,grocery_and_pharmacy	0.3391860442457915	Norte
+Palmas	Cases	rmse_residual_glm	residential,transit_stations	4.416778793550242	Norte
+Palmas	Cases	rmse_residual_ols	residential,workplaces	0.4054106165037491	Norte
+Goiânia	Death	rmse_residual_glm	residential,grocery_and_pharmacy	0.5579182790652739	Centro-Oeste
+Goiânia	Death	rmse_residual_ols	residential,parks	0.4391741873655006	Centro-Oeste
+Goiânia	Cure	rmse_residual_glm	residential,retail_and_recreation	0.9386932177110412	Centro-Oeste
+Goiânia	Cure	rmse_residual_ols	residential,parks	0.4555654476470813	Centro-Oeste
+Goiânia	Cases	rmse_residual_glm	residential,retail_and_recreation	0.8908989103232917	Centro-Oeste
+Goiânia	Cases	rmse_residual_ols	residential,parks	0.4651386414026622	Centro-Oeste
+Teresina	Death	rmse_residual_glm	residential,grocery_and_pharmacy	0.4420669455319827	Nordeste
+Teresina	Death	rmse_residual_ols	residential,transit_stations	0.3477319065639581	Nordeste
+Teresina	Cure	rmse_residual_glm	residential,workplaces	0.5558712076254229	Nordeste
+Teresina	Cure	rmse_residual_ols	residential,transit_stations	0.3772275058376474	Nordeste
+Teresina	Cases	rmse_residual_glm	residential,workplaces	0.4828521397810932	Nordeste
+Teresina	Cases	rmse_residual_ols	residential,transit_stations	0.3849708267961434	Nordeste
+Natal	Death	rmse_residual_glm	residential,grocery_and_pharmacy	0.4809766689115173	Nordeste
+Natal	Death	rmse_residual_ols	residential,grocery_and_pharmacy	0.4551533255352807	Nordeste
+Natal	Cure	rmse_residual_glm	residential,grocery_and_pharmacy	0.4097607129523766	Nordeste
+Natal	Cure	rmse_residual_ols	residential,transit_stations	0.3938485056180358	Nordeste
+Natal	Cases	rmse_residual_glm	residential,grocery_and_pharmacy	0.4021653327453405	Nordeste
+Natal	Cases	rmse_residual_ols	residential,grocery_and_pharmacy	0.4002796400642679	Nordeste

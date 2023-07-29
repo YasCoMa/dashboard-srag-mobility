@@ -2,7 +2,7 @@ import pandas as pd
 
 def find_waves_cities():
     g=open("waves_cities.tsv","w")
-    g.write("city\ttotal_waves\twave_order\tpeak\tindexes\tdates\n")
+    g.write("city\ttotal_waves\twave_order\tpeak\tindexes\tdates\tcase_numbers\n")
     g.close()
     
     fg=open("not_detected_wave.tsv","w")
@@ -30,11 +30,14 @@ def find_waves_cities():
                 dates = s['period'].values[ inds ]
                 dates = ','.join(dates)
                 
-                inds = [ str(j) for j in inds ]
-                inds = ','.join(inds)
+                sinds = [ str(j) for j in inds ]
+                sinds = ','.join(sinds)
+                
+                ncases = [ str(se[j]) for j in inds ]
+                ncases = ','.join(ncases)
                 
                 with open("waves_cities.tsv","a") as g:
-                    g.write(f"{c}\t{n}\t{i}\t{peak}\t{inds}\t{dates}\n")
+                    g.write(f"{c}\t{n}\t{i}\t{peak}\t{sinds}\t{dates}\t{ncases}\n")
                 i+=1
             k+=1
             
