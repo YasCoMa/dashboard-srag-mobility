@@ -38,3 +38,6 @@ You can see a live demo [here](https://dashboard-srag-mobility-pipn9w3yh7p.strea
 	
 ## Advanced statistical and machine learning analysis on this data
 * Go to the specific instructions in [methods_mlStats_analysis folder](https://github.com/YasCoMa/dashboard-srag-mobility/tree/master/methods_mlStats_analysis)
+
+## Reference
+Martins, Y. C., & Francisco Jr, R. D. S. (2023). survInTime - Exploring surveillance methods and data analysis on Brazilian respiratory syndrome dataset and community mobility changes. bioRxiv, 2023-09.
