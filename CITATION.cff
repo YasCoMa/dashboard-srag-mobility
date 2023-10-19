@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SurvInTime - Surveillance methods and Dashboard for analysis of Severe Acute Respiratory Syndrome (srag) dataset and Google's community mobility change (mobility) in Streamlit"
+version: 1.0.0
+date-released: 2023-07-12
+url: "https://github.com/YasCoMa/dashboard-srag-mobility"
+authors:
+- family-names: "Martins"
+  given-names: "Yasmmin"
+  orcid: "https://orcid.org/0000-0002-6830-1948"

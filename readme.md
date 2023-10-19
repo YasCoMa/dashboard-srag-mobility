@@ -1,4 +1,4 @@
-# Dashboard for analysis of Severe Acute Respiratory Syndrome (srag) dataset and Google's community mobility change (mobility) in Streamlit
+# SurvInTime - Surveillance methods and Dashboard for analysis of Severe Acute Respiratory Syndrome (srag) dataset and Google's community mobility change (mobility) in Streamlit
 
 ## Summary
 This tool performs a series of exploration analysis in the two datasets about covid-19 that were released along the pandemic: 
